@@ -1,17 +1,19 @@
 {
-  "updated": "2026-08-05T15:06:26.632Z",
+  "updated": "2026-08-05T15:11:29.335Z",
   "cht": {
     "name": "中華電信",
-    "reachable": true,
-    "normalTextFound": true,
-    "reports": 0,
+    "reachable": false,
+    "blocked": true,
+    "normalTextFound": false,
+    "reports": null,
     "topProblem": {
-      "share": 67,
-      "label": "Broadband Internet"
+      "label": "",
+      "share": 0
     },
     "level": "green",
-    "message": "User reports show no current problems with Chunghwa Telecom 中華電信",
-    "sample": "Skip to main content\nBack to home\n/\nChunghwa Telecom 中華電信\nUser reports show no current problems with Chunghwa Telecom 中華電信\n\nChunghwa Telecom provides broadband internet, mobile network services, fiber optic connections, HiNet ISP access, MOD digital TV streaming and cloud solutions across Taiwan for residential and enterprise customers.\n\nReport a problem\n\nSelect which issue applies\n\nBilling\nBroadband Internet\nMobile Internet\nMobile Signal\nTexting / SMS\nTV\nVoice Calls\nWiFi\nJump to comments\nChunghwa Telecom 中華電信 problems reported in the last 24 hours\n6 PM\n9 PM\n12 AM\n3 AM\n6 AM\n9 AM\n12 PM\n0\n10\n20\n"
+    "message": "",
+    "error": "Blocked by Cloudflare verification",
+    "sample": "downdetector.tw\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a266bc107fe6ead0\nPerformance and Security by Cloudflare\nPrivacy"
   },
   "fet": {
     "name": "遠傳電信",
