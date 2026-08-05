@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "check:downdetector": "node scripts/check-downdetector.js",
+    "update:network-status": "node scripts/update-network-status.js"
+  },
+  "dependencies": {
+    "puppeteer": "^24.0.0"
+  }
+}
