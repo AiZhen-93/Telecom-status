@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T07:50:48.064Z",
+  "updated": "2026-08-06T08:00:42.622Z",
   "cht": {
     "name": "中華電信",
     "reachable": false,
@@ -13,7 +13,7 @@
     "level": "green",
     "message": "",
     "error": "Blocked by Cloudflare verification",
-    "sample": "downdetector.tw\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a26c73e6fde6dec3\nPerformance and Security by Cloudflare\nPrivacy"
+    "sample": "downdetector.tw\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a26c826b09bf7d9d\nPerformance and Security by Cloudflare\nPrivacy"
   },
   "fet": {
     "name": "遠傳電信",
