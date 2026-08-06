@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-06T12:40:34.536Z",
+  "updated": "2026-08-06T12:50:34.742Z",
   "cht": {
     "name": "中華電信",
     "reachable": true,
     "normalTextFound": false,
     "reports": 0,
     "topProblem": {
-      "share": 50,
+      "share": 47,
       "label": "Broadband Internet"
     },
     "level": "green",
@@ -32,8 +32,8 @@
     "normalTextFound": true,
     "reports": 0,
     "topProblem": {
-      "share": 33,
-      "label": "Mobile Internet"
+      "share": 43,
+      "label": "WiFi"
     },
     "level": "green",
     "message": "User reports show no current problems with Taiwan Mobile 台灣大哥大",
