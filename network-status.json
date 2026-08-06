@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T14:50:38.276Z",
+  "updated": "2026-08-06T15:00:48.956Z",
   "cht": {
     "name": "中華電信",
     "reachable": true,
@@ -32,7 +32,7 @@
     "normalTextFound": true,
     "reports": 0,
     "topProblem": {
-      "share": 43,
+      "share": 50,
       "label": "WiFi"
     },
     "level": "green",
