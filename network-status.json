@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-06T01:40:41.036Z",
+  "updated": "2026-08-06T01:50:39.455Z",
   "cht": {
     "name": "中華電信",
     "reachable": true,
     "normalTextFound": true,
     "reports": 0,
     "topProblem": {
-      "share": 89,
+      "share": 88,
       "label": "Broadband Internet"
     },
     "level": "green",
