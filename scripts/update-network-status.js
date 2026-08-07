@@ -34,10 +34,61 @@ function isBlockedPage(text) {
   );
 }
 
-function parseReportCount(text) {
-  const match = text.match(/problems reported in the last 24 hours[\s\S]*?\n([\d,]+)\n/i);
-  if (!match) return 0;
-  return Number(match[1].replace(/,/g, "")) || 0;
+function extractReportPoints(html) {
+  const points = [];
+  const now = Date.now();
+  const numericPairPattern = /\[\s*(\d{10,13})\s*,\s*(\d{1,6})\s*\]/g;
+  const objectPointPattern = /["']?(?:x|date|time|timestamp)["']?\s*:\s*(\d{10,13})\s*,\s*["']?(?:y|value|count|reports)["']?\s*:\s*(\d{1,6})/g;
+  let match;
+
+  while ((match = numericPairPattern.exec(html))) {
+    const timestamp = Number(match[1]);
+    const count = Number(match[2]);
+    points.push({
+      timestamp: timestamp < 1000000000000 ? timestamp * 1000 : timestamp,
+      count,
+    });
+  }
+
+  while ((match = objectPointPattern.exec(html))) {
+    const timestamp = Number(match[1]);
+    const count = Number(match[2]);
+    points.push({
+      timestamp: timestamp < 1000000000000 ? timestamp * 1000 : timestamp,
+      count,
+    });
+  }
+
+  const deduped = new Map();
+  points
+    .filter((point) =>
+      Number.isFinite(point.timestamp) &&
+      Number.isFinite(point.count) &&
+      point.timestamp > now - 25 * 60 * 60 * 1000 &&
+      point.timestamp < now + 10 * 60 * 1000
+    )
+    .forEach((point) => {
+      deduped.set(`${point.timestamp}:${point.count}`, point);
+    });
+
+  return [...deduped.values()].sort((a, b) => a.timestamp - b.timestamp);
+}
+
+function parseLatestReportPoint(html) {
+  const points = extractReportPoints(html);
+  const latestPoint = points[points.length - 1];
+
+  if (!latestPoint) {
+    return {
+      reports: 0,
+      latestPointTime: null,
+    };
+  }
+
+  return {
+    reports: latestPoint.count,
+    latestPointTime: new Date(latestPoint.timestamp).toISOString(),
+  };
 }
 
 function parseTopProblem(text) {
@@ -57,9 +108,9 @@ function decideLevel({ normalTextFound, reports, topProblem }) {
     topProblem.share > 30;
 
   if (broadbandOnly) return "green";
-  if (normalTextFound) return "green";
   if (reports > 100) return "red";
   if (reports > 10) return "yellow";
+  if (normalTextFound) return "green";
   return "green";
 }
 
@@ -69,7 +120,10 @@ async function scrapeOperator(page, key, operator) {
     timeout: 60000,
   });
 
-  const text = await page.evaluate(() => document.body.innerText);
+  const { text, html } = await page.evaluate(() => ({
+    text: document.body.innerText,
+    html: document.body.innerHTML,
+  }));
   if (isBlockedPage(text)) {
     return {
       name: operator.name,
@@ -77,6 +131,7 @@ async function scrapeOperator(page, key, operator) {
       blocked: true,
       normalTextFound: false,
       reports: null,
+      latestPointTime: null,
       topProblem: { label: "", share: 0 },
       level: "green",
       message: "",
@@ -85,7 +140,7 @@ async function scrapeOperator(page, key, operator) {
     };
   }
   const normalTextFound = parseNormalText(text);
-  const reports = parseReportCount(text);
+  const { reports, latestPointTime } = parseLatestReportPoint(html);
   const topProblem = parseTopProblem(text);
   const level = decideLevel({ normalTextFound, reports, topProblem });
 
@@ -94,6 +149,7 @@ async function scrapeOperator(page, key, operator) {
     reachable: true,
     normalTextFound,
     reports,
+    latestPointTime,
     topProblem,
     level,
     message: text.split("\n").find((line) =>
@@ -128,6 +184,7 @@ async function main() {
         reachable: false,
         normalTextFound: false,
         reports: null,
+        latestPointTime: null,
         topProblem: { label: "", share: 0 },
         level: "green",
         message: "",
