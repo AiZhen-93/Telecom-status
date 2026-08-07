@@ -148,9 +148,11 @@ function parseLatestReportPoint(sources) {
   const latestPoint = points[points.length - 1];
 
   if (!latestPoint) {
+    const peakReports = parseChartPeakReports(sources);
     return {
-      reports: 0,
+      reports: peakReports,
       latestPointTime: null,
+      reportCountSource: peakReports > 0 ? "chartPeak" : "none",
       reportPointCount: 0,
     };
   }
@@ -158,8 +160,20 @@ function parseLatestReportPoint(sources) {
   return {
     reports: latestPoint.count,
     latestPointTime: new Date(latestPoint.timestamp).toISOString(),
+    reportCountSource: "latestPoint",
     reportPointCount: points.length,
   };
+}
+
+function parseChartPeakReports(sources) {
+  for (const source of sources) {
+    const match = source.match(/Reports chart for the last 24 hours with a peak of\s+([\d,]+)\s+reports?/i);
+    if (match) {
+      return Number(match[1].replace(/,/g, "")) || 0;
+    }
+  }
+
+  return 0;
 }
 
 function findSnippet(source, pattern) {
@@ -210,14 +224,17 @@ function parseTopProblem(text) {
   };
 }
 
-function decideLevel({ normalTextFound, reports, topProblem }) {
+function decideLevel({ normalTextFound, reports, reportCountSource, topProblem }) {
   const broadbandOnly =
     /Broadband Internet|寬頻網路/i.test(topProblem.label) &&
     topProblem.share > 30;
+  const canUseReportThresholds =
+    reportCountSource === "latestPoint" ||
+    (reportCountSource === "chartPeak" && !normalTextFound);
 
   if (broadbandOnly) return "green";
-  if (reports > 100) return "red";
-  if (reports > 10) return "yellow";
+  if (canUseReportThresholds && reports > 100) return "red";
+  if (canUseReportThresholds && reports > 10) return "yellow";
   if (normalTextFound) return "green";
   return "green";
 }
@@ -287,9 +304,10 @@ async function scrapeOperator(browser, key, operator) {
         reachable: false,
         blocked: true,
         normalTextFound: false,
-        reports: null,
-        latestPointTime: null,
-        reportPointCount: 0,
+      reports: null,
+      latestPointTime: null,
+      reportCountSource: "none",
+      reportPointCount: 0,
         topProblem: { label: "", share: 0 },
         level: "green",
         message: "",
@@ -304,6 +322,7 @@ async function scrapeOperator(browser, key, operator) {
     const level = decideLevel({
       normalTextFound,
       reports: reportPoint.reports,
+      reportCountSource: reportPoint.reportCountSource,
       topProblem,
     });
 
@@ -313,6 +332,7 @@ async function scrapeOperator(browser, key, operator) {
       normalTextFound,
       reports: reportPoint.reports,
       latestPointTime: reportPoint.latestPointTime,
+      reportCountSource: reportPoint.reportCountSource,
       reportPointCount: reportPoint.reportPointCount,
       responseSourceCount: responseBodies.length,
       responseDebug: reportPoint.reportPointCount === 0
@@ -355,6 +375,7 @@ async function main() {
         normalTextFound: false,
         reports: null,
         latestPointTime: null,
+        reportCountSource: "none",
         reportPointCount: 0,
         topProblem: { label: "", share: 0 },
         level: "green",
