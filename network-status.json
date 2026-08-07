@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T23:20:41.658Z",
+  "updated": "2026-08-07T23:30:45.443Z",
   "cht": {
     "name": "中華電信",
     "reachable": true,
@@ -13,7 +13,7 @@
       {
         "url": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
         "contentType": "text/html; charset=utf-8",
-        "length": 294934,
+        "length": 294929,
         "hasTimestamp": true,
         "hasReportKeyword": true
       },
@@ -46,6 +46,13 @@
         "hasReportKeyword": true
       },
       {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/8806-7e0455fc6ebad6b1.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/javascript",
+        "length": 11337,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-44b94921d78d9e86.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "text/javascript",
         "length": 13453,
@@ -57,13 +64,6 @@
         "contentType": "text/javascript",
         "length": 475524,
         "hasTimestamp": true,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/8806-7e0455fc6ebad6b1.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
-        "contentType": "text/javascript",
-        "length": 11337,
-        "hasTimestamp": false,
         "hasReportKeyword": true
       },
       {
@@ -99,7 +99,7 @@
       {
         "url": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
         "contentType": "text/html; charset=utf-8",
-        "length": 294934,
+        "length": 294929,
         "snippet": "多回報的問題</h2></div></div><div class=\"flex-grow flex flex-col\"><div class=\"flex-grow flex items-center\"><div class=\"flex flex-row justify-around gap-6 w-full\" role=\"list\" aria-label=\"Most reported problems breakdown\"><div class=\"flex flex-col items-center flex-1 min-w-0 max-w-[140px]\" role=\"listitem\" aria-label=\"WiFi: 40 percent of reports, 2 reports\"><div class=\"relative\" aria-hidden=\"true\"><div class=\"relative w-[80px] h-[80px]\"><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--></div><div class=\"absolute inset-0 flex items-center justify-center pointer-events-n"
       },
       {
@@ -161,22 +161,8 @@
     "latestPointTime": null,
     "reportCountSource": "none",
     "reportPointCount": 0,
-    "responseSourceCount": 63,
+    "responseSourceCount": 64,
     "responseDebug": [
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
-        "contentType": "",
-        "length": 414097,
-        "hasTimestamp": true,
-        "hasReportKeyword": false
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
-        "contentType": "",
-        "length": 428464,
-        "hasTimestamp": true,
-        "hasReportKeyword": false
-      },
       {
         "url": "https://cdn3.downdetector.com/_next/static/css/96a561f7654b5539.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "",
@@ -192,11 +178,32 @@
         "hasReportKeyword": false
       },
       {
+        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 428464,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 414097,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "",
         "length": 121317,
         "hasTimestamp": true,
         "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 200619,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-2d360a02fc67ed32.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
@@ -210,13 +217,6 @@
         "contentType": "",
         "length": 16796,
         "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-        "contentType": "text/html; charset=utf-8",
-        "length": 283653,
-        "hasTimestamp": true,
         "hasReportKeyword": true
       },
       {
@@ -241,9 +241,9 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-5c97a77d5cca3e3a.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "",
-        "length": 200619,
+        "length": 37425,
         "hasTimestamp": false,
         "hasReportKeyword": true
       }
@@ -252,20 +252,8 @@
       {
         "url": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
         "contentType": "text/html; charset=utf-8",
-        "length": 283653,
+        "length": 283650,
         "snippet": "ush([0,{\"children\":\"window.PogoConfig = {\\\"template\\\":\\\"status\\\",\\\"service\\\":\\\"far-eastone-telecommunications-fet-yuan-chuan-dian-xin\\\",\\\"category\\\":\\\"Mobile Network Operators\\\",\\\"outage\\\":false};\",\"id\":\"pogo-config\"}])</script><script id=\"organization-json-ld\" type=\"application/ld+json\">{\"@context\":\"https://schema.org/\",\"@type\":\"Organization\",\"name\":\"Far EasTone Telecommunications (FET) 遠傳電信\",\"url\":\"https://www.fetnet.net/\",\"logo\":[\"https://cdn2.downdetector.com/static/uploads/logo/download-4_iEBkQ8w.png\"],\"description\":\"Far EasTone Telecommunications 是一家位於台灣的電信公司。\",\"review\":{\"@type\":\"Review\""
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
-        "contentType": "",
-        "length": 414097,
-        "snippet": "@font-face{font-family:Noto Sans JP;font-style:normal;font-weight:400;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/ab3bd16111852789-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+25ee8,u+25f23,u+25f5c,u+25fd4,u+25fe0,u+25ffb,u+2600c,u+26017,u+26060,u+260ed,u+26222,u+2626a,u+26270,u+26286,u+2634c,u+26402,u+2667e,u+266b0,u+2671d,u+268dd,u+268ea,u+26951,u+2696f,u+26999,u+269dd,u+26a1e,u+26a58,u+26a8c,u+26ab7,u+26aff,u+26c29,u+26c73,u+26c9e,u+26cdd,u+26e40,u+26e65,u+26f94,u+26ff6-26ff8,u+270f4,u+2710"
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
-        "contentType": "",
-        "length": 428464,
-        "snippet": "cd4,u+6cd6-6cd7,u+6cd9-6cda,u+6cdc}@font-face{font-family:Noto Sans TC;font-style:normal;font-weight:400;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/8333693365059aac-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+6a35,u+6a3b,u+6a3e-6a40,u+6a47-6a48,u+6a50,u+6a52,u+6a55-6a57,u+6a5a-6a5b,u+6a5e,u+6a62,u+6a66,u+6a6a,u+6a71,u+6a79,u+6a7c,u+6a7e-6a81,u+6a84,u+6a87,u+6a89,u+6a8d-6a8e,u+6a90-6a92,u+6a97,u+6a9c,u+6a9e-6aa1,u+6aa3-6aa5,u+6aa8,u+6aab,u+6aae,u+6ab5,u+6aba,u+6abe,u+6ac2,u+6ac5-6ac6,u+6ac8-6ac9,u+6acc,u+6ad3,u+6ada-6adb,"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/css/96a561f7654b5539.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
@@ -278,6 +266,18 @@
         "contentType": "",
         "length": 21541,
         "snippet": "a7ff}@font-face{font-family:Noto Sans Devanagari;font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/85ec3505000466ce-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+0304,u+0308,u+0329,u+2000-206f,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-family:Noto Sans Devanagari;font-style:normal;font-weight:500;font-stretch:100%;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/ca60"
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 428464,
+        "snippet": "cd4,u+6cd6-6cd7,u+6cd9-6cda,u+6cdc}@font-face{font-family:Noto Sans TC;font-style:normal;font-weight:400;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/8333693365059aac-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+6a35,u+6a3b,u+6a3e-6a40,u+6a47-6a48,u+6a50,u+6a52,u+6a55-6a57,u+6a5a-6a5b,u+6a5e,u+6a62,u+6a66,u+6a6a,u+6a71,u+6a79,u+6a7c,u+6a7e-6a81,u+6a84,u+6a87,u+6a89,u+6a8d-6a8e,u+6a90-6a92,u+6a97,u+6a9c,u+6a9e-6aa1,u+6aa3-6aa5,u+6aa8,u+6aab,u+6aae,u+6ab5,u+6aba,u+6abe,u+6ac2,u+6ac5-6ac6,u+6ac8-6ac9,u+6acc,u+6ad3,u+6ada-6adb,"
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 414097,
+        "snippet": "@font-face{font-family:Noto Sans JP;font-style:normal;font-weight:400;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/ab3bd16111852789-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+25ee8,u+25f23,u+25f5c,u+25fd4,u+25fe0,u+25ffb,u+2600c,u+26017,u+26060,u+260ed,u+26222,u+2626a,u+26270,u+26286,u+2634c,u+26402,u+2667e,u+266b0,u+2671d,u+268dd,u+268ea,u+26951,u+2696f,u+26999,u+269dd,u+26a1e,u+26a58,u+26a8c,u+26ab7,u+26aff,u+26c29,u+26c73,u+26c9e,u+26cdd,u+26e40,u+26e65,u+26f94,u+26ff6-26ff8,u+270f4,u+2710"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
@@ -317,9 +317,9 @@
     "responseSourceCount": 66,
     "responseDebug": [
       {
-        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "",
-        "length": 428464,
+        "length": 414097,
         "hasTimestamp": true,
         "hasReportKeyword": false
       },
@@ -331,9 +331,9 @@
         "hasReportKeyword": false
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "",
-        "length": 414097,
+        "length": 428464,
         "hasTimestamp": true,
         "hasReportKeyword": false
       },
@@ -345,11 +345,25 @@
         "hasReportKeyword": true
       },
       {
+        "url": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
+        "contentType": "text/html; charset=utf-8",
+        "length": 294848,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "",
         "length": 121317,
         "hasTimestamp": true,
         "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 200619,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-2d360a02fc67ed32.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
@@ -380,23 +394,9 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
-        "contentType": "",
-        "length": 200619,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-c71ee47d69badaaa.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "",
         "length": 24529,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/6707-111d9c928bd7852e.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
-        "contentType": "",
-        "length": 33449,
         "hasTimestamp": false,
         "hasReportKeyword": true
       }
@@ -405,14 +405,14 @@
       {
         "url": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
         "contentType": "text/html; charset=utf-8",
-        "length": 294800,
+        "length": 294848,
         "snippet": "多回報的問題</h2></div></div><div class=\"flex-grow flex flex-col\"><div class=\"flex-grow flex items-center\"><div class=\"flex flex-row justify-around gap-6 w-full\" role=\"list\" aria-label=\"Most reported problems breakdown\"><div class=\"flex flex-col items-center flex-1 min-w-0 max-w-[140px]\" role=\"listitem\" aria-label=\"行動訊號: 50 percent of reports, 3 reports\"><div class=\"relative\" aria-hidden=\"true\"><div class=\"relative w-[80px] h-[80px]\"><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--></div><div class=\"absolute inset-0 flex items-center justify-center pointer-events-n"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "",
-        "length": 428464,
-        "snippet": "cd4,u+6cd6-6cd7,u+6cd9-6cda,u+6cdc}@font-face{font-family:Noto Sans TC;font-style:normal;font-weight:400;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/8333693365059aac-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+6a35,u+6a3b,u+6a3e-6a40,u+6a47-6a48,u+6a50,u+6a52,u+6a55-6a57,u+6a5a-6a5b,u+6a5e,u+6a62,u+6a66,u+6a6a,u+6a71,u+6a79,u+6a7c,u+6a7e-6a81,u+6a84,u+6a87,u+6a89,u+6a8d-6a8e,u+6a90-6a92,u+6a97,u+6a9c,u+6a9e-6aa1,u+6aa3-6aa5,u+6aa8,u+6aab,u+6aae,u+6ab5,u+6aba,u+6abe,u+6ac2,u+6ac5-6ac6,u+6ac8-6ac9,u+6acc,u+6ad3,u+6ada-6adb,"
+        "length": 414097,
+        "snippet": "@font-face{font-family:Noto Sans JP;font-style:normal;font-weight:400;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/ab3bd16111852789-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+25ee8,u+25f23,u+25f5c,u+25fd4,u+25fe0,u+25ffb,u+2600c,u+26017,u+26060,u+260ed,u+26222,u+2626a,u+26270,u+26286,u+2634c,u+26402,u+2667e,u+266b0,u+2671d,u+268dd,u+268ea,u+26951,u+2696f,u+26999,u+269dd,u+26a1e,u+26a58,u+26a8c,u+26ab7,u+26aff,u+26c29,u+26c73,u+26c9e,u+26cdd,u+26e40,u+26e65,u+26f94,u+26ff6-26ff8,u+270f4,u+2710"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/css/c8a42b366d5c5585.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
@@ -421,10 +421,10 @@
         "snippet": "a7ff}@font-face{font-family:Noto Sans Devanagari;font-style:normal;font-weight:400;font-stretch:100%;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/85ec3505000466ce-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+00??,u+0131,u+0152-0153,u+02bb-02bc,u+02c6,u+02da,u+02dc,u+0304,u+0308,u+0329,u+2000-206f,u+20ac,u+2122,u+2191,u+2193,u+2212,u+2215,u+feff,u+fffd}@font-face{font-family:Noto Sans Devanagari;font-style:normal;font-weight:500;font-stretch:100%;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/ca60"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
         "contentType": "",
-        "length": 414097,
-        "snippet": "@font-face{font-family:Noto Sans JP;font-style:normal;font-weight:400;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/ab3bd16111852789-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+25ee8,u+25f23,u+25f5c,u+25fd4,u+25fe0,u+25ffb,u+2600c,u+26017,u+26060,u+260ed,u+26222,u+2626a,u+26270,u+26286,u+2634c,u+26402,u+2667e,u+266b0,u+2671d,u+268dd,u+268ea,u+26951,u+2696f,u+26999,u+269dd,u+26a1e,u+26a58,u+26a8c,u+26ab7,u+26aff,u+26c29,u+26c73,u+26c9e,u+26cdd,u+26e40,u+26e65,u+26f94,u+26ff6-26ff8,u+270f4,u+2710"
+        "length": 428464,
+        "snippet": "cd4,u+6cd6-6cd7,u+6cd9-6cda,u+6cdc}@font-face{font-family:Noto Sans TC;font-style:normal;font-weight:400;font-display:swap;src:url(https://cdn3.downdetector.com/_next/static/media/8333693365059aac-s.woff2?dpl=701635369d414e15be22975e484f079d8f4c2e30) format(\"woff2\");unicode-range:u+6a35,u+6a3b,u+6a3e-6a40,u+6a47-6a48,u+6a50,u+6a52,u+6a55-6a57,u+6a5a-6a5b,u+6a5e,u+6a62,u+6a66,u+6a6a,u+6a71,u+6a79,u+6a7c,u+6a7e-6a81,u+6a84,u+6a87,u+6a89,u+6a8d-6a8e,u+6a90-6a92,u+6a97,u+6a9c,u+6a9e-6aa1,u+6aa3-6aa5,u+6aa8,u+6aab,u+6aae,u+6ab5,u+6aba,u+6abe,u+6ac2,u+6ac5-6ac6,u+6ac8-6ac9,u+6acc,u+6ad3,u+6ada-6adb,"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/css/96a561f7654b5539.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
