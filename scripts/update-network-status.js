@@ -1,6 +1,8 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs/promises");
 
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 const operators = {
   cht: {
     name: "中華電信",
@@ -193,7 +195,7 @@ async function scrapeOperator(browser, key, operator) {
       timeout: 60000,
     });
 
-    await page.waitForTimeout(1500);
+    await sleep(1500);
 
     const { text, html } = await page.evaluate(() => ({
       text: document.body.innerText,
