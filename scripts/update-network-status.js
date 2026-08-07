@@ -168,25 +168,42 @@ function decideLevel({ normalTextFound, reports, topProblem }) {
 async function scrapeOperator(browser, key, operator) {
   const page = await browser.newPage();
   const responseBodies = [];
+  const responseReads = [];
+  const responseDebug = [];
 
   await page.setUserAgent(
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
   );
 
-  page.on("response", async (response) => {
-    const headers = response.headers();
-    const contentType = headers["content-type"] || "";
-    const responseUrl = response.url();
+  page.on("response", (response) => {
+    const readResponse = async () => {
+      const headers = response.headers();
+      const contentType = headers["content-type"] || "";
+      const responseUrl = response.url();
+      const shouldRead =
+        /json|javascript/i.test(contentType) ||
+        /downdetector|status|report|problem|chart|graph|api/i.test(responseUrl);
 
-    if (!/json|javascript|text|html/i.test(contentType)) return;
-    if (!/downdetector|status|report|problem|chart|graph|api/i.test(responseUrl)) return;
+      if (!shouldRead) return;
 
-    try {
-      const body = await response.text();
-      if (body) responseBodies.push(body);
-    } catch {
-      // Some responses cannot be read by Puppeteer; ignore and continue.
-    }
+      try {
+        const body = await response.text();
+        if (body) {
+          responseBodies.push(body);
+          responseDebug.push({
+            url: responseUrl,
+            contentType,
+            length: body.length,
+            hasTimestamp: /\d{10,13}/.test(body),
+            hasReportKeyword: /report|problem|chart|graph|series|outage/i.test(body),
+          });
+        }
+      } catch {
+        // Some responses cannot be read by Puppeteer; ignore and continue.
+      }
+    };
+
+    responseReads.push(readResponse());
   });
 
   try {
@@ -196,6 +213,7 @@ async function scrapeOperator(browser, key, operator) {
     });
 
     await sleep(1500);
+    await Promise.allSettled(responseReads);
 
     const { text, html } = await page.evaluate(() => ({
       text: document.body.innerText,
@@ -235,6 +253,12 @@ async function scrapeOperator(browser, key, operator) {
       reports: reportPoint.reports,
       latestPointTime: reportPoint.latestPointTime,
       reportPointCount: reportPoint.reportPointCount,
+      responseSourceCount: responseBodies.length,
+      responseDebug: reportPoint.reportPointCount === 0
+        ? responseDebug
+          .filter((item) => item.hasTimestamp || item.hasReportKeyword)
+          .slice(0, 12)
+        : [],
       topProblem,
       level,
       message: text.split("\n").find((line) =>
