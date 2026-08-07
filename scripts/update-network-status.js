@@ -37,6 +37,11 @@ function isBlockedPage(text) {
 }
 
 function normalizeTimestamp(value) {
+  if (typeof value === "string" && !/^\d+$/.test(value)) {
+    const parsed = Date.parse(value);
+    return Number.isFinite(parsed) ? parsed : null;
+  }
+
   const timestamp = Number(value);
   if (!Number.isFinite(timestamp)) return null;
   return timestamp < 1000000000000 ? timestamp * 1000 : timestamp;
@@ -53,11 +58,18 @@ function addPoint(points, timestampValue, countValue) {
 function extractReportPointsFromText(source) {
   const points = [];
   const numericPairPattern = /\[\s*(\d{10,13})\s*,\s*(\d{1,6})\s*\]/g;
+  const stringPairPattern = /\[\s*["']([^"']+)["']\s*,\s*(\d{1,6})\s*\]/g;
   const objectXYPattern = /["']?(?:x|date|time|timestamp)["']?\s*:\s*(\d{10,13})\s*,\s*["']?(?:y|value|count|reports)["']?\s*:\s*(\d{1,6})/g;
   const objectYXPattern = /["']?(?:y|value|count|reports)["']?\s*:\s*(\d{1,6})\s*,\s*["']?(?:x|date|time|timestamp)["']?\s*:\s*(\d{10,13})/g;
+  const objectStringXYPattern = /["']?(?:x|date|time|timestamp)["']?\s*:\s*["']([^"']+)["']\s*,\s*["']?(?:y|value|count|reports)["']?\s*:\s*(\d{1,6})/g;
+  const objectStringYXPattern = /["']?(?:y|value|count|reports)["']?\s*:\s*(\d{1,6})\s*,\s*["']?(?:x|date|time|timestamp)["']?\s*:\s*["']([^"']+)["']/g;
   let match;
 
   while ((match = numericPairPattern.exec(source))) {
+    addPoint(points, match[1], match[2]);
+  }
+
+  while ((match = stringPairPattern.exec(source))) {
     addPoint(points, match[1], match[2]);
   }
 
@@ -66,6 +78,14 @@ function extractReportPointsFromText(source) {
   }
 
   while ((match = objectYXPattern.exec(source))) {
+    addPoint(points, match[2], match[1]);
+  }
+
+  while ((match = objectStringXYPattern.exec(source))) {
+    addPoint(points, match[1], match[2]);
+  }
+
+  while ((match = objectStringYXPattern.exec(source))) {
     addPoint(points, match[2], match[1]);
   }
 
@@ -171,6 +191,11 @@ function buildResponseSnippets(responseBodies, responseDebug) {
       };
     })
     .filter(Boolean)
+    .sort((a, b) => {
+      const aIsPage = /downdetector\.tw\/(?:en\/)?status\//i.test(a.url) ? 0 : 1;
+      const bIsPage = /downdetector\.tw\/(?:en\/)?status\//i.test(b.url) ? 0 : 1;
+      return aIsPage - bIsPage;
+    })
     .slice(0, 8);
 }
 
@@ -212,9 +237,12 @@ async function scrapeOperator(browser, key, operator) {
       const headers = response.headers();
       const contentType = headers["content-type"] || "";
       const responseUrl = response.url();
+      if (/text\/css/i.test(contentType)) return;
+      if (/doubleclick|googlesyndication|ziffstatic|google-analytics|googletagmanager/i.test(responseUrl)) return;
+
       const shouldRead =
-        /json|javascript/i.test(contentType) ||
-        /downdetector|status|report|problem|chart|graph|api/i.test(responseUrl);
+        /json|javascript|html/i.test(contentType) ||
+        /downdetector|status|report|problem|chart|graph|api|_next/i.test(responseUrl);
 
       if (!shouldRead) return;
 
