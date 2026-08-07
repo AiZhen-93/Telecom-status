@@ -34,30 +34,77 @@ function isBlockedPage(text) {
   );
 }
 
-function extractReportPoints(html) {
+function normalizeTimestamp(value) {
+  const timestamp = Number(value);
+  if (!Number.isFinite(timestamp)) return null;
+  return timestamp < 1000000000000 ? timestamp * 1000 : timestamp;
+}
+
+function addPoint(points, timestampValue, countValue) {
+  const timestamp = normalizeTimestamp(timestampValue);
+  const count = Number(countValue);
+
+  if (!Number.isFinite(timestamp) || !Number.isFinite(count)) return;
+  points.push({ timestamp, count });
+}
+
+function extractReportPointsFromText(source) {
   const points = [];
-  const now = Date.now();
   const numericPairPattern = /\[\s*(\d{10,13})\s*,\s*(\d{1,6})\s*\]/g;
-  const objectPointPattern = /["']?(?:x|date|time|timestamp)["']?\s*:\s*(\d{10,13})\s*,\s*["']?(?:y|value|count|reports)["']?\s*:\s*(\d{1,6})/g;
+  const objectXYPattern = /["']?(?:x|date|time|timestamp)["']?\s*:\s*(\d{10,13})\s*,\s*["']?(?:y|value|count|reports)["']?\s*:\s*(\d{1,6})/g;
+  const objectYXPattern = /["']?(?:y|value|count|reports)["']?\s*:\s*(\d{1,6})\s*,\s*["']?(?:x|date|time|timestamp)["']?\s*:\s*(\d{10,13})/g;
   let match;
 
-  while ((match = numericPairPattern.exec(html))) {
-    const timestamp = Number(match[1]);
-    const count = Number(match[2]);
-    points.push({
-      timestamp: timestamp < 1000000000000 ? timestamp * 1000 : timestamp,
-      count,
-    });
+  while ((match = numericPairPattern.exec(source))) {
+    addPoint(points, match[1], match[2]);
   }
 
-  while ((match = objectPointPattern.exec(html))) {
-    const timestamp = Number(match[1]);
-    const count = Number(match[2]);
-    points.push({
-      timestamp: timestamp < 1000000000000 ? timestamp * 1000 : timestamp,
-      count,
-    });
+  while ((match = objectXYPattern.exec(source))) {
+    addPoint(points, match[1], match[2]);
   }
+
+  while ((match = objectYXPattern.exec(source))) {
+    addPoint(points, match[2], match[1]);
+  }
+
+  return points;
+}
+
+function extractReportPointsFromJson(value, points = []) {
+  if (Array.isArray(value)) {
+    if (value.length >= 2) {
+      addPoint(points, value[0], value[1]);
+    }
+    value.forEach((item) => extractReportPointsFromJson(item, points));
+    return points;
+  }
+
+  if (!value || typeof value !== "object") return points;
+
+  const timestamp = value.x ?? value.date ?? value.time ?? value.timestamp;
+  const count = value.y ?? value.value ?? value.count ?? value.reports;
+  if (timestamp !== undefined && count !== undefined) {
+    addPoint(points, timestamp, count);
+  }
+
+  Object.values(value).forEach((item) => extractReportPointsFromJson(item, points));
+  return points;
+}
+
+function extractReportPointsFromSources(sources) {
+  const now = Date.now();
+  const points = [];
+
+  sources.forEach((source) => {
+    if (!source) return;
+    points.push(...extractReportPointsFromText(source));
+
+    try {
+      points.push(...extractReportPointsFromJson(JSON.parse(source)));
+    } catch {
+      // Not JSON; regex extraction above already handled text/HTML/script payloads.
+    }
+  });
 
   const deduped = new Map();
   points
@@ -74,20 +121,22 @@ function extractReportPoints(html) {
   return [...deduped.values()].sort((a, b) => a.timestamp - b.timestamp);
 }
 
-function parseLatestReportPoint(html) {
-  const points = extractReportPoints(html);
+function parseLatestReportPoint(sources) {
+  const points = extractReportPointsFromSources(sources);
   const latestPoint = points[points.length - 1];
 
   if (!latestPoint) {
     return {
       reports: 0,
       latestPointTime: null,
+      reportPointCount: 0,
     };
   }
 
   return {
     reports: latestPoint.count,
     latestPointTime: new Date(latestPoint.timestamp).toISOString(),
+    reportPointCount: points.length,
   };
 }
 
@@ -114,49 +163,86 @@ function decideLevel({ normalTextFound, reports, topProblem }) {
   return "green";
 }
 
-async function scrapeOperator(page, key, operator) {
-  await page.goto(operator.url, {
-    waitUntil: "networkidle2",
-    timeout: 60000,
+async function scrapeOperator(browser, key, operator) {
+  const page = await browser.newPage();
+  const responseBodies = [];
+
+  await page.setUserAgent(
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
+  );
+
+  page.on("response", async (response) => {
+    const headers = response.headers();
+    const contentType = headers["content-type"] || "";
+    const responseUrl = response.url();
+
+    if (!/json|javascript|text|html/i.test(contentType)) return;
+    if (!/downdetector|status|report|problem|chart|graph|api/i.test(responseUrl)) return;
+
+    try {
+      const body = await response.text();
+      if (body) responseBodies.push(body);
+    } catch {
+      // Some responses cannot be read by Puppeteer; ignore and continue.
+    }
   });
 
-  const { text, html } = await page.evaluate(() => ({
-    text: document.body.innerText,
-    html: document.body.innerHTML,
-  }));
-  if (isBlockedPage(text)) {
+  try {
+    await page.goto(operator.url, {
+      waitUntil: "networkidle2",
+      timeout: 60000,
+    });
+
+    await page.waitForTimeout(1500);
+
+    const { text, html } = await page.evaluate(() => ({
+      text: document.body.innerText,
+      html: document.documentElement.outerHTML,
+    }));
+
+    if (isBlockedPage(text)) {
+      return {
+        name: operator.name,
+        reachable: false,
+        blocked: true,
+        normalTextFound: false,
+        reports: null,
+        latestPointTime: null,
+        reportPointCount: 0,
+        topProblem: { label: "", share: 0 },
+        level: "green",
+        message: "",
+        error: "Blocked by Cloudflare verification",
+        sample: text.slice(0, 600),
+      };
+    }
+
+    const normalTextFound = parseNormalText(text);
+    const reportPoint = parseLatestReportPoint([html, ...responseBodies]);
+    const topProblem = parseTopProblem(text);
+    const level = decideLevel({
+      normalTextFound,
+      reports: reportPoint.reports,
+      topProblem,
+    });
+
     return {
       name: operator.name,
-      reachable: false,
-      blocked: true,
-      normalTextFound: false,
-      reports: null,
-      latestPointTime: null,
-      topProblem: { label: "", share: 0 },
-      level: "green",
-      message: "",
-      error: "Blocked by Cloudflare verification",
+      reachable: true,
+      normalTextFound,
+      reports: reportPoint.reports,
+      latestPointTime: reportPoint.latestPointTime,
+      reportPointCount: reportPoint.reportPointCount,
+      topProblem,
+      level,
+      message: text.split("\n").find((line) =>
+        line.includes("no current problems") || line.includes("運作正常")
+      ) || "",
       sample: text.slice(0, 600),
     };
+  } finally {
+    await page.close();
   }
-  const normalTextFound = parseNormalText(text);
-  const { reports, latestPointTime } = parseLatestReportPoint(html);
-  const topProblem = parseTopProblem(text);
-  const level = decideLevel({ normalTextFound, reports, topProblem });
-
-  return {
-    name: operator.name,
-    reachable: true,
-    normalTextFound,
-    reports,
-    latestPointTime,
-    topProblem,
-    level,
-    message: text.split("\n").find((line) =>
-      line.includes("no current problems") || line.includes("運作正常")
-    ) || "",
-    sample: text.slice(0, 600),
-  };
 }
 
 async function main() {
@@ -165,19 +251,13 @@ async function main() {
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });
 
-  const page = await browser.newPage();
-
-  await page.setUserAgent(
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-  );
-
   const result = {
     updated: new Date().toISOString(),
   };
 
   for (const [key, operator] of Object.entries(operators)) {
     try {
-      result[key] = await scrapeOperator(page, key, operator);
+      result[key] = await scrapeOperator(browser, key, operator);
     } catch (error) {
       result[key] = {
         name: operator.name,
@@ -185,6 +265,7 @@ async function main() {
         normalTextFound: false,
         reports: null,
         latestPointTime: null,
+        reportPointCount: 0,
         topProblem: { label: "", share: 0 },
         level: "green",
         message: "",
