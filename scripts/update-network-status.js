@@ -2,6 +2,9 @@ const puppeteer = require("puppeteer");
 const fs = require("fs/promises");
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+const randomDelay = (minMs, maxMs) => (
+  Math.floor(Math.random() * (maxMs - minMs + 1)) + minMs
+);
 
 const operators = {
   cht: {
@@ -248,6 +251,16 @@ async function scrapeOperator(browser, key, operator) {
   await page.setUserAgent(
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
   );
+  await page.setExtraHTTPHeaders({
+    "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Upgrade-Insecure-Requests": "1",
+  });
+  await page.setViewport({
+    width: 1366 + Math.floor(Math.random() * 120),
+    height: 768 + Math.floor(Math.random() * 120),
+    deviceScaleFactor: 1,
+  });
 
   page.on("response", (response) => {
     const readResponse = async () => {
@@ -304,10 +317,10 @@ async function scrapeOperator(browser, key, operator) {
         reachable: false,
         blocked: true,
         normalTextFound: false,
-      reports: null,
-      latestPointTime: null,
-      reportCountSource: "none",
-      reportPointCount: 0,
+        reports: null,
+        latestPointTime: null,
+        reportCountSource: "none",
+        reportPointCount: 0,
         topProblem: { label: "", share: 0 },
         level: "green",
         message: "",
@@ -358,7 +371,12 @@ async function scrapeOperator(browser, key, operator) {
 async function main() {
   const browser = await puppeteer.launch({
     headless: "new",
-    args: ["--no-sandbox", "--disable-setuid-sandbox"],
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+      "--disable-blink-features=AutomationControlled",
+      "--lang=zh-TW,zh",
+    ],
   });
 
   const result = {
@@ -383,6 +401,8 @@ async function main() {
         error: error.message,
       };
     }
+
+    await sleep(randomDelay(3500, 8500));
   }
 
   await browser.close();
