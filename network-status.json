@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T12:20:44.066Z",
+  "updated": "2026-08-07T12:30:41.240Z",
   "cht": {
     "name": "中華電信",
     "reachable": true,
@@ -7,13 +7,100 @@
     "reports": 0,
     "latestPointTime": null,
     "reportPointCount": 0,
+    "responseSourceCount": 279,
+    "responseDebug": [
+      {
+        "url": "https://downdetector.tw/en/status/chunghwa-telecom-zhong-hua-dian-xin/",
+        "contentType": "text/html; charset=utf-8",
+        "length": 321000,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "contentType": "text/javascript; charset=UTF-8",
+        "length": 119549,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://downdetector.tw/site.webmanifest",
+        "contentType": "text/html; charset=UTF-8",
+        "length": 5816,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/c8a42b366d5c5585.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/css",
+        "length": 21541,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/96a561f7654b5539.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/css",
+        "length": 105907,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/css",
+        "length": 428464,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/css",
+        "length": 414097,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/javascript",
+        "length": 121317,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn.ziffstatic.com/pg/downdetector.js",
+        "contentType": "application/javascript;charset=utf-8",
+        "length": 99933,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn.ziffstatic.com/jst/zdconsent.js",
+        "contentType": "application/javascript",
+        "length": 90869,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-2d360a02fc67ed32.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/javascript",
+        "length": 8822,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/app/global-error-e3c5276273ab7f6c.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/javascript",
+        "length": 16796,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      }
+    ],
     "topProblem": {
-      "share": 33,
-      "label": "Mobile Internet"
+      "share": 43,
+      "label": "WiFi"
     },
     "level": "green",
     "message": "User reports show no current problems with Chunghwa Telecom 中華電信",
-    "sample": "Skip to main content\nBack to home\n/\nChunghwa Telecom 中華電信\nUser reports show no current problems with Chunghwa Telecom 中華電信\n\nChunghwa Telecom provides broadband internet, mobile network services, fiber optic connections, HiNet ISP access, MOD digital TV streaming and cloud solutions across Taiwan for residential and enterprise customers.\n\nReport a problem\n\nSelect which issue applies\n\nBilling\nBroadband Internet\nMobile Internet\nMobile Signal\nTexting / SMS\nTV\nVoice Calls\nWiFi\nJump to comments\nChunghwa Telecom 中華電信 problems reported in the last 24 hours\n3 PM\n6 PM\n9 PM\n12 AM\n3 AM\n6 AM\n9 AM\n0\n10\n20\n3"
+    "sample": "Skip to main content\nBack to home\n/\nChunghwa Telecom 中華電信\nUser reports show no current problems with Chunghwa Telecom 中華電信\n\nChunghwa Telecom provides broadband internet, mobile network services, fiber optic connections, HiNet ISP access, MOD digital TV streaming and cloud solutions across Taiwan for residential and enterprise customers.\n\nReport a problem\n\nSelect which issue applies\n\nBilling\nBroadband Internet\nMobile Internet\nMobile Signal\nTexting / SMS\nTV\nVoice Calls\nWiFi\nJump to comments\nChunghwa Telecom 中華電信 problems reported in the last 24 hours\n3 PM\n6 PM\n9 PM\n12 AM\n3 AM\n6 AM\n9 AM\n12 PM\n0\n1"
   },
   "fet": {
     "name": "遠傳電信",
@@ -22,6 +109,93 @@
     "reports": 0,
     "latestPointTime": null,
     "reportPointCount": 0,
+    "responseSourceCount": 349,
+    "responseDebug": [
+      {
+        "url": "https://cdn.ziffstatic.com/jst/zdconsent.js",
+        "contentType": "application/javascript",
+        "length": 90869,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn.ziffstatic.com/pg/downdetector.js",
+        "contentType": "application/javascript;charset=utf-8",
+        "length": 99933,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "contentType": "text/javascript; charset=UTF-8",
+        "length": 119549,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://downdetector.tw/en/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
+        "contentType": "text/html; charset=utf-8",
+        "length": 308739,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 414097,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 428464,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/c8a42b366d5c5585.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 21541,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/96a561f7654b5539.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 105907,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn.ziffstatic.com/pg/downdetector.prebid.js",
+        "contentType": "application/javascript;charset=utf-8",
+        "length": 578457,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://downdetector.tw/site.webmanifest",
+        "contentType": "text/html; charset=UTF-8",
+        "length": 5838,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/javascript",
+        "length": 121317,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/6707-111d9c928bd7852e.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/javascript",
+        "length": 33449,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      }
+    ],
     "topProblem": {
       "label": "",
       "share": 0
@@ -37,12 +211,99 @@
     "reports": 0,
     "latestPointTime": null,
     "reportPointCount": 0,
+    "responseSourceCount": 214,
+    "responseDebug": [
+      {
+        "url": "https://cdn.ziffstatic.com/pg/downdetector.js",
+        "contentType": "application/javascript;charset=utf-8",
+        "length": 99933,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "contentType": "text/javascript; charset=UTF-8",
+        "length": 119549,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn.ziffstatic.com/jst/zdconsent.js",
+        "contentType": "application/javascript",
+        "length": 90869,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn.ziffstatic.com/pg/downdetector.prebid.js",
+        "contentType": "application/javascript;charset=utf-8",
+        "length": 578457,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://downdetector.tw/en/status/taiwan-mobile-tai-wan-da-ge-da/",
+        "contentType": "text/html; charset=utf-8",
+        "length": 320293,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/c8a42b366d5c5585.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 21541,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/bc53dc6616872032.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 414097,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/96a561f7654b5539.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 105907,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/css/8b94f15230f5924c.css?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "",
+        "length": 428464,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-c71ee47d69badaaa.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/javascript",
+        "length": 24529,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-eb0b1285bb0ab52a.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/javascript",
+        "length": 14420,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=701635369d414e15be22975e484f079d8f4c2e30",
+        "contentType": "text/javascript",
+        "length": 121317,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      }
+    ],
     "topProblem": {
       "share": 40,
       "label": "Mobile Signal"
     },
     "level": "green",
     "message": "User reports show no current problems with Taiwan Mobile 台灣大哥大",
-    "sample": "Skip to main content\nBack to home\n/\nTaiwan Mobile 台灣大哥大\nUser reports show no current problems with Taiwan Mobile 台灣大哥大\n\nTaiwan Mobile provides 4G and 5G mobile network services, broadband internet, digital television, cloud solutions and IoT connectivity across its wireless and fixed-line telecommunications infrastructure.\n\nReport a problem\n\nSelect which issue applies\n\nBilling\nBroadband Internet\nMobile Internet\nMobile Signal\nTexting / SMS\nTV\nVoice Calls\nWiFi\nJump to comments\nTaiwan Mobile 台灣大哥大 problems reported in the last 24 hours\n3 PM\n6 PM\n9 PM\n12 AM\n3 AM\n6 AM\n9 AM\n0\n10\n20\n30\n40\nLearn about"
+    "sample": "Skip to main content\nBack to home\n/\nTaiwan Mobile 台灣大哥大\nUser reports show no current problems with Taiwan Mobile 台灣大哥大\n\nTaiwan Mobile provides 4G and 5G mobile network services, broadband internet, digital television, cloud solutions and IoT connectivity across its wireless and fixed-line telecommunications infrastructure.\n\nReport a problem\n\nSelect which issue applies\n\nBilling\nBroadband Internet\nMobile Internet\nMobile Signal\nTexting / SMS\nTV\nVoice Calls\nWiFi\nJump to comments\nTaiwan Mobile 台灣大哥大 problems reported in the last 24 hours\n3 PM\n6 PM\n9 PM\n12 AM\n3 AM\n6 AM\n9 AM\n12 PM\n0\n10\n20\n30\n40\nLearn"
   }
 }
