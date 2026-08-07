@@ -142,6 +142,38 @@ function parseLatestReportPoint(sources) {
   };
 }
 
+function findSnippet(source, pattern) {
+  const match = pattern.exec(source);
+  if (!match) return "";
+
+  const start = Math.max(0, match.index - 180);
+  const end = Math.min(source.length, match.index + 420);
+  return source.slice(start, end).replace(/\s+/g, " ").trim();
+}
+
+function buildResponseSnippets(responseBodies, responseDebug) {
+  return responseBodies
+    .map((body, index) => {
+      const debug = responseDebug[index] || {};
+      const snippet =
+        findSnippet(body, /problems reported in the last 24 hours/i) ||
+        findSnippet(body, /Most reported problems/i) ||
+        findSnippet(body, /series|reports|problem|outage|chart/i) ||
+        findSnippet(body, /\d{10,13}/);
+
+      if (!snippet) return null;
+
+      return {
+        url: debug.url || "",
+        contentType: debug.contentType || "",
+        length: body.length,
+        snippet,
+      };
+    })
+    .filter(Boolean)
+    .slice(0, 8);
+}
+
 function parseTopProblem(text) {
   const section = text.split(/Most reported problems|最多回報/i)[1]?.split(/Your feedback|How would you rate|您的意見|你會如何評價/i)[0] || "";
   const match = section.match(/(\d{1,3})%\s+(.+?)(?=\s+\d{1,3}%|$)/);
@@ -190,13 +222,14 @@ async function scrapeOperator(browser, key, operator) {
         const body = await response.text();
         if (body) {
           responseBodies.push(body);
-          responseDebug.push({
+          const bodyIndex = responseBodies.length - 1;
+          responseDebug[bodyIndex] = {
             url: responseUrl,
             contentType,
             length: body.length,
             hasTimestamp: /\d{10,13}/.test(body),
             hasReportKeyword: /report|problem|chart|graph|series|outage/i.test(body),
-          });
+          };
         }
       } catch {
         // Some responses cannot be read by Puppeteer; ignore and continue.
@@ -258,6 +291,9 @@ async function scrapeOperator(browser, key, operator) {
         ? responseDebug
           .filter((item) => item.hasTimestamp || item.hasReportKeyword)
           .slice(0, 12)
+        : [],
+      responseSnippets: reportPoint.reportPointCount === 0
+        ? buildResponseSnippets(responseBodies, responseDebug)
         : [],
       topProblem,
       level,
