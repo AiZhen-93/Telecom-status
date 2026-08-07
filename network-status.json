@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T01:40:37.217Z",
+  "updated": "2026-08-07T01:50:41.280Z",
   "cht": {
     "name": "中華電信",
     "reachable": true,
@@ -32,7 +32,7 @@
     "normalTextFound": true,
     "reports": 0,
     "topProblem": {
-      "share": 33,
+      "share": 43,
       "label": "Mobile Signal"
     },
     "level": "green",
