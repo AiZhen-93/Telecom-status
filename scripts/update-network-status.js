@@ -151,6 +151,16 @@ function parseLatestReportPoint(sources) {
   const latestPoint = points[points.length - 1];
 
   if (!latestPoint) {
+    const problemBreakdownReports = parseProblemBreakdownReports(sources);
+    if (problemBreakdownReports > 0) {
+      return {
+        reports: problemBreakdownReports,
+        latestPointTime: null,
+        reportCountSource: "problemBreakdown",
+        reportPointCount: 0,
+      };
+    }
+
     const peakReports = parseChartPeakReports(sources);
     return {
       reports: peakReports,
@@ -166,6 +176,23 @@ function parseLatestReportPoint(sources) {
     reportCountSource: "latestPoint",
     reportPointCount: points.length,
   };
+}
+
+function parseProblemBreakdownReports(sources) {
+  const pattern = /aria-label=(?:"|')[^"']+?:\s*\d{1,3}\s+percent of reports,\s*([\d,]+)\s+reports?(?:"|')/gi;
+
+  for (const source of sources) {
+    let total = 0;
+    let match;
+
+    while ((match = pattern.exec(source))) {
+      total += Number(match[1].replace(/,/g, "")) || 0;
+    }
+
+    if (total > 0) return total;
+  }
+
+  return 0;
 }
 
 function parseChartPeakReports(sources) {
@@ -233,7 +260,7 @@ function decideLevel({ normalTextFound, reports, reportCountSource, topProblem }
     topProblem.share > 30;
   const canUseReportThresholds =
     reportCountSource === "latestPoint" ||
-    (reportCountSource === "chartPeak" && !normalTextFound);
+    ((reportCountSource === "chartPeak" || reportCountSource === "problemBreakdown") && !normalTextFound);
 
   if (broadbandOnly) return "green";
   if (canUseReportThresholds && reports > 100) return "red";
@@ -268,6 +295,7 @@ async function scrapeOperator(browser, key, operator) {
       const contentType = headers["content-type"] || "";
       const responseUrl = response.url();
       if (/text\/css/i.test(contentType)) return;
+      if (/_next\/static\/css|\.css(?:\?|$)/i.test(responseUrl)) return;
       if (/doubleclick|googlesyndication|ziffstatic|google-analytics|googletagmanager/i.test(responseUrl)) return;
 
       const shouldRead =
