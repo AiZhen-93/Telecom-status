@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T02:21:06.360Z",
+  "updated": "2026-08-13T02:31:04.968Z",
   "cht": {
     "name": "中華電信",
     "reachable": false,
@@ -16,7 +16,7 @@
     "level": "green",
     "message": "",
     "error": "Blocked by Cloudflare verification",
-    "sample": "downdetector.tw\n正在執行安全驗證\n\n此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。\n\n瀏覽器擴充功能或網路設定不相容\n\n您的瀏覽器擴充功能或網路設定封鎖了 downdetector.tw 所要求的安全驗證程序。要解決此問題，請嘗試以下步驟:\n\n暫時停用瀏覽器擴充功能:\n\n前往您的瀏覽器設定。\n找出您的瀏覽器擴充功能並暫時將其停用。\n停用瀏覽器擴充功能之後，請重新整理此頁面。\n\n檢查您的網路設定:\n\n驗證您的網際網路或防火牆設定是否封鎖了您的裝置對「challenges.cloudflare.com」的存取。您可能需要參閱作業系統說明文件或諮詢網路系統管理員，以取得調整防火牆設定的相關指引。\n如果您沒有調整網路設定的權限，請嘗試連接至不同的網路。\n\n如果這些步驟無法解決問題，請參閱 Cloudflare 的疑難排解文件以取得更多協助。如需停用瀏覽器擴充功能或檢查網路設定的詳細指引，請參閱瀏覽器或裝置的文件。\n\nRay ID: a2a43e93fc56984e\nPerformance and Security by Cloudflare\n隱私權"
+    "sample": "downdetector.tw\n正在執行安全驗證\n\n此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。\n\n瀏覽器擴充功能或網路設定不相容\n\n您的瀏覽器擴充功能或網路設定封鎖了 downdetector.tw 所要求的安全驗證程序。要解決此問題，請嘗試以下步驟:\n\n暫時停用瀏覽器擴充功能:\n\n前往您的瀏覽器設定。\n找出您的瀏覽器擴充功能並暫時將其停用。\n停用瀏覽器擴充功能之後，請重新整理此頁面。\n\n檢查您的網路設定:\n\n驗證您的網際網路或防火牆設定是否封鎖了您的裝置對「challenges.cloudflare.com」的存取。您可能需要參閱作業系統說明文件或諮詢網路系統管理員，以取得調整防火牆設定的相關指引。\n如果您沒有調整網路設定的權限，請嘗試連接至不同的網路。\n\n如果這些步驟無法解決問題，請參閱 Cloudflare 的疑難排解文件以取得更多協助。如需停用瀏覽器擴充功能或檢查網路設定的詳細指引，請參閱瀏覽器或裝置的文件。\n\nRay ID: a2a44d30d931fc89\nPerformance and Security by Cloudflare\n隱私權"
   },
   "fet": {
     "name": "遠傳電信",
@@ -29,18 +29,18 @@
     "responseSourceCount": 60,
     "responseDebug": [
       {
-        "url": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-        "contentType": "text/html; charset=utf-8",
-        "length": 290497,
-        "hasTimestamp": true,
-        "hasReportKeyword": true
-      },
-      {
         "url": "https://downdetector.tw/site.webmanifest",
         "contentType": "text/html; charset=UTF-8",
         "length": 5902,
         "hasTimestamp": true,
         "hasReportKeyword": false
+      },
+      {
+        "url": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
+        "contentType": "text/html; charset=utf-8",
+        "length": 290497,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-cebb0425515266b5.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
@@ -57,16 +57,9 @@
         "hasReportKeyword": false
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-44b94921d78d9e86.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "text/javascript",
-        "length": 200619,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-baf8ca8e92016315.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
-        "contentType": "text/javascript",
-        "length": 475524,
+        "length": 13453,
         "hasTimestamp": true,
         "hasReportKeyword": true
       },
@@ -85,9 +78,16 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-44b94921d78d9e86.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "text/javascript",
-        "length": 13453,
+        "length": 200619,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-baf8ca8e92016315.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "contentType": "text/javascript",
+        "length": 475524,
         "hasTimestamp": true,
         "hasReportKeyword": true
       },
@@ -124,7 +124,7 @@
         "url": "https://downdetector.tw/site.webmanifest",
         "contentType": "text/html; charset=UTF-8",
         "length": 5902,
-        "snippet": "to continue</span></div></noscript></div></div><script nonce=\"bgVtFyUCiYvT03QW8U65iZ\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'EAFcA9E4STVlFzJW2RlxVMTOUsFXRa8O_oKqX3868QI-1786587675-1.2.1.1-5Ndq7B9CHZI6xgW8PjfE9Duya8ErruhppbQWFzMYRW8AUpeWSTM0ZldDnAdO_DDe',cITimeS: '1786587675',cN: 'bgVtFyUCiYvT03QW8U65iZ',cRay: 'a2a43ecb6958e13e',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site.webmanifest?__cf_chl_tk=chVXxJVPf3l6GB6rgyeKK9lRw3PuzjXRcz.oupAvBeo-1786587675-1.0.1.1-EgrkC0ncyWOvDJVqFYrWzz2.d7GRTabFQqfzXDJY.F0\",cvId: '3',cZone: 'downdetector.tw',fa:\"/site.webmanifest?__c"
+        "snippet": "to continue</span></div></noscript></div></div><script nonce=\"Nmxyf09t5xtoQY3Cn3KeXf\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'Tcoo0ttYQ6ZlWx_2aUlULjrVvW9ghoT27sHTB49YUU4-1786588274-1.2.1.1-uUFGcoNBc0udZvK52HmjlBvro084Ecsz0.72KuKgxkCPas3AncjJ1N82Yz3aUB.n',cITimeS: '1786588274',cN: 'Nmxyf09t5xtoQY3Cn3KeXf',cRay: 'a2a44d688cf50f96',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site.webmanifest?__cf_chl_tk=Wpk7IUeh7bMrzboWF0uIo9KYnZOL096R3NJ6uc43g6A-1786588274-1.0.1.1-lhbUNLdfC17EEc8EMxY5DCXR_A2YzLHY_xqTctVfDQQ\",cvId: '3',cZone: 'downdetector.tw',fa:\"/site.webmanifest?__c"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-cebb0425515266b5.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
@@ -139,10 +139,10 @@
         "snippet": "Change=4]=\"RateChange\",m);let tr=e=>s?(...t)=>{try{return e(...t)}catch(e){if(s&&!0===s(e))return()=>{};throw e}}:e;for(var tn=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\",ti=\"u\"<typeof Uint8Array?[]:new Uint8Array(256),ts=0;ts<tn.length;ts++)ti[tn.charCodeAt(ts)]=ts;class to{reset(){}freeze(){}unfreeze(){}lock(){}unlock(){}snapshot(){}addWindow(){}addShadowRoot(){}resetShadowRoots(){}}function ta(e){try{return e.contentDocument}catch(e){}}function tl(e){try{return e.contentWindow}catch(e){}}class tc{constructor(e){this.doc=e,this.unattachedDoc=null}parse(e){return this.p"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-baf8ca8e92016315.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-44b94921d78d9e86.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "text/javascript",
-        "length": 475524,
-        "snippet": "is.emit(\"beforeSendSession\",e);let n=(0,N.LE)(e,this._dsn,this._options._metadata,this._options.tunnel);this.sendEnvelope(n)}recordDroppedEvent(e,t,r=1){if(this._options.sendClientReports){let n=`${e}:${t}`;l.T&&a.Yz.log(`Recording outcome: \"${n}\"${r>1?` (${r} times)`:\"\"}`),this._outcomes[n]=(this._outcomes[n]||0)+r}}on(e,t){let r=this._hooks[e]=this._hooks[e]||new Set,n=(...e)=>t(...e);return r.add(n),()=>{r.delete(n)}}emit(e,...t){let r=this._hooks[e];r&&r.forEach(e=>e(...t))}async sendEnvelope(e){if(this.emit(\"beforeEnvelope\",e),this._isEnabled()&&this._transport)try{return await this._tran"
+        "length": 13453,
+        "snippet": "],{\"_sentryBundlerPluginAppKey:downdetector-core-frontend\":!0});var t=(new e.Error).stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]=\"cf7741e5-ef7a-4ac8-8b26-167248877488\",e._sentryDebugIdIdentifier=\"sentry-dbid-cf7741e5-ef7a-4ac8-8b26-167248877488\")}catch(e){}}();\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4110],{20039:(e,t,r)=>{r.d(t,{default:()=>o});var i=r(40171),n=r(95155);function o({locale:e,...t}){if(!e)throw Error(void 0);return(0,n.jsx)(i.Dk,{locale:e,...t})}},24423:(e,t)=>{Object.defineProperty(t,\"__esModule\",{value:!0});var r={VALID_L"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-ee86f978b48a57c3.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
@@ -151,10 +151,10 @@
         "snippet": "ict\";o.r(a),o.d(a,{onRouterTransitionStart:()=>r});var i=o(11476),t=o(50721),s=o(32958),n=o(48617);globalThis._sentryRewritesTunnelPath=void 0,globalThis.SENTRY_RELEASE={id:\"d3e99b813274237383b9c71fcc1649791b541b85\"},globalThis._sentryBasePath=void 0,globalThis._sentryNextJsVersion=\"16.2.12\",globalThis._sentryRewriteFramesAssetPrefixPath=\"\",globalThis._sentryAssetPrefix=\"https://cdn3.downdetector.com\",globalThis._sentryExperimentalThirdPartyOriginStackFrames=void 0,globalThis._sentryRouteManifest='{\"dynamicRoutes\":[{\"path\":\"/:domain/:locale\",\"regex\":\"^/([^/]+)/([^/]+)$\",\"paramNames\":[\"domain\","
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-44b94921d78d9e86.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-baf8ca8e92016315.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "text/javascript",
-        "length": 13453,
-        "snippet": "],{\"_sentryBundlerPluginAppKey:downdetector-core-frontend\":!0});var t=(new e.Error).stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]=\"cf7741e5-ef7a-4ac8-8b26-167248877488\",e._sentryDebugIdIdentifier=\"sentry-dbid-cf7741e5-ef7a-4ac8-8b26-167248877488\")}catch(e){}}();\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4110],{20039:(e,t,r)=>{r.d(t,{default:()=>o});var i=r(40171),n=r(95155);function o({locale:e,...t}){if(!e)throw Error(void 0);return(0,n.jsx)(i.Dk,{locale:e,...t})}},24423:(e,t)=>{Object.defineProperty(t,\"__esModule\",{value:!0});var r={VALID_L"
+        "length": 475524,
+        "snippet": "is.emit(\"beforeSendSession\",e);let n=(0,N.LE)(e,this._dsn,this._options._metadata,this._options.tunnel);this.sendEnvelope(n)}recordDroppedEvent(e,t,r=1){if(this._options.sendClientReports){let n=`${e}:${t}`;l.T&&a.Yz.log(`Recording outcome: \"${n}\"${r>1?` (${r} times)`:\"\"}`),this._outcomes[n]=(this._outcomes[n]||0)+r}}on(e,t){let r=this._hooks[e]=this._hooks[e]||new Set,n=(...e)=>t(...e);return r.add(n),()=>{r.delete(n)}}emit(e,...t){let r=this._hooks[e];r&&r.forEach(e=>e(...t))}async sendEnvelope(e){if(this.emit(\"beforeEnvelope\",e),this._isEnabled()&&this._transport)try{return await this._tran"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-c71ee47d69badaaa.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
@@ -189,13 +189,6 @@
         "hasReportKeyword": false
       },
       {
-        "url": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-        "contentType": "text/html; charset=utf-8",
-        "length": 301787,
-        "hasTimestamp": true,
-        "hasReportKeyword": true
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-cebb0425515266b5.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "",
         "length": 5884,
@@ -208,6 +201,13 @@
         "length": 121317,
         "hasTimestamp": true,
         "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "contentType": "",
+        "length": 200619,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-ee86f978b48a57c3.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
@@ -224,13 +224,6 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-baf8ca8e92016315.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
-        "contentType": "",
-        "length": 475524,
-        "hasTimestamp": true,
-        "hasReportKeyword": true
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-44b94921d78d9e86.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "",
         "length": 13453,
@@ -238,9 +231,16 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/8806-7e0455fc6ebad6b1.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "",
-        "length": 200619,
+        "length": 11337,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-c71ee47d69badaaa.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "contentType": "",
+        "length": 24529,
         "hasTimestamp": false,
         "hasReportKeyword": true
       },
@@ -252,16 +252,16 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/8806-7e0455fc6ebad6b1.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/6707-111d9c928bd7852e.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "",
-        "length": 11337,
+        "length": 33449,
         "hasTimestamp": false,
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-eb0b1285bb0ab52a.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-5c97a77d5cca3e3a.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "",
-        "length": 14420,
+        "length": 37425,
         "hasTimestamp": false,
         "hasReportKeyword": true
       }
@@ -277,7 +277,7 @@
         "url": "https://downdetector.tw/site.webmanifest",
         "contentType": "text/html; charset=UTF-8",
         "length": 5880,
-        "snippet": "to continue</span></div></noscript></div></div><script nonce=\"cllOeJpS9fVM7uTD0Z7E1M\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'znU__yhezC5Ratx.JF21VMPr0MJBJh9PvSZVH1m2zRY-1786587689-1.2.1.1-D2YkE74z2GpRBRf_C8MdOoEDiW4j3P5FVQxNqn4ySv5Irh0o_D.bnAHoWlr1BwLR',cITimeS: '1786587689',cN: 'cllOeJpS9fVM7uTD0Z7E1M',cRay: 'a2a43f22e87de13e',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site.webmanifest?__cf_chl_tk=2SBw8hSfvH2PTVLEmvULGYPvBLYIOkUlPmuq.j.zku8-1786587689-1.0.1.1-UlybV20SqBxY7v76Gpkl4VYn52EpwQ0fzyPqzsJeKZA\",cvId: '3',cZone: 'downdetector.tw',fa:\"/site.webmanifest?__c"
+        "snippet": "to continue</span></div></noscript></div></div><script nonce=\"XBT1UVYfYzh2bJ4KsGnLDX\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'nsI2ICzqwwBwbVbG5Yh9Wlcbiqa0PCCUr.7zoBuU8mQ-1786588286-1.2.1.1-fB6A6SYEGZOeCRj1qXy3IZuH3VXdo.lEhxMgPFWz9CohSw9CYzs_HerJeB9m32sa',cITimeS: '1786588286',cN: 'XBT1UVYfYzh2bJ4KsGnLDX',cRay: 'a2a44db448e30f96',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site.webmanifest?__cf_chl_tk=0_SASXhv.xGlG_ymIXQQY2gH0LDoR59zU.gu.iU1CTo-1786588286-1.0.1.1-hPeQFiCkYN2svGwbbGWrkPgTh2jvbszPSNzg8rcUz88\",cvId: '3',cZone: 'downdetector.tw',fa:\"/site.webmanifest?__c"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-cebb0425515266b5.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
@@ -298,16 +298,16 @@
         "snippet": "ict\";o.r(a),o.d(a,{onRouterTransitionStart:()=>r});var i=o(11476),t=o(50721),s=o(32958),n=o(48617);globalThis._sentryRewritesTunnelPath=void 0,globalThis.SENTRY_RELEASE={id:\"d3e99b813274237383b9c71fcc1649791b541b85\"},globalThis._sentryBasePath=void 0,globalThis._sentryNextJsVersion=\"16.2.12\",globalThis._sentryRewriteFramesAssetPrefixPath=\"\",globalThis._sentryAssetPrefix=\"https://cdn3.downdetector.com\",globalThis._sentryExperimentalThirdPartyOriginStackFrames=void 0,globalThis._sentryRouteManifest='{\"dynamicRoutes\":[{\"path\":\"/:domain/:locale\",\"regex\":\"^/([^/]+)/([^/]+)$\",\"paramNames\":[\"domain\","
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-baf8ca8e92016315.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
-        "contentType": "",
-        "length": 475524,
-        "snippet": "is.emit(\"beforeSendSession\",e);let n=(0,N.LE)(e,this._dsn,this._options._metadata,this._options.tunnel);this.sendEnvelope(n)}recordDroppedEvent(e,t,r=1){if(this._options.sendClientReports){let n=`${e}:${t}`;l.T&&a.Yz.log(`Recording outcome: \"${n}\"${r>1?` (${r} times)`:\"\"}`),this._outcomes[n]=(this._outcomes[n]||0)+r}}on(e,t){let r=this._hooks[e]=this._hooks[e]||new Set,n=(...e)=>t(...e);return r.add(n),()=>{r.delete(n)}}emit(e,...t){let r=this._hooks[e];r&&r.forEach(e=>e(...t))}async sendEnvelope(e){if(this.emit(\"beforeEnvelope\",e),this._isEnabled()&&this._transport)try{return await this._tran"
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-44b94921d78d9e86.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
         "contentType": "",
         "length": 13453,
         "snippet": "],{\"_sentryBundlerPluginAppKey:downdetector-core-frontend\":!0});var t=(new e.Error).stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]=\"cf7741e5-ef7a-4ac8-8b26-167248877488\",e._sentryDebugIdIdentifier=\"sentry-dbid-cf7741e5-ef7a-4ac8-8b26-167248877488\")}catch(e){}}();\"use strict\";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4110],{20039:(e,t,r)=>{r.d(t,{default:()=>o});var i=r(40171),n=r(95155);function o({locale:e,...t}){if(!e)throw Error(void 0);return(0,n.jsx)(i.Dk,{locale:e,...t})}},24423:(e,t)=>{Object.defineProperty(t,\"__esModule\",{value:!0});var r={VALID_L"
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-c71ee47d69badaaa.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
+        "contentType": "",
+        "length": 24529,
+        "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/9698-ee8166ba47a81a66.js?dpl=d3e99b813274237383b9c71fcc1649791b541b85",
