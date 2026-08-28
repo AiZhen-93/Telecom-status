@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T11:01:20.436Z",
+  "updated": "2026-08-28T11:11:15.943Z",
   "cht": {
     "name": "中華電信",
     "reachable": true,
@@ -25,9 +25,9 @@
         "hasReportKeyword": false
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-44b5aa4acd708308.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "text/javascript",
-        "length": 121317,
+        "length": 8822,
         "hasTimestamp": true,
         "hasReportKeyword": false
       },
@@ -37,13 +37,6 @@
         "length": 200619,
         "hasTimestamp": false,
         "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-44b5aa4acd708308.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "text/javascript",
-        "length": 8822,
-        "hasTimestamp": true,
-        "hasReportKeyword": false
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/app/global-error-da281670e7e8b1b0.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
@@ -60,6 +53,13 @@
         "hasReportKeyword": true
       },
       {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/8806-7e0455fc6ebad6b1.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "text/javascript",
+        "length": 11337,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-9308a6566ba6ed8a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "text/javascript",
         "length": 475524,
@@ -67,10 +67,10 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/8806-7e0455fc6ebad6b1.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7431-ee73cf527a3d6abb.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "text/javascript",
-        "length": 11337,
-        "hasTimestamp": false,
+        "length": 633096,
+        "hasTimestamp": true,
         "hasReportKeyword": true
       },
       {
@@ -81,16 +81,16 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/6707-469128df561a176d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4194-63066c30914e412a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "text/javascript",
-        "length": 33449,
+        "length": 119311,
         "hasTimestamp": false,
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4194-63066c30914e412a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/6707-469128df561a176d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "text/javascript",
-        "length": 119311,
+        "length": 33449,
         "hasTimestamp": false,
         "hasReportKeyword": true
       }
@@ -106,13 +106,7 @@
         "url": "https://downdetector.tw/site.webmanifest",
         "contentType": "text/html; charset=UTF-8",
         "length": 5902,
-        "snippet": "to continue</span></div></noscript></div></div><script nonce=\"2KqGkvqC93zaYFArLm4mHZ\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'P0xowSL512ZFnmVb_ofz5vDhGErmV6uW5upcNZEa6CI-1787914881-1.2.1.1-7B_7pEk9ny4s38m3iG2s08K7HjBeh0HophyTc7ZD71KzB7XIXe4SSGxR.9HZ9J5J',cITimeS: '1787914881',cN: '2KqGkvqC93zaYFArLm4mHZ',cRay: 'a322d1498d132009',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site.webmanifest?__cf_chl_tk=IYCKrB8bVckBJ7kOMLaMP4ax8F3mhQKy.3XKI0MJvAY-1787914881-1.0.1.1-4md.lNo0vtMsSY8Exm9pqQBRrD1O7Nkf3mS_Kh0Ln_k\",cvId: '3',cZone: 'downdetector.tw',fa:\"/site.webmanifest?__c"
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "text/javascript",
-        "length": 121317,
-        "snippet": "Change=4]=\"RateChange\",m);let tr=e=>s?(...t)=>{try{return e(...t)}catch(e){if(s&&!0===s(e))return()=>{};throw e}}:e;for(var tn=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\",ti=\"u\"<typeof Uint8Array?[]:new Uint8Array(256),ts=0;ts<tn.length;ts++)ti[tn.charCodeAt(ts)]=ts;class to{reset(){}freeze(){}unfreeze(){}lock(){}unlock(){}snapshot(){}addWindow(){}addShadowRoot(){}resetShadowRoots(){}}function ta(e){try{return e.contentDocument}catch(e){}}function tl(e){try{return e.contentWindow}catch(e){}}class tc{constructor(e){this.doc=e,this.unattachedDoc=null}parse(e){return this.p"
+        "snippet": "to continue</span></div></noscript></div></div><script nonce=\"zciycWB6MsYlbtNSm5kovm\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'OIIWgYtnkdx3INSb13hltkfc6Hfenqg6UrjmSrmCCCM-1787915477-1.2.1.1-eAvyMhehaR5RVR1hmJwrOF.BjS1kHQPrzISS6WEU7KYvZtwtIFW6Ot5MqbqiotP0',cITimeS: '1787915477',cN: 'zciycWB6MsYlbtNSm5kovm',cRay: 'a322dfd68a3f15b6',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site.webmanifest?__cf_chl_tk=OIl2_WNKU8k30afiklDhRvEr7i7j.4oIM4aD_t8BIgM-1787915477-1.0.1.1-6XRQxnD3nTQjMydmrgPBStDqN8xacdQ2T3rDT3uck28\",cvId: '3',cZone: 'downdetector.tw',fa:\"/site.webmanifest?__c"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-44b5aa4acd708308.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
@@ -127,22 +121,28 @@
         "snippet": "is.emit(\"beforeSendSession\",e);let n=(0,N.LE)(e,this._dsn,this._options._metadata,this._options.tunnel);this.sendEnvelope(n)}recordDroppedEvent(e,t,r=1){if(this._options.sendClientReports){let n=`${e}:${t}`;l.T&&a.Yz.log(`Recording outcome: \"${n}\"${r>1?` (${r} times)`:\"\"}`),this._outcomes[n]=(this._outcomes[n]||0)+r}}on(e,t){let r=this._hooks[e]=this._hooks[e]||new Set,n=(...e)=>t(...e);return r.add(n),()=>{r.delete(n)}}emit(e,...t){let r=this._hooks[e];r&&r.forEach(e=>e(...t))}async sendEnvelope(e){if(this.emit(\"beforeEnvelope\",e),this._isEnabled()&&this._transport)try{return await this._tran"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-ed37ba7642c7bf91.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "text/javascript",
-        "length": 24748,
-        "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/7431-ee73cf527a3d6abb.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "text/javascript",
         "length": 633096,
         "snippet": "coverySuggestion:\"Ensure app code is up to date, auth directives exist and are correct on each model, and that server-side data has not been invalidated by a schema change. If the problem persists, search for or create an issue: https://github.com/aws-amplify/amplify-js/issues\",localModel:null,message:s.message,model:f.name,operation:d,errorType:lJ(lY,s),process:eG.sync,remoteModel:null,cause:s})];case 4:return c.sent(),[3,6];case 5:return a=c.sent(),lQ.error(\"Mutation error handler failed with:\",a),[3,6];case 6:throw s;case 7:return lQ.debug(\"Mutation failed with authMode: \".concat(y[v-1],\"."
       },
       {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-ed37ba7642c7bf91.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "text/javascript",
+        "length": 24748,
+        "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/9698-5a632512e447444d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "text/javascript",
         "length": 13631,
         "snippet": "=(0,o.useContext)(i);if(null===e)throw Error(\"useIsLoginEnabled must be used within a LoginGateProvider\");return(0,o.useSyncExternalStore)(d,u,c)??e}},93228:(e,t,n)=>{n.d(t,{DomainOutageBannerContent:()=>s});var r=n(95155),a=n(19749),l=n(99345),o=n(10207);function i(e){let t,n,o,i=(0,a.c)(7),{text:s,display:c}=e,u=(0,l.c)();return c?(i[0]!==u?(t=u(\"accessibility_sr_alert\"),i[0]=u,i[1]=t):t=i[1],i[2]!==t?(n=(0,r.jsx)(\"span\",{className:\"sr-only\",children:t}),i[2]=t,i[3]=n):n=i[3],i[4]!==n||i[5]!==s?(o=(0,r.jsx)(\"div\",{role:\"alert\",\"aria-atomic\":\"true\",className:\"w-full bg-red-600 p-4\",children:("
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-eb0b1285bb0ab52a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "text/javascript",
+        "length": 14420,
+        "snippet": "],e}return null}},18165:(e,t,r)=>{r.d(t,{default:()=>d});var a=r(95155),s=r(19749),n=r(73981),i=r(99345),l=r(36606);function o(){l.u4.serviceClick({navigationType:l.br.CORRELATION_OUTAGE})}let d=function(e){let t,r,l,d=(0,s.c)(8),{domain:c,name:u,absoluteUrl:m}=e,h=(0,i.c)();return u&&m?(d[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=(0,a.jsx)(n.default,{src:\"/images/problem.svg\",alt:\"\",width:16,height:16,className:\"hidden md:block w-4 h-4 flex-shrink-0\",\"aria-hidden\":\"true\"}),d[0]=t):t=d[0],d[1]!==m||d[2]!==c||d[3]!==u||d[4]!==h?(r=h.rich(\"correlation_outage_text\",{serviceName:u,link:e=>(0"
       }
     ],
     "topProblem": {
@@ -178,13 +178,6 @@
         "hasReportKeyword": false
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 200619,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-44b5aa4acd708308.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
         "length": 8822,
@@ -199,13 +192,6 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-91bc138a77544b69.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 13453,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/8806-7e0455fc6ebad6b1.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
         "length": 11337,
@@ -213,9 +199,30 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-ed37ba7642c7bf91.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-91bc138a77544b69.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
-        "length": 24748,
+        "length": 13453,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 200619,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-5c97a77d5cca3e3a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 37425,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/9698-5a632512e447444d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 13631,
         "hasTimestamp": false,
         "hasReportKeyword": true
       },
@@ -227,23 +234,16 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/7431-ee73cf527a3d6abb.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-9308a6566ba6ed8a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
-        "length": 633096,
+        "length": 475524,
         "hasTimestamp": true,
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/9698-5a632512e447444d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-ed37ba7642c7bf91.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
-        "length": 13631,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-eb0b1285bb0ab52a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 14420,
+        "length": 24748,
         "hasTimestamp": false,
         "hasReportKeyword": true
       }
@@ -268,16 +268,10 @@
         "snippet": "\"].includes(\"development\")?console.debug(\"[Sentry] Skipped in development environment\"):(i.TsN({enabled:!0,dsn:\"https://190561a2e52cb9ee791f446da09bf252@o12669.ingest.us.sentry.io/4509767811137536\",sendDefaultPii:!1,integrations:[t.w({maskAllText:!1,blockAllMedia:!1}),s.y({filterKeys:[\"downdetector-core-frontend\"],behaviour:\"drop-error-if-exclusively-contains-third-party-frames\"})],denyUrls:[/pagead2\\.googlesyndication\\.com/i,/securepubads\\.g\\.doubleclick\\.net/i,/googlesyndication\\.com/i,/doubleclick\\.net/i,/googleadservices\\.com/i,/google-analytics\\.com/i,/tpc\\.googlesyndication\\.com/i,/googl"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-ed37ba7642c7bf91.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-5c97a77d5cca3e3a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
-        "length": 24748,
-        "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/7431-ee73cf527a3d6abb.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 633096,
-        "snippet": "coverySuggestion:\"Ensure app code is up to date, auth directives exist and are correct on each model, and that server-side data has not been invalidated by a schema change. If the problem persists, search for or create an issue: https://github.com/aws-amplify/amplify-js/issues\",localModel:null,message:s.message,model:f.name,operation:d,errorType:lJ(lY,s),process:eG.sync,remoteModel:null,cause:s})];case 4:return c.sent(),[3,6];case 5:return a=c.sent(),lQ.error(\"Mutation error handler failed with:\",a),[3,6];case 6:throw s;case 7:return lQ.debug(\"Mutation failed with authMode: \".concat(y[v-1],\"."
+        "length": 37425,
+        "snippet": "a-label\":e,children:[t,s]})}),c[7]=e,c[8]=s,c[9]=o):o=c[9],o}function d(){(0,o.P)(\"#comments-section\"),s.u4.clickComment({commentLocation:\"commentsJump\"})}},35297:(e,t,r)=>{r.d(t,{ChartRevealProvider:()=>o,x:()=>c});var n=r(95155),a=r(19749),i=r(12115),l=r(36606);let s=(0,i.createContext)(void 0);function o(e){let t,r,o,c=(0,a.c)(6),{children:d}=e,[u,m]=(0,i.useState)(!0);c[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=e=>{(void 0===e||e)&&l.u4.revealChart(),m(!0)},c[0]=t):t=c[0];let h=t;return c[1]!==u?(r={showChart:u,revealChart:h},c[1]=u,c[2]=r):r=c[2],c[3]!==d||c[4]!==r?(o=(0,n.jsx)(s.Pr"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/9698-5a632512e447444d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
@@ -286,16 +280,22 @@
         "snippet": "=(0,o.useContext)(i);if(null===e)throw Error(\"useIsLoginEnabled must be used within a LoginGateProvider\");return(0,o.useSyncExternalStore)(d,u,c)??e}},93228:(e,t,n)=>{n.d(t,{DomainOutageBannerContent:()=>s});var r=n(95155),a=n(19749),l=n(99345),o=n(10207);function i(e){let t,n,o,i=(0,a.c)(7),{text:s,display:c}=e,u=(0,l.c)();return c?(i[0]!==u?(t=u(\"accessibility_sr_alert\"),i[0]=u,i[1]=t):t=i[1],i[2]!==t?(n=(0,r.jsx)(\"span\",{className:\"sr-only\",children:t}),i[2]=t,i[3]=n):n=i[3],i[4]!==n||i[5]!==s?(o=(0,r.jsx)(\"div\",{role:\"alert\",\"aria-atomic\":\"true\",className:\"w-full bg-red-600 p-4\",children:("
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-eb0b1285bb0ab52a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 14420,
-        "snippet": "],e}return null}},18165:(e,t,r)=>{r.d(t,{default:()=>d});var a=r(95155),s=r(19749),n=r(73981),i=r(99345),l=r(36606);function o(){l.u4.serviceClick({navigationType:l.br.CORRELATION_OUTAGE})}let d=function(e){let t,r,l,d=(0,s.c)(8),{domain:c,name:u,absoluteUrl:m}=e,h=(0,i.c)();return u&&m?(d[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=(0,a.jsx)(n.default,{src:\"/images/problem.svg\",alt:\"\",width:16,height:16,className:\"hidden md:block w-4 h-4 flex-shrink-0\",\"aria-hidden\":\"true\"}),d[0]=t):t=d[0],d[1]!==m||d[2]!==c||d[3]!==u||d[4]!==h?(r=h.rich(\"correlation_outage_text\",{serviceName:u,link:e=>(0"
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-9308a6566ba6ed8a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
         "length": 475524,
         "snippet": "is.emit(\"beforeSendSession\",e);let n=(0,N.LE)(e,this._dsn,this._options._metadata,this._options.tunnel);this.sendEnvelope(n)}recordDroppedEvent(e,t,r=1){if(this._options.sendClientReports){let n=`${e}:${t}`;l.T&&a.Yz.log(`Recording outcome: \"${n}\"${r>1?` (${r} times)`:\"\"}`),this._outcomes[n]=(this._outcomes[n]||0)+r}}on(e,t){let r=this._hooks[e]=this._hooks[e]||new Set,n=(...e)=>t(...e);return r.add(n),()=>{r.delete(n)}}emit(e,...t){let r=this._hooks[e];r&&r.forEach(e=>e(...t))}async sendEnvelope(e){if(this.emit(\"beforeEnvelope\",e),this._isEnabled()&&this._transport)try{return await this._tran"
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-ed37ba7642c7bf91.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 24748,
+        "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-eb0b1285bb0ab52a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 14420,
+        "snippet": "],e}return null}},18165:(e,t,r)=>{r.d(t,{default:()=>d});var a=r(95155),s=r(19749),n=r(73981),i=r(99345),l=r(36606);function o(){l.u4.serviceClick({navigationType:l.br.CORRELATION_OUTAGE})}let d=function(e){let t,r,l,d=(0,s.c)(8),{domain:c,name:u,absoluteUrl:m}=e,h=(0,i.c)();return u&&m?(d[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=(0,a.jsx)(n.default,{src:\"/images/problem.svg\",alt:\"\",width:16,height:16,className:\"hidden md:block w-4 h-4 flex-shrink-0\",\"aria-hidden\":\"true\"}),d[0]=t):t=d[0],d[1]!==m||d[2]!==c||d[3]!==u||d[4]!==h?(r=h.rich(\"correlation_outage_text\",{serviceName:u,link:e=>(0"
       }
     ],
     "topProblem": {
@@ -324,11 +324,11 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
-        "length": 121317,
-        "hasTimestamp": true,
-        "hasReportKeyword": false
+        "length": 200619,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-44b5aa4acd708308.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
@@ -338,25 +338,18 @@
         "hasReportKeyword": false
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/app/global-error-da281670e7e8b1b0.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-9308a6566ba6ed8a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
-        "length": 16796,
-        "hasTimestamp": false,
+        "length": 475524,
+        "hasTimestamp": true,
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4bd1b696-6e4df297af739462.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
-        "length": 200619,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-91bc138a77544b69.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 13453,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
+        "length": 121317,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/8806-7e0455fc6ebad6b1.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
@@ -366,9 +359,16 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/9698-5a632512e447444d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7431-ee73cf527a3d6abb.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
-        "length": 13631,
+        "length": 633096,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-91bc138a77544b69.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 13453,
         "hasTimestamp": false,
         "hasReportKeyword": true
       },
@@ -380,6 +380,13 @@
         "hasReportKeyword": true
       },
       {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/9698-5a632512e447444d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 13631,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-5c97a77d5cca3e3a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
         "length": 37425,
@@ -387,16 +394,9 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-9308a6566ba6ed8a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-eb0b1285bb0ab52a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
-        "length": 475524,
-        "hasTimestamp": true,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/6707-469128df561a176d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 33449,
+        "length": 14420,
         "hasTimestamp": false,
         "hasReportKeyword": true
       }
@@ -409,34 +409,10 @@
         "snippet": "多回報的問題</h2></div></div><div class=\"flex-grow flex flex-col\"><div class=\"flex-grow flex items-center\"><div class=\"flex flex-row justify-around gap-6 w-full\" role=\"list\" aria-label=\"Most reported problems breakdown\"><div class=\"flex flex-col items-center flex-1 min-w-0 max-w-[140px]\" role=\"listitem\" aria-label=\"行動網路: 83 percent of reports, 5 reports\"><div class=\"relative\" aria-hidden=\"true\"><div class=\"relative w-[80px] h-[80px]\"><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--></div><div class=\"absolute inset-0 flex items-center justify-center pointer-events-n"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 121317,
-        "snippet": "Change=4]=\"RateChange\",m);let tr=e=>s?(...t)=>{try{return e(...t)}catch(e){if(s&&!0===s(e))return()=>{};throw e}}:e;for(var tn=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\",ti=\"u\"<typeof Uint8Array?[]:new Uint8Array(256),ts=0;ts<tn.length;ts++)ti[tn.charCodeAt(ts)]=ts;class to{reset(){}freeze(){}unfreeze(){}lock(){}unlock(){}snapshot(){}addWindow(){}addShadowRoot(){}resetShadowRoots(){}}function ta(e){try{return e.contentDocument}catch(e){}}function tl(e){try{return e.contentWindow}catch(e){}}class tc{constructor(e){this.doc=e,this.unattachedDoc=null}parse(e){return this.p"
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-44b5aa4acd708308.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
         "length": 8822,
         "snippet": "\"].includes(\"development\")?console.debug(\"[Sentry] Skipped in development environment\"):(i.TsN({enabled:!0,dsn:\"https://190561a2e52cb9ee791f446da09bf252@o12669.ingest.us.sentry.io/4509767811137536\",sendDefaultPii:!1,integrations:[t.w({maskAllText:!1,blockAllMedia:!1}),s.y({filterKeys:[\"downdetector-core-frontend\"],behaviour:\"drop-error-if-exclusively-contains-third-party-frames\"})],denyUrls:[/pagead2\\.googlesyndication\\.com/i,/securepubads\\.g\\.doubleclick\\.net/i,/googlesyndication\\.com/i,/doubleclick\\.net/i,/googleadservices\\.com/i,/google-analytics\\.com/i,/tpc\\.googlesyndication\\.com/i,/googl"
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/9698-5a632512e447444d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 13631,
-        "snippet": "=(0,o.useContext)(i);if(null===e)throw Error(\"useIsLoginEnabled must be used within a LoginGateProvider\");return(0,o.useSyncExternalStore)(d,u,c)??e}},93228:(e,t,n)=>{n.d(t,{DomainOutageBannerContent:()=>s});var r=n(95155),a=n(19749),l=n(99345),o=n(10207);function i(e){let t,n,o,i=(0,a.c)(7),{text:s,display:c}=e,u=(0,l.c)();return c?(i[0]!==u?(t=u(\"accessibility_sr_alert\"),i[0]=u,i[1]=t):t=i[1],i[2]!==t?(n=(0,r.jsx)(\"span\",{className:\"sr-only\",children:t}),i[2]=t,i[3]=n):n=i[3],i[4]!==n||i[5]!==s?(o=(0,r.jsx)(\"div\",{role:\"alert\",\"aria-atomic\":\"true\",className:\"w-full bg-red-600 p-4\",children:("
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-ed37ba7642c7bf91.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 24748,
-        "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-5c97a77d5cca3e3a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
-        "contentType": "",
-        "length": 37425,
-        "snippet": "a-label\":e,children:[t,s]})}),c[7]=e,c[8]=s,c[9]=o):o=c[9],o}function d(){(0,o.P)(\"#comments-section\"),s.u4.clickComment({commentLocation:\"commentsJump\"})}},35297:(e,t,r)=>{r.d(t,{ChartRevealProvider:()=>o,x:()=>c});var n=r(95155),a=r(19749),i=r(12115),l=r(36606);let s=(0,i.createContext)(void 0);function o(e){let t,r,o,c=(0,a.c)(6),{children:d}=e,[u,m]=(0,i.useState)(!0);c[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=e=>{(void 0===e||e)&&l.u4.revealChart(),m(!0)},c[0]=t):t=c[0];let h=t;return c[1]!==u?(r={showChart:u,revealChart:h},c[1]=u,c[2]=r):r=c[2],c[3]!==d||c[4]!==r?(o=(0,n.jsx)(s.Pr"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-9308a6566ba6ed8a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
@@ -445,10 +421,34 @@
         "snippet": "is.emit(\"beforeSendSession\",e);let n=(0,N.LE)(e,this._dsn,this._options._metadata,this._options.tunnel);this.sendEnvelope(n)}recordDroppedEvent(e,t,r=1){if(this._options.sendClientReports){let n=`${e}:${t}`;l.T&&a.Yz.log(`Recording outcome: \"${n}\"${r>1?` (${r} times)`:\"\"}`),this._outcomes[n]=(this._outcomes[n]||0)+r}}on(e,t){let r=this._hooks[e]=this._hooks[e]||new Set,n=(...e)=>t(...e);return r.add(n),()=>{r.delete(n)}}emit(e,...t){let r=this._hooks[e];r&&r.forEach(e=>e(...t))}async sendEnvelope(e){if(this.emit(\"beforeEnvelope\",e),this._isEnabled()&&this._transport)try{return await this._tran"
       },
       {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 121317,
+        "snippet": "Change=4]=\"RateChange\",m);let tr=e=>s?(...t)=>{try{return e(...t)}catch(e){if(s&&!0===s(e))return()=>{};throw e}}:e;for(var tn=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\",ti=\"u\"<typeof Uint8Array?[]:new Uint8Array(256),ts=0;ts<tn.length;ts++)ti[tn.charCodeAt(ts)]=ts;class to{reset(){}freeze(){}unfreeze(){}lock(){}unlock(){}snapshot(){}addWindow(){}addShadowRoot(){}resetShadowRoots(){}}function ta(e){try{return e.contentDocument}catch(e){}}function tl(e){try{return e.contentWindow}catch(e){}}class tc{constructor(e){this.doc=e,this.unattachedDoc=null}parse(e){return this.p"
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/7431-ee73cf527a3d6abb.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
         "contentType": "",
         "length": 633096,
         "snippet": "coverySuggestion:\"Ensure app code is up to date, auth directives exist and are correct on each model, and that server-side data has not been invalidated by a schema change. If the problem persists, search for or create an issue: https://github.com/aws-amplify/amplify-js/issues\",localModel:null,message:s.message,model:f.name,operation:d,errorType:lJ(lY,s),process:eG.sync,remoteModel:null,cause:s})];case 4:return c.sent(),[3,6];case 5:return a=c.sent(),lQ.error(\"Mutation error handler failed with:\",a),[3,6];case 6:throw s;case 7:return lQ.debug(\"Mutation failed with authMode: \".concat(y[v-1],\"."
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7868-ed37ba7642c7bf91.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 24748,
+        "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/9698-5a632512e447444d.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 13631,
+        "snippet": "=(0,o.useContext)(i);if(null===e)throw Error(\"useIsLoginEnabled must be used within a LoginGateProvider\");return(0,o.useSyncExternalStore)(d,u,c)??e}},93228:(e,t,n)=>{n.d(t,{DomainOutageBannerContent:()=>s});var r=n(95155),a=n(19749),l=n(99345),o=n(10207);function i(e){let t,n,o,i=(0,a.c)(7),{text:s,display:c}=e,u=(0,l.c)();return c?(i[0]!==u?(t=u(\"accessibility_sr_alert\"),i[0]=u,i[1]=t):t=i[1],i[2]!==t?(n=(0,r.jsx)(\"span\",{className:\"sr-only\",children:t}),i[2]=t,i[3]=n):n=i[3],i[4]!==n||i[5]!==s?(o=(0,r.jsx)(\"div\",{role:\"alert\",\"aria-atomic\":\"true\",className:\"w-full bg-red-600 p-4\",children:("
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-5c97a77d5cca3e3a.js?dpl=a7fd9b093ce6cdb102a0b455a351cda8ce1ed25a",
+        "contentType": "",
+        "length": 37425,
+        "snippet": "a-label\":e,children:[t,s]})}),c[7]=e,c[8]=s,c[9]=o):o=c[9],o}function d(){(0,o.P)(\"#comments-section\"),s.u4.clickComment({commentLocation:\"commentsJump\"})}},35297:(e,t,r)=>{r.d(t,{ChartRevealProvider:()=>o,x:()=>c});var n=r(95155),a=r(19749),i=r(12115),l=r(36606);let s=(0,i.createContext)(void 0);function o(e){let t,r,o,c=(0,a.c)(6),{children:d}=e,[u,m]=(0,i.useState)(!0);c[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=e=>{(void 0===e||e)&&l.u4.revealChart(),m(!0)},c[0]=t):t=c[0];let h=t;return c[1]!==u?(r={showChart:u,revealChart:h},c[1]=u,c[2]=r):r=c[2],c[3]!==d||c[4]!==r?(o=(0,n.jsx)(s.Pr"
       }
     ],
     "topProblem": {
