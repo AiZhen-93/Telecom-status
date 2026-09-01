@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T06:21:19.085Z",
+  "updated": "2026-09-01T06:31:19.057Z",
   "cht": {
     "name": "中華電信",
     "reachable": true,
@@ -8,14 +8,14 @@
     "latestPointTime": null,
     "reportCountSource": "problemBreakdown",
     "reportPointCount": 0,
-    "responseSourceCount": 69,
+    "responseSourceCount": 68,
     "responseDebug": [
       {
-        "url": "https://downdetector.tw/site.webmanifest",
-        "contentType": "text/html; charset=UTF-8",
-        "length": 5902,
+        "url": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+        "contentType": "text/html; charset=utf-8",
+        "length": 318848,
         "hasTimestamp": true,
-        "hasReportKeyword": false
+        "hasReportKeyword": true
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-d6136c212de57d90.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
@@ -39,6 +39,13 @@
         "hasReportKeyword": false
       },
       {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/app/global-error-0564e7b69b6b654d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 16819,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/4110-91bc138a77544b69.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "text/javascript",
         "length": 13453,
@@ -53,6 +60,20 @@
         "hasReportKeyword": true
       },
       {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 121317,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-977a16118426b13f.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 475650,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/1973-d6c41d33a81831b2.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "text/javascript",
         "length": 25930,
@@ -60,10 +81,10 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-        "contentType": "text/html; charset=utf-8",
-        "length": 318847,
-        "hasTimestamp": true,
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7680-b27a5e6ba33190d3.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 11817,
+        "hasTimestamp": false,
         "hasReportKeyword": true
       },
       {
@@ -72,41 +93,14 @@
         "length": 119311,
         "hasTimestamp": false,
         "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4860-b3757a362190480b.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "text/javascript",
-        "length": 599797,
-        "hasTimestamp": true,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1394-f52152f0cdddec38.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "text/javascript",
-        "length": 13849,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-5260a8e1727f6063.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "text/javascript",
-        "length": 14420,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
       }
     ],
     "responseSnippets": [
       {
         "url": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
         "contentType": "text/html; charset=utf-8",
-        "length": 318847,
+        "length": 318848,
         "snippet": "多回報的問題</h2></div></div><div class=\"flex-grow flex flex-col\"><div class=\"flex-grow flex items-center\"><div class=\"flex flex-row justify-around gap-6 w-full\" role=\"list\" aria-label=\"Most reported problems breakdown\"><div class=\"flex flex-col items-center flex-1 min-w-0 max-w-[140px]\" role=\"listitem\" aria-label=\"寬頻網路: 50 percent of reports, 2 reports\"><div class=\"relative\" aria-hidden=\"true\"><div class=\"relative w-[80px] h-[80px]\"><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--></div><div class=\"absolute inset-0 flex items-center justify-center pointer-events-n"
-      },
-      {
-        "url": "https://downdetector.tw/site.webmanifest",
-        "contentType": "text/html; charset=UTF-8",
-        "length": 5902,
-        "snippet": "to continue</span></div></noscript></div></div><script nonce=\"7hV5gpr1VInGAaDTeUPT0f\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'Ov3VcE_UAsTILPelWwTljFenRkz5fJrzYdWfK_4bGwc-1788243680-1.2.1.1-yXAyyRf7xtCn7Wgvx03cbzReALetCjuSLgYnFoDLSduRbSBdcjuI94c3dk2.pqB.',cITimeS: '1788243680',cN: '7hV5gpr1VInGAaDTeUPT0f',cRay: 'a3422c9a9a70a21f',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site.webmanifest?__cf_chl_tk=zOhA4pO5Tp7Y5jhwTMZT5oelzCbc4ajRo0o3jzFFvKY-1788243680-1.0.1.1-1iwXmVN7c3WV6kkQNTqrB_.4ZCX0YnSjJBKM7gsEXn0\",cvId: '3',cZone: 'downdetector.tw',fa:\"/site.webmanifest?__c"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-d6136c212de57d90.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
@@ -121,16 +115,22 @@
         "snippet": "\"].includes(\"development\")?console.debug(\"[Sentry] Skipped in development environment\"):(i.TsN({enabled:!0,dsn:\"https://190561a2e52cb9ee791f446da09bf252@o12669.ingest.us.sentry.io/4509767811137536\",sendDefaultPii:!1,integrations:[t.w({maskAllText:!1,blockAllMedia:!1}),s.y({filterKeys:[\"downdetector-core-frontend\"],behaviour:\"drop-error-if-exclusively-contains-third-party-frames\"})],denyUrls:[/pagead2\\.googlesyndication\\.com/i,/securepubads\\.g\\.doubleclick\\.net/i,/googlesyndication\\.com/i,/doubleclick\\.net/i,/googleadservices\\.com/i,/google-analytics\\.com/i,/tpc\\.googlesyndication\\.com/i,/googl"
       },
       {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 121317,
+        "snippet": "Change=4]=\"RateChange\",m);let tr=e=>s?(...t)=>{try{return e(...t)}catch(e){if(s&&!0===s(e))return()=>{};throw e}}:e;for(var tn=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\",ti=\"u\"<typeof Uint8Array?[]:new Uint8Array(256),ts=0;ts<tn.length;ts++)ti[tn.charCodeAt(ts)]=ts;class to{reset(){}freeze(){}unfreeze(){}lock(){}unlock(){}snapshot(){}addWindow(){}addShadowRoot(){}resetShadowRoots(){}}function ta(e){try{return e.contentDocument}catch(e){}}function tl(e){try{return e.contentWindow}catch(e){}}class tc{constructor(e){this.doc=e,this.unattachedDoc=null}parse(e){return this.p"
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-977a16118426b13f.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 475650,
+        "snippet": "is.emit(\"beforeSendSession\",e);let n=(0,N.LE)(e,this._dsn,this._options._metadata,this._options.tunnel);this.sendEnvelope(n)}recordDroppedEvent(e,t,r=1){if(this._options.sendClientReports){let n=`${e}:${t}`;l.T&&a.Yz.log(`Recording outcome: \"${n}\"${r>1?` (${r} times)`:\"\"}`),this._outcomes[n]=(this._outcomes[n]||0)+r}}on(e,t){let r=this._hooks[e]=this._hooks[e]||new Set,n=(...e)=>t(...e);return r.add(n),()=>{r.delete(n)}}emit(e,...t){let r=this._hooks[e];r&&r.forEach(e=>e(...t))}async sendEnvelope(e){if(this.emit(\"beforeEnvelope\",e),this._isEnabled()&&this._transport)try{return await this._tran"
+      },
+      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/1973-d6c41d33a81831b2.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "text/javascript",
         "length": 25930,
         "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4860-b3757a362190480b.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "text/javascript",
-        "length": 599797,
-        "snippet": "coverySuggestion:\"Ensure app code is up to date, auth directives exist and are correct on each model, and that server-side data has not been invalidated by a schema change. If the problem persists, search for or create an issue: https://github.com/aws-amplify/amplify-js/issues\",localModel:null,message:s.message,model:f.name,operation:d,errorType:lJ(lY,s),process:eG.sync,remoteModel:null,cause:s})];case 4:return c.sent(),[3,6];case 5:return a=c.sent(),lQ.error(\"Mutation error handler failed with:\",a),[3,6];case 6:throw s;case 7:return lQ.debug(\"Mutation failed with authMode: \".concat(y[v-1],\"."
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/1394-f52152f0cdddec38.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
@@ -139,10 +139,10 @@
         "snippet": "e){try{sessionStorage.setItem(n,e)}catch{}}function s(){try{let e=sessionStorage.getItem(n);return sessionStorage.removeItem(n),e}catch{return null}}},93228:(e,t,r)=>{r.d(t,{DomainOutageBannerContent:()=>o});var n=r(95155),a=r(19749),s=r(99345),l=r(18392);function i(e){let t,r,l,i=(0,a.c)(7),{text:o,display:c}=e,d=(0,s.c)();return c?(i[0]!==d?(t=d(\"accessibility_sr_alert\"),i[0]=d,i[1]=t):t=i[1],i[2]!==t?(r=(0,n.jsx)(\"span\",{className:\"sr-only\",children:t}),i[2]=t,i[3]=r):r=i[3],i[4]!==r||i[5]!==o?(l=(0,n.jsx)(\"div\",{role:\"alert\",\"aria-atomic\":\"true\",className:\"w-full bg-red-600 p-4\",children:("
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-5260a8e1727f6063.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-77e38392cd49beee.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "text/javascript",
-        "length": 14420,
-        "snippet": "],e}return null}},18165:(e,t,r)=>{r.d(t,{default:()=>d});var a=r(95155),s=r(19749),n=r(73981),i=r(99345),l=r(36606);function o(){l.u4.serviceClick({navigationType:l.br.CORRELATION_OUTAGE})}let d=function(e){let t,r,l,d=(0,s.c)(8),{domain:c,name:u,absoluteUrl:m}=e,h=(0,i.c)();return u&&m?(d[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=(0,a.jsx)(n.default,{src:\"/images/problem.svg\",alt:\"\",width:16,height:16,className:\"hidden md:block w-4 h-4 flex-shrink-0\",\"aria-hidden\":\"true\"}),d[0]=t):t=d[0],d[1]!==m||d[2]!==c||d[3]!==u||d[4]!==h?(r=h.rich(\"correlation_outage_text\",{serviceName:u,link:e=>(0"
+        "length": 37425,
+        "snippet": "a-label\":e,children:[t,s]})}),c[7]=e,c[8]=s,c[9]=o):o=c[9],o}function d(){(0,o.P)(\"#comments-section\"),s.u4.clickComment({commentLocation:\"commentsJump\"})}},35297:(e,t,r)=>{r.d(t,{ChartRevealProvider:()=>o,x:()=>c});var n=r(95155),a=r(19749),i=r(12115),l=r(36606);let s=(0,i.createContext)(void 0);function o(e){let t,r,o,c=(0,a.c)(6),{children:d}=e,[u,m]=(0,i.useState)(!0);c[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=e=>{(void 0===e||e)&&l.u4.revealChart(),m(!0)},c[0]=t):t=c[0];let h=t;return c[1]!==u?(r={showChart:u,revealChart:h},c[1]=u,c[2]=r):r=c[2],c[3]!==d||c[4]!==r?(o=(0,n.jsx)(s.Pr"
       }
     ],
     "topProblem": {
@@ -151,7 +151,7 @@
     },
     "level": "green",
     "message": "根據用戶回報，Chunghwa Telecom 中華電信 運作正常",
-    "sample": "略過至主要內容\n台湾\n中文\n商務版\n關於我們\n返回首頁\n/\nChunghwa Telecom 中華電信\n根據用戶回報，Chunghwa Telecom 中華電信 運作正常\n\n中華電信是台灣最大的綜合電信服務供應商，在國內和國際固定通信、移動通信、寬帶和互聯網服務方面具有領先地位。\n\n回報問題\n\n選擇適用的問題\n\nWiFi\n寬頻網路\n帳單\n簡訊\n行動網路\n行動訊號\n語音通話\n電視\n跳至留言\n過去 24 小時內回報的 Chunghwa Telecom 中華電信 問題\n上午9時\n下午12時\n下午3時\n下午6時\n下午9時\n上午12時\n上午3時\n0\n10\n20\n30\n40\n了解統計方式\nDowndetector Explorer 企業版\n\n需要業務用的服務中斷資訊嗎？\n\nDowndetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。\n\n探索 Downdetector Explorer\n回報地圖\n查看地圖\n最多回報的問題\n50%\n寬頻網路\n25%\nWiFi\n25%\n行動網路\n你的意見回饋\n\n你對過去 3 個月的 Chunghwa Telecom 中華電信 服務評價如何？\n\n提交\n請先選擇評價\n在社群媒體上追蹤我們\n\nDowndetector® 現已在 Speedtest® 應用程式中提供\n\n下載即可取得你最愛的 Downdetector 功能、涵蓋範圍"
+    "sample": "略過至主要內容\n台湾\n中文\n商務版\n關於我們\n返回首頁\n/\nChunghwa Telecom 中華電信\n根據用戶回報，Chunghwa Telecom 中華電信 運作正常\n\n中華電信是台灣最大的綜合電信服務供應商，在國內和國際固定通信、移動通信、寬帶和互聯網服務方面具有領先地位。\n\n回報問題\n\n選擇適用的問題\n\nWiFi\n寬頻網路\n帳單\n簡訊\n行動網路\n行動訊號\n語音通話\n電視\n跳至留言\n過去 24 小時內回報的 Chunghwa Telecom 中華電信 問題\n上午9時\n下午12時\n下午3時\n下午6時\n下午9時\n上午12時\n上午3時\n上午6時\n0\n10\n20\n30\n40\n了解統計方式\nDowndetector Explorer 企業版\n\n需要業務用的服務中斷資訊嗎？\n\nDowndetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。\n\n探索 Downdetector Explorer\n回報地圖\n查看地圖\n最多回報的問題\n50%\n寬頻網路\n25%\nWiFi\n25%\n行動網路\n你的意見回饋\n\n你對過去 3 個月的 Chunghwa Telecom 中華電信 服務評價如何？\n\n提交\n請先選擇評價\n在社群媒體上追蹤我們\n\nDowndetector® 現已在 Speedtest® 應用程式中提供\n\n下載即可取得你最愛的 Downdetector 功能"
   },
   "fet": {
     "name": "遠傳電信",
@@ -164,9 +164,30 @@
     "responseSourceCount": 68,
     "responseDebug": [
       {
-        "url": "https://downdetector.tw/site.webmanifest",
-        "contentType": "text/html; charset=UTF-8",
-        "length": 5902,
+        "url": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
+        "contentType": "text/html; charset=utf-8",
+        "length": 311663,
+        "hasTimestamp": true,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-72efa823be7c187d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 8948,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-d6136c212de57d90.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "",
+        "length": 5932,
+        "hasTimestamp": true,
+        "hasReportKeyword": false
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "",
+        "length": 121317,
         "hasTimestamp": true,
         "hasReportKeyword": false
       },
@@ -199,18 +220,11 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4860-b3757a362190480b.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-977a16118426b13f.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
-        "length": 599797,
+        "length": 475650,
         "hasTimestamp": true,
         "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-d6136c212de57d90.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "",
-        "length": 5932,
-        "hasTimestamp": true,
-        "hasReportKeyword": false
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/7680-b27a5e6ba33190d3.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
@@ -220,23 +234,9 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4194-63066c30914e412a.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/1973-d6c41d33a81831b2.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
-        "length": 119311,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-72efa823be7c187d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "",
-        "length": 8948,
-        "hasTimestamp": true,
-        "hasReportKeyword": false
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1394-f52152f0cdddec38.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "",
-        "length": 13849,
+        "length": 25930,
         "hasTimestamp": false,
         "hasReportKeyword": true
       },
@@ -256,16 +256,10 @@
         "snippet": "多回報的問題</h2></div></div><div class=\"flex-grow flex flex-col\"><div class=\"flex-grow flex items-center\"><div class=\"flex flex-row justify-around gap-6 w-full\" role=\"list\" aria-label=\"Most reported problems breakdown\"><div class=\"flex flex-col items-center flex-1 min-w-0 max-w-[140px]\" role=\"listitem\" aria-label=\"行動網路: 100 percent of reports, 2 reports\"><div class=\"relative\" aria-hidden=\"true\"><div class=\"relative w-[80px] h-[80px]\"><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--></div><div class=\"absolute inset-0 flex items-center justify-center pointer-events-"
       },
       {
-        "url": "https://downdetector.tw/site.webmanifest",
-        "contentType": "text/html; charset=UTF-8",
-        "length": 5902,
-        "snippet": "to continue</span></div></noscript></div></div><script nonce=\"G74hBlS19qgXBVPuW3pxDY\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'ZHvGikWAxQ0lfxdq0vWZxa5tbCf9fRHmlbm1qf27QNk-1788243692-1.2.1.1-gBaYAgyGWUwJiGoYrAZe_vU8w8qA3h92ZqxJ_PrsYUJkHPQYc76F6E2QFdZNdlsd',cITimeS: '1788243692',cN: 'G74hBlS19qgXBVPuW3pxDY',cRay: 'a3422ce5ca6ba21f',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site.webmanifest?__cf_chl_tk=6hVcfFCMYPHwGvhhNoEeLm1gNPes3wcljsxo.eTNsjQ-1788243692-1.0.1.1-BOVFB6SFIYvVIhaEQllCcanK3edtJBaxuRevvpTICDs\",cvId: '3',cZone: 'downdetector.tw',fa:\"/site.webmanifest?__c"
-      },
-      {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/4860-b3757a362190480b.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "",
-        "length": 599797,
-        "snippet": "coverySuggestion:\"Ensure app code is up to date, auth directives exist and are correct on each model, and that server-side data has not been invalidated by a schema change. If the problem persists, search for or create an issue: https://github.com/aws-amplify/amplify-js/issues\",localModel:null,message:s.message,model:f.name,operation:d,errorType:lJ(lY,s),process:eG.sync,remoteModel:null,cause:s})];case 4:return c.sent(),[3,6];case 5:return a=c.sent(),lQ.error(\"Mutation error handler failed with:\",a),[3,6];case 6:throw s;case 7:return lQ.debug(\"Mutation failed with authMode: \".concat(y[v-1],\"."
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-72efa823be7c187d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 8948,
+        "snippet": "\"].includes(\"development\")?console.debug(\"[Sentry] Skipped in development environment\"):(i.TsN({enabled:!0,dsn:\"https://190561a2e52cb9ee791f446da09bf252@o12669.ingest.us.sentry.io/4509767811137536\",sendDefaultPii:!1,integrations:[t.w({maskAllText:!1,blockAllMedia:!1}),s.y({filterKeys:[\"downdetector-core-frontend\"],behaviour:\"drop-error-if-exclusively-contains-third-party-frames\"})],denyUrls:[/pagead2\\.googlesyndication\\.com/i,/securepubads\\.g\\.doubleclick\\.net/i,/googlesyndication\\.com/i,/doubleclick\\.net/i,/googleadservices\\.com/i,/google-analytics\\.com/i,/tpc\\.googlesyndication\\.com/i,/googl"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-d6136c212de57d90.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
@@ -274,16 +268,22 @@
         "snippet": ",{\"_sentryBundlerPluginAppKey:downdetector-core-frontend\":!0});var t=(new e.Error).stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]=\"906f7cd0-a0d3-4726-8131-a9934997967c\",e._sentryDebugIdIdentifier=\"sentry-dbid-906f7cd0-a0d3-4726-8131-a9934997967c\")}catch(e){}}(),(()=>{\"use strict\";var e,t,r,o,n,a,d,i,l,s={},c={};function u(e){var t=c[e];if(void 0!==t)return t.exports;var r=c[e]={id:e,loaded:!1,exports:{}},o=!0;try{s[e].call(r.exports,r,r.exports,u),o=!1}finally{o&&delete c[e]}return r.loaded=!0,r.exports}u.m=s,e=[],u.O=(t,r,o,n)=>{if(r){n=n||0;for(var a=e.length;a>0&&e[a"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-72efa823be7c187d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/4a7b0c69-c5771fddca04030a.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
-        "length": 8948,
-        "snippet": "\"].includes(\"development\")?console.debug(\"[Sentry] Skipped in development environment\"):(i.TsN({enabled:!0,dsn:\"https://190561a2e52cb9ee791f446da09bf252@o12669.ingest.us.sentry.io/4509767811137536\",sendDefaultPii:!1,integrations:[t.w({maskAllText:!1,blockAllMedia:!1}),s.y({filterKeys:[\"downdetector-core-frontend\"],behaviour:\"drop-error-if-exclusively-contains-third-party-frames\"})],denyUrls:[/pagead2\\.googlesyndication\\.com/i,/securepubads\\.g\\.doubleclick\\.net/i,/googlesyndication\\.com/i,/doubleclick\\.net/i,/googleadservices\\.com/i,/google-analytics\\.com/i,/tpc\\.googlesyndication\\.com/i,/googl"
+        "length": 121317,
+        "snippet": "Change=4]=\"RateChange\",m);let tr=e=>s?(...t)=>{try{return e(...t)}catch(e){if(s&&!0===s(e))return()=>{};throw e}}:e;for(var tn=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\",ti=\"u\"<typeof Uint8Array?[]:new Uint8Array(256),ts=0;ts<tn.length;ts++)ti[tn.charCodeAt(ts)]=ts;class to{reset(){}freeze(){}unfreeze(){}lock(){}unlock(){}snapshot(){}addWindow(){}addShadowRoot(){}resetShadowRoots(){}}function ta(e){try{return e.contentDocument}catch(e){}}function tl(e){try{return e.contentWindow}catch(e){}}class tc{constructor(e){this.doc=e,this.unattachedDoc=null}parse(e){return this.p"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1394-f52152f0cdddec38.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-977a16118426b13f.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
-        "length": 13849,
-        "snippet": "e){try{sessionStorage.setItem(n,e)}catch{}}function s(){try{let e=sessionStorage.getItem(n);return sessionStorage.removeItem(n),e}catch{return null}}},93228:(e,t,r)=>{r.d(t,{DomainOutageBannerContent:()=>o});var n=r(95155),a=r(19749),s=r(99345),l=r(18392);function i(e){let t,r,l,i=(0,a.c)(7),{text:o,display:c}=e,d=(0,s.c)();return c?(i[0]!==d?(t=d(\"accessibility_sr_alert\"),i[0]=d,i[1]=t):t=i[1],i[2]!==t?(r=(0,n.jsx)(\"span\",{className:\"sr-only\",children:t}),i[2]=t,i[3]=r):r=i[3],i[4]!==r||i[5]!==o?(l=(0,n.jsx)(\"div\",{role:\"alert\",\"aria-atomic\":\"true\",className:\"w-full bg-red-600 p-4\",children:("
+        "length": 475650,
+        "snippet": "is.emit(\"beforeSendSession\",e);let n=(0,N.LE)(e,this._dsn,this._options._metadata,this._options.tunnel);this.sendEnvelope(n)}recordDroppedEvent(e,t,r=1){if(this._options.sendClientReports){let n=`${e}:${t}`;l.T&&a.Yz.log(`Recording outcome: \"${n}\"${r>1?` (${r} times)`:\"\"}`),this._outcomes[n]=(this._outcomes[n]||0)+r}}on(e,t){let r=this._hooks[e]=this._hooks[e]||new Set,n=(...e)=>t(...e);return r.add(n),()=>{r.delete(n)}}emit(e,...t){let r=this._hooks[e];r&&r.forEach(e=>e(...t))}async sendEnvelope(e){if(this.emit(\"beforeEnvelope\",e),this._isEnabled()&&this._transport)try{return await this._tran"
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/1973-d6c41d33a81831b2.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "",
+        "length": 25930,
+        "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-77e38392cd49beee.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
@@ -292,10 +292,10 @@
         "snippet": "a-label\":e,children:[t,s]})}),c[7]=e,c[8]=s,c[9]=o):o=c[9],o}function d(){(0,o.P)(\"#comments-section\"),s.u4.clickComment({commentLocation:\"commentsJump\"})}},35297:(e,t,r)=>{r.d(t,{ChartRevealProvider:()=>o,x:()=>c});var n=r(95155),a=r(19749),i=r(12115),l=r(36606);let s=(0,i.createContext)(void 0);function o(e){let t,r,o,c=(0,a.c)(6),{children:d}=e,[u,m]=(0,i.useState)(!0);c[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=e=>{(void 0===e||e)&&l.u4.revealChart(),m(!0)},c[0]=t):t=c[0];let h=t;return c[1]!==u?(r={showChart:u,revealChart:h},c[1]=u,c[2]=r):r=c[2],c[3]!==d||c[4]!==r?(o=(0,n.jsx)(s.Pr"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1973-d6c41d33a81831b2.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/1394-f52152f0cdddec38.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
-        "length": 25930,
-        "snippet": "nt:o.R2.SELECT_DOMAIN,countryCodeSelected:e.countryCodeSelected,domainSelected:e.domainSelected})},toggleTheme(e){s({event:o.R2.TOGGLE_THEME,themeSelected:e.themeSelected})},revealChart(){s({event:o.R2.REVEAL_CHART})},clickComment(e){s({event:o.R2.CLICK_COMMENT,commentLocation:e.commentLocation})},virtualPageview(e){s({event:o.R2.VIRTUAL_PAGEVIEW,page_path:e.page_path,page_title:e.page_title,eventCallback:()=>{s({navigationType:void 0})}})},footerLinkClick(e){s({event:o.R2.CLICK_FOOTER_LINK,destination:e.destination})},indicatorV2(e){s({event:o.R2.INDICATOR_V2,problemIndicator:e.problemIndicat"
+        "length": 13849,
+        "snippet": "e){try{sessionStorage.setItem(n,e)}catch{}}function s(){try{let e=sessionStorage.getItem(n);return sessionStorage.removeItem(n),e}catch{return null}}},93228:(e,t,r)=>{r.d(t,{DomainOutageBannerContent:()=>o});var n=r(95155),a=r(19749),s=r(99345),l=r(18392);function i(e){let t,r,l,i=(0,a.c)(7),{text:o,display:c}=e,d=(0,s.c)();return c?(i[0]!==d?(t=d(\"accessibility_sr_alert\"),i[0]=d,i[1]=t):t=i[1],i[2]!==t?(r=(0,n.jsx)(\"span\",{className:\"sr-only\",children:t}),i[2]=t,i[3]=r):r=i[3],i[4]!==r||i[5]!==o?(l=(0,n.jsx)(\"div\",{role:\"alert\",\"aria-atomic\":\"true\",className:\"w-full bg-red-600 p-4\",children:("
       }
     ],
     "topProblem": {
@@ -304,7 +304,7 @@
     },
     "level": "green",
     "message": "根據用戶回報，Far EasTone Telecommunications (FET) 遠傳電信 運作正常",
-    "sample": "略過至主要內容\n台湾\n中文\n商務版\n關於我們\n返回首頁\n/\nFar EasTone Telecommunications (FET) 遠傳電信\n根據用戶回報，Far EasTone Telecommunications (FET) 遠傳電信 運作正常\n\nFar EasTone Telecommunications 是一家位於台灣的電信公司。\n\n回報問題\n\n選擇適用的問題\n\n帳單\n簡訊\n網站\n行動網路\n行動訊號\n語音通話\n跳至留言\n過去 24 小時內回報的 Far EasTone Telecommunications (FET) 遠傳電信 問題\n上午9時\n下午12時\n下午3時\n下午6時\n下午9時\n上午12時\n上午3時\n0\n10\n20\n30\n40\n了解統計方式\nDowndetector Explorer 企業版\n\n需要業務用的服務中斷資訊嗎？\n\nDowndetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。\n\n探索 Downdetector Explorer\n回報地圖\n查看地圖\n最多回報的問題\n100%\n行動網路\n你的意見回饋\n\n你對過去 3 個月的 Far EasTone Telecommunications (FET) 遠傳電信 服務評價如何？\n\n提交\n請先選擇評價\n在社群媒體上追蹤我們\n\nDowndetector® 現已在 Speedte"
+    "sample": "略過至主要內容\n台湾\n中文\n商務版\n關於我們\n返回首頁\n/\nFar EasTone Telecommunications (FET) 遠傳電信\n根據用戶回報，Far EasTone Telecommunications (FET) 遠傳電信 運作正常\n\nFar EasTone Telecommunications 是一家位於台灣的電信公司。\n\n回報問題\n\n選擇適用的問題\n\n帳單\n簡訊\n網站\n行動網路\n行動訊號\n語音通話\n跳至留言\n過去 24 小時內回報的 Far EasTone Telecommunications (FET) 遠傳電信 問題\n上午9時\n下午12時\n下午3時\n下午6時\n下午9時\n上午12時\n上午3時\n上午6時\n0\n10\n20\n30\n40\n了解統計方式\nDowndetector Explorer 企業版\n\n需要業務用的服務中斷資訊嗎？\n\nDowndetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。\n\n探索 Downdetector Explorer\n回報地圖\n查看地圖\n最多回報的問題\n100%\n行動網路\n你的意見回饋\n\n你對過去 3 個月的 Far EasTone Telecommunications (FET) 遠傳電信 服務評價如何？\n\n提交\n請先選擇評價\n在社群媒體上追蹤我們\n\nDowndetector® 現已在 Sp"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -314,12 +314,12 @@
     "latestPointTime": null,
     "reportCountSource": "problemBreakdown",
     "reportPointCount": 0,
-    "responseSourceCount": 67,
+    "responseSourceCount": 68,
     "responseDebug": [
       {
-        "url": "https://downdetector.tw/site.webmanifest",
-        "contentType": "text/html; charset=UTF-8",
-        "length": 5880,
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-72efa823be7c187d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 8948,
         "hasTimestamp": true,
         "hasReportKeyword": false
       },
@@ -345,13 +345,6 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-72efa823be7c187d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "",
-        "length": 8948,
-        "hasTimestamp": true,
-        "hasReportKeyword": false
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/app/global-error-0564e7b69b6b654d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
         "length": 16819,
@@ -373,13 +366,6 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/7680-b27a5e6ba33190d3.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "",
-        "length": 11817,
-        "hasTimestamp": false,
-        "hasReportKeyword": true
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-977a16118426b13f.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
         "length": 475650,
@@ -394,9 +380,23 @@
         "hasReportKeyword": true
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1394-f52152f0cdddec38.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-77e38392cd49beee.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
-        "length": 13849,
+        "length": 37425,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-5260a8e1727f6063.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "",
+        "length": 14420,
+        "hasTimestamp": false,
+        "hasReportKeyword": true
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/7680-b27a5e6ba33190d3.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "",
+        "length": 11817,
         "hasTimestamp": false,
         "hasReportKeyword": true
       }
@@ -409,10 +409,10 @@
         "snippet": "多回報的問題</h2></div></div><div class=\"flex-grow flex flex-col\"><div class=\"flex-grow flex items-center\"><div class=\"flex flex-row justify-around gap-6 w-full\" role=\"list\" aria-label=\"Most reported problems breakdown\"><div class=\"flex flex-col items-center flex-1 min-w-0 max-w-[140px]\" role=\"listitem\" aria-label=\"行動網路: 46 percent of reports, 6 reports\"><div class=\"relative\" aria-hidden=\"true\"><div class=\"relative w-[80px] h-[80px]\"><!--$!--><template data-dgst=\"BAILOUT_TO_CLIENT_SIDE_RENDERING\"></template><!--/$--></div><div class=\"absolute inset-0 flex items-center justify-center pointer-events-n"
       },
       {
-        "url": "https://downdetector.tw/site.webmanifest",
-        "contentType": "text/html; charset=UTF-8",
-        "length": 5880,
-        "snippet": "to continue</span></div></noscript></div></div><script nonce=\"GL17qx264znHdgxmgaHxdQ\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'jUFl5kLcMtAh7GS91_RSkrY1Id24NXLO5Zk.Pu8aaT4-1788243701-1.2.1.1-QJ3pm0SprNkHkprLqUgbX8is653w8PeLi1wI2VIJj9sQ5h.UQHKz_9.sZvUF.zfH',cITimeS: '1788243701',cN: 'GL17qx264znHdgxmgaHxdQ',cRay: 'a3422d1ecbeda21f',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/site.webmanifest?__cf_chl_tk=OWCZEycZfiTJhJCnp43PTGro7JFU._Rjrz_c6T0G5hw-1788243701-1.0.1.1-3VHCSM_2SP5pYcTuYKHTSfOiyrVEtp6K_r5OeRu.Uto\",cvId: '3',cZone: 'downdetector.tw',fa:\"/site.webmanifest?__c"
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-72efa823be7c187d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "text/javascript",
+        "length": 8948,
+        "snippet": "\"].includes(\"development\")?console.debug(\"[Sentry] Skipped in development environment\"):(i.TsN({enabled:!0,dsn:\"https://190561a2e52cb9ee791f446da09bf252@o12669.ingest.us.sentry.io/4509767811137536\",sendDefaultPii:!1,integrations:[t.w({maskAllText:!1,blockAllMedia:!1}),s.y({filterKeys:[\"downdetector-core-frontend\"],behaviour:\"drop-error-if-exclusively-contains-third-party-frames\"})],denyUrls:[/pagead2\\.googlesyndication\\.com/i,/securepubads\\.g\\.doubleclick\\.net/i,/googlesyndication\\.com/i,/doubleclick\\.net/i,/googleadservices\\.com/i,/google-analytics\\.com/i,/tpc\\.googlesyndication\\.com/i,/googl"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/webpack-d6136c212de57d90.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
@@ -427,28 +427,28 @@
         "snippet": "Change=4]=\"RateChange\",m);let tr=e=>s?(...t)=>{try{return e(...t)}catch(e){if(s&&!0===s(e))return()=>{};throw e}}:e;for(var tn=\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/\",ti=\"u\"<typeof Uint8Array?[]:new Uint8Array(256),ts=0;ts<tn.length;ts++)ti[tn.charCodeAt(ts)]=ts;class to{reset(){}freeze(){}unfreeze(){}lock(){}unlock(){}snapshot(){}addWindow(){}addShadowRoot(){}resetShadowRoots(){}}function ta(e){try{return e.contentDocument}catch(e){}}function tl(e){try{return e.contentWindow}catch(e){}}class tc{constructor(e){this.doc=e,this.unattachedDoc=null}parse(e){return this.p"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/main-app-72efa823be7c187d.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
-        "contentType": "",
-        "length": 8948,
-        "snippet": "\"].includes(\"development\")?console.debug(\"[Sentry] Skipped in development environment\"):(i.TsN({enabled:!0,dsn:\"https://190561a2e52cb9ee791f446da09bf252@o12669.ingest.us.sentry.io/4509767811137536\",sendDefaultPii:!1,integrations:[t.w({maskAllText:!1,blockAllMedia:!1}),s.y({filterKeys:[\"downdetector-core-frontend\"],behaviour:\"drop-error-if-exclusively-contains-third-party-frames\"})],denyUrls:[/pagead2\\.googlesyndication\\.com/i,/securepubads\\.g\\.doubleclick\\.net/i,/googlesyndication\\.com/i,/doubleclick\\.net/i,/googleadservices\\.com/i,/google-analytics\\.com/i,/tpc\\.googlesyndication\\.com/i,/googl"
-      },
-      {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/3060-977a16118426b13f.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
         "length": 475650,
         "snippet": "is.emit(\"beforeSendSession\",e);let n=(0,N.LE)(e,this._dsn,this._options._metadata,this._options.tunnel);this.sendEnvelope(n)}recordDroppedEvent(e,t,r=1){if(this._options.sendClientReports){let n=`${e}:${t}`;l.T&&a.Yz.log(`Recording outcome: \"${n}\"${r>1?` (${r} times)`:\"\"}`),this._outcomes[n]=(this._outcomes[n]||0)+r}}on(e,t){let r=this._hooks[e]=this._hooks[e]||new Set,n=(...e)=>t(...e);return r.add(n),()=>{r.delete(n)}}emit(e,...t){let r=this._hooks[e];r&&r.forEach(e=>e(...t))}async sendEnvelope(e){if(this.emit(\"beforeEnvelope\",e),this._isEnabled()&&this._transport)try{return await this._tran"
       },
       {
-        "url": "https://cdn3.downdetector.com/_next/static/chunks/1394-f52152f0cdddec38.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/5225-77e38392cd49beee.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
-        "length": 13849,
-        "snippet": "e){try{sessionStorage.setItem(n,e)}catch{}}function s(){try{let e=sessionStorage.getItem(n);return sessionStorage.removeItem(n),e}catch{return null}}},93228:(e,t,r)=>{r.d(t,{DomainOutageBannerContent:()=>o});var n=r(95155),a=r(19749),s=r(99345),l=r(18392);function i(e){let t,r,l,i=(0,a.c)(7),{text:o,display:c}=e,d=(0,s.c)();return c?(i[0]!==d?(t=d(\"accessibility_sr_alert\"),i[0]=d,i[1]=t):t=i[1],i[2]!==t?(r=(0,n.jsx)(\"span\",{className:\"sr-only\",children:t}),i[2]=t,i[3]=r):r=i[3],i[4]!==r||i[5]!==o?(l=(0,n.jsx)(\"div\",{role:\"alert\",\"aria-atomic\":\"true\",className:\"w-full bg-red-600 p-4\",children:("
+        "length": 37425,
+        "snippet": "a-label\":e,children:[t,s]})}),c[7]=e,c[8]=s,c[9]=o):o=c[9],o}function d(){(0,o.P)(\"#comments-section\"),s.u4.clickComment({commentLocation:\"commentsJump\"})}},35297:(e,t,r)=>{r.d(t,{ChartRevealProvider:()=>o,x:()=>c});var n=r(95155),a=r(19749),i=r(12115),l=r(36606);let s=(0,i.createContext)(void 0);function o(e){let t,r,o,c=(0,a.c)(6),{children:d}=e,[u,m]=(0,i.useState)(!0);c[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=e=>{(void 0===e||e)&&l.u4.revealChart(),m(!0)},c[0]=t):t=c[0];let h=t;return c[1]!==u?(r={showChart:u,revealChart:h},c[1]=u,c[2]=r):r=c[2],c[3]!==d||c[4]!==r?(o=(0,n.jsx)(s.Pr"
       },
       {
         "url": "https://cdn3.downdetector.com/_next/static/chunks/1741-5260a8e1727f6063.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
         "contentType": "",
         "length": 14420,
         "snippet": "],e}return null}},18165:(e,t,r)=>{r.d(t,{default:()=>d});var a=r(95155),s=r(19749),n=r(73981),i=r(99345),l=r(36606);function o(){l.u4.serviceClick({navigationType:l.br.CORRELATION_OUTAGE})}let d=function(e){let t,r,l,d=(0,s.c)(8),{domain:c,name:u,absoluteUrl:m}=e,h=(0,i.c)();return u&&m?(d[0]===Symbol.for(\"react.memo_cache_sentinel\")?(t=(0,a.jsx)(n.default,{src:\"/images/problem.svg\",alt:\"\",width:16,height:16,className:\"hidden md:block w-4 h-4 flex-shrink-0\",\"aria-hidden\":\"true\"}),d[0]=t):t=d[0],d[1]!==m||d[2]!==c||d[3]!==u||d[4]!==h?(r=h.rich(\"correlation_outage_text\",{serviceName:u,link:e=>(0"
+      },
+      {
+        "url": "https://cdn3.downdetector.com/_next/static/chunks/1394-f52152f0cdddec38.js?dpl=f2a3f03716e00c36202ab613789ef3548daea2d4",
+        "contentType": "",
+        "length": 13849,
+        "snippet": "e){try{sessionStorage.setItem(n,e)}catch{}}function s(){try{let e=sessionStorage.getItem(n);return sessionStorage.removeItem(n),e}catch{return null}}},93228:(e,t,r)=>{r.d(t,{DomainOutageBannerContent:()=>o});var n=r(95155),a=r(19749),s=r(99345),l=r(18392);function i(e){let t,r,l,i=(0,a.c)(7),{text:o,display:c}=e,d=(0,s.c)();return c?(i[0]!==d?(t=d(\"accessibility_sr_alert\"),i[0]=d,i[1]=t):t=i[1],i[2]!==t?(r=(0,n.jsx)(\"span\",{className:\"sr-only\",children:t}),i[2]=t,i[3]=r):r=i[3],i[4]!==r||i[5]!==o?(l=(0,n.jsx)(\"div\",{role:\"alert\",\"aria-atomic\":\"true\",className:\"w-full bg-red-600 p-4\",children:("
       }
     ],
     "topProblem": {
@@ -457,6 +457,6 @@
     },
     "level": "green",
     "message": "根據用戶回報，Taiwan Mobile 台灣大哥大 運作正常",
-    "sample": "略過至主要內容\n台湾\n中文\n商務版\n關於我們\n返回首頁\n/\nTaiwan Mobile 台灣大哥大\n根據用戶回報，Taiwan Mobile 台灣大哥大 運作正常\n\n台灣移動（中文：台灣大哥大；拼音：Táiwān Dàgēdà）是一家位於台灣的移動電話運營商。它是僅次於中華電信的第二大電信公司。\n\n回報問題\n\n選擇適用的問題\n\nWiFi\n寬頻網路\n帳單\n簡訊\n行動網路\n行動訊號\n語音通話\n電視\n跳至留言\n過去 24 小時內回報的 Taiwan Mobile 台灣大哥大 問題\n上午9時\n下午12時\n下午3時\n下午6時\n下午9時\n上午12時\n上午3時\n0\n10\n20\n30\n40\n了解統計方式\nDowndetector Explorer 企業版\n\n需要業務用的服務中斷資訊嗎？\n\nDowndetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。\n\n探索 Downdetector Explorer\n回報地圖\n查看地圖\n最多回報的問題\n46%\n行動網路\n23%\n寬頻網路\n15%\nWiFi\n你的意見回饋\n\n你對過去 3 個月的 Taiwan Mobile 台灣大哥大 服務評價如何？\n\n提交\n請先選擇評價\n在社群媒體上追蹤我們\n\nDowndetector® 現已在 Speedtest® 應用程式中提供\n\n下載即可取得你最愛的 Downdetector 功能、"
+    "sample": "略過至主要內容\n台湾\n中文\n商務版\n關於我們\n返回首頁\n/\nTaiwan Mobile 台灣大哥大\n根據用戶回報，Taiwan Mobile 台灣大哥大 運作正常\n\n台灣移動（中文：台灣大哥大；拼音：Táiwān Dàgēdà）是一家位於台灣的移動電話運營商。它是僅次於中華電信的第二大電信公司。\n\n回報問題\n\n選擇適用的問題\n\nWiFi\n寬頻網路\n帳單\n簡訊\n行動網路\n行動訊號\n語音通話\n電視\n跳至留言\n過去 24 小時內回報的 Taiwan Mobile 台灣大哥大 問題\n上午9時\n下午12時\n下午3時\n下午6時\n下午9時\n上午12時\n上午3時\n上午6時\n0\n10\n20\n30\n40\n了解統計方式\nDowndetector Explorer 企業版\n\n需要業務用的服務中斷資訊嗎？\n\nDowndetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。\n\n探索 Downdetector Explorer\n回報地圖\n查看地圖\n最多回報的問題\n46%\n行動網路\n23%\n寬頻網路\n15%\nWiFi\n你的意見回饋\n\n你對過去 3 個月的 Taiwan Mobile 台灣大哥大 服務評價如何？\n\n提交\n請先選擇評價\n在社群媒體上追蹤我們\n\nDowndetector® 現已在 Speedtest® 應用程式中提供\n\n下載即可取得你最愛的 Downdetecto"
   }
 }
