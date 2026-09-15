@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T10:43:09.189Z",
+  "updated": "2026-09-15T10:58:09.029Z",
   "mode": "local-browser",
   "source": "downdetector.tw",
   "cht": {
@@ -19,7 +19,7 @@
     "message": "",
     "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
     "error": "Blocked by Cloudflare verification",
-    "sample": "downdetector.tw\n正在執行安全驗證\n\n此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。\n\nRay ID: a3b7076f7ba36b6f\nPerformance and Security by Cloudflare\n隱私權"
+    "sample": "downdetector.tw\n正在執行安全驗證\n\n此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。\n\nRay ID: a3b71d610cc6d4e1\nPerformance and Security by Cloudflare\n隱私權"
   },
   "fet": {
     "name": "遠傳電信",
@@ -38,7 +38,7 @@
     "message": "",
     "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
     "error": "Blocked by Cloudflare verification",
-    "sample": "downdetector.tw\n正在執行安全驗證\n\n此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。\n\nRay ID: a3b709ca7937826a\nPerformance and Security by Cloudflare\n隱私權"
+    "sample": "downdetector.tw\n正在執行安全驗證\n\n此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。\n\nRay ID: a3b71fb9bc01a3ac\nPerformance and Security by Cloudflare\n隱私權"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -57,6 +57,6 @@
     "message": "",
     "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
     "error": "Blocked by Cloudflare verification",
-    "sample": "downdetector.tw\n正在執行安全驗證\n\n此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。\n\nRay ID: a3b70c20c9a2f22a\nPerformance and Security by Cloudflare\n隱私權"
+    "sample": "downdetector.tw\n正在執行安全驗證\n\n此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。\n\nRay ID: a3b722130ba5a3a6\nPerformance and Security by Cloudflare\n隱私權"
   }
 }
