@@ -1,10 +1,11 @@
 {
-  "updated": "2026-09-15T13:43:52.345Z",
+  "updated": "2026-09-15T13:54:14.008Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
     "name": "中華電信",
     "reachable": false,
+    "blocked": true,
     "normalTextFound": false,
     "reports": null,
     "latestPointTime": null,
@@ -16,7 +17,11 @@
     },
     "level": "green",
     "message": "",
-    "error": "Snapshot expired"
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+    "pageLoadedAt": "2026-09-15T13:54:13.976Z",
+    "capturedAt": "2026-09-15T13:54:13.984Z",
+    "error": "Blocked by Cloudflare verification",
+    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a3b81f43ec7f842e Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
   },
   "fet": {
     "name": "遠傳電信",
@@ -32,23 +37,22 @@
     },
     "level": "green",
     "message": "",
-    "error": "Snapshot expired"
+    "error": "Waiting for browser tab snapshot"
   },
   "twm": {
     "name": "台灣大哥大",
-    "reachable": true,
-    "normalTextFound": true,
-    "reports": 3,
+    "reachable": false,
+    "normalTextFound": false,
+    "reports": null,
     "latestPointTime": null,
-    "reportCountSource": "browserText",
+    "reportCountSource": "none",
     "reportPointCount": 0,
     "topProblem": {
-      "share": 50,
-      "label": "行動網路"
+      "label": "",
+      "share": 0
     },
     "level": "green",
-    "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "sample": "Taiwan Mobile 台灣大哥大 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Taiwan Mobile 台灣大哥大 根據用戶回報，Taiwan Mobile 台灣大哥大 運作正常 台灣移動（中文：台灣大哥大；拼音：Táiwān Dàgēdà）是一家位於台灣的移動電話運營商。它是僅次於中華電信的第二大電信公司。 回報問題 選擇適用的問題 行動支付 行動訊號 行動網路 電視 語音通話 寬頻網路 簡訊 WiFi 跳至留言 過去 24 小時內回報的 Taiwan Mobile 台灣大哥大 問題 上午12時 上午3時 上午6時 上午9時 下午12時 下午3時 下午6時 0 10 20 30 40 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 50% 行動網路 17% 行動訊號 17% 電視 你的意見回饋 你對過去 3 個月的 Taiwan Mobile 台灣大哥大 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speed"
+    "message": "",
+    "error": "Waiting for browser tab snapshot"
   }
 }
