@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T19:42:29.259Z",
+  "updated": "2026-09-17T19:53:33.861Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -17,30 +17,28 @@
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
     "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-09-17T19:41:31.580Z",
-    "capturedAt": "2026-09-17T19:41:31.581Z",
-    "sample": "Chunghwa Telecom 中華電信 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Chunghwa Telecom 中華電信 根據用戶回報，Chunghwa Telecom 中華電信 運作正常 中華電信是台灣最大的綜合電信服務供應商，在國內和國際固定通信、移動通信、寬帶和互聯網服務方面具有領先地位。 回報問題 選擇適用的問題 行動支付 行動訊號 行動網路 電視 語音通話 寬頻網路 簡訊 WiFi 跳至留言 過去 24 小時內回報的 Chunghwa Telecom 中華電信 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 50% 寬頻網路 25% 行動網路 13% WiFi 你的意見回饋 你對過去 3 個月的 Chunghwa Telecom 中華電信 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應用程式中提供 下載即可取得你最愛的 Downdetector 功能、涵蓋範圍地圖及更多內"
+    "pageLoadedAt": "2026-09-17T19:53:33.853Z",
+    "capturedAt": "2026-09-17T19:53:33.855Z",
+    "sample": "Chunghwa Telecom 中華電信 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Chunghwa Telecom 中華電信 根據用戶回報，Chunghwa Telecom 中華電信 運作正常 中華電信是台灣最大的綜合電信服務供應商，在國內和國際固定通信、移動通信、寬帶和互聯網服務方面具有領先地位。 回報問題 選擇適用的問題 WiFi 寬頻網路 簡訊 行動支付 行動網路 行動訊號 語音通話 電視 跳至留言 過去 24 小時內回報的 Chunghwa Telecom 中華電信 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 50% 寬頻網路 25% 行動網路 13% WiFi 你的意見回饋 你對過去 3 個月的 Chunghwa Telecom 中華電信 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應用程式中提供 下載即可取得你最愛的 Downdetector 功能、涵蓋範圍地圖及更多內"
   },
   "fet": {
     "name": "遠傳電信",
-    "reachable": false,
-    "blocked": true,
-    "normalTextFound": false,
-    "reports": null,
+    "reachable": true,
+    "normalTextFound": true,
+    "reports": 2,
     "latestPointTime": null,
-    "reportCountSource": "none",
+    "reportCountSource": "browserText",
     "reportPointCount": 0,
     "topProblem": {
-      "label": "",
-      "share": 0
+      "share": 50,
+      "label": "行動網路"
     },
     "level": "green",
-    "message": "",
+    "message": "根據用戶回報，遠傳電信 連線正常",
     "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-09-17T19:42:29.195Z",
-    "capturedAt": "2026-09-17T19:42:29.254Z",
-    "error": "Blocked by Cloudflare verification",
-    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a3ca982b1bfb8f15 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
+    "pageLoadedAt": "2026-09-17T19:51:33.356Z",
+    "capturedAt": "2026-09-17T19:51:33.357Z",
+    "sample": "Far EasTone Telecommunications (FET) 遠傳電信 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Far EasTone Telecommunications (FET) 遠傳電信 根據用戶回報，Far EasTone Telecommunications (FET) 遠傳電信 運作正常 Far EasTone Telecommunications 是一家位於台灣的電信公司。 回報問題 選擇適用的問題 行動訊號 行動網路 帳單 網站 語音通話 簡訊 跳至留言 過去 24 小時內回報的 Far EasTone Telecommunications (FET) 遠傳電信 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 50% 行動網路 25% 網站 25% 行動訊號 你的意見回饋 你對過去 3 個月的 Far EasTone Telecommunications (FET) 遠傳電信 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -57,8 +55,8 @@
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
     "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-09-17T19:40:30.463Z",
-    "capturedAt": "2026-09-17T19:40:30.464Z",
+    "pageLoadedAt": "2026-09-17T19:52:33.370Z",
+    "capturedAt": "2026-09-17T19:52:33.372Z",
     "sample": "Taiwan Mobile 台灣大哥大 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Taiwan Mobile 台灣大哥大 根據用戶回報，Taiwan Mobile 台灣大哥大 運作正常 台灣移動（中文：台灣大哥大；拼音：Táiwān Dàgēdà）是一家位於台灣的移動電話運營商。它是僅次於中華電信的第二大電信公司。 回報問題 選擇適用的問題 WiFi 寬頻網路 簡訊 行動支付 行動網路 行動訊號 語音通話 電視 跳至留言 過去 24 小時內回報的 Taiwan Mobile 台灣大哥大 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 80% 行動網路 10% 寬頻網路 10% 行動訊號 你的意見回饋 你對過去 3 個月的 Taiwan Mobile 台灣大哥大 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應用程式中提供 下載即可取得你最愛的 Downdetector 功能、涵蓋範圍地圖及更"
   }
 }
