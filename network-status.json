@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T23:15:57.383Z",
+  "updated": "2026-09-24T23:48:19.609Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -17,30 +17,32 @@
     },
     "level": "green",
     "message": "",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=A9Ylk5EQTY0z7UoLSKzRY96kowpmUWu187Me6h7uNlY-1790291744-1.0.1.1-z5YYFE8eazS9BWPugw1gFf9Wj9f_TrB_Bi1Ou5vIbxM",
-    "pageLoadedAt": "2026-09-24T23:15:44.053Z",
-    "capturedAt": "2026-09-24T23:15:44.057Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+    "pageLoadedAt": "2026-09-24T23:46:35.604Z",
+    "capturedAt": "2026-09-24T23:46:35.608Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "Just a moment..."
+    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a4057e2819db4a64 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
   },
   "fet": {
     "name": "遠傳電信",
-    "reachable": true,
-    "normalTextFound": true,
-    "reports": 3,
+    "reachable": false,
+    "blocked": true,
+    "normalTextFound": false,
+    "reports": null,
     "latestPointTime": null,
-    "reportCountSource": "browserText",
+    "reportCountSource": "none",
     "reportPointCount": 0,
     "topProblem": {
-      "share": 60,
-      "label": "行動網路"
+      "label": "",
+      "share": 0
     },
     "level": "green",
-    "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-09-24T23:15:57.238Z",
-    "capturedAt": "2026-09-24T23:15:57.376Z",
-    "sample": "Far EasTone Telecommunications (FET) 遠傳電信 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Far EasTone Telecommunications (FET) 遠傳電信 根據用戶回報，Far EasTone Telecommunications (FET) 遠傳電信 運作正常 Far EasTone Telecommunications 是一家位於台灣的電信公司。 回報問題 選擇適用的問題 帳單 簡訊 網站 行動網路 行動訊號 語音通話 跳至留言 過去 24 小時內回報的 Far EasTone Telecommunications (FET) 遠傳電信 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 60% 行動網路 20% 網站 20% 行動訊號 你的意見回饋 你對過去 3 個月的 Far EasTone Telecommunications (FET) 遠傳電信 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤"
+    "message": "",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=0dMpnskJO35yyH4VTPe9IE9UF02rakd9jVq8bvfuB2U-1790293598-1.0.1.1-G07eSZg8kdB8wsTMjXeFfNJeUXDCVKD2T0tyoMHoF4Q",
+    "pageLoadedAt": "2026-09-24T23:46:39.048Z",
+    "capturedAt": "2026-09-24T23:46:39.051Z",
+    "error": "Blocked by Cloudflare verification",
+    "sample": "Just a moment..."
   },
   "twm": {
     "name": "台灣大哥大",
@@ -57,10 +59,10 @@
     },
     "level": "green",
     "message": "",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=Ni0soFqxs2KjFkvS8IfEzyt5ytTmhodnRDBkxMtDBjM-1790291744-1.0.1.1-Z63v3kwZFWdZMiG15qyVgHC7yOUBKJgGs45AHwCA1mU",
-    "pageLoadedAt": "2026-09-24T23:15:44.063Z",
-    "capturedAt": "2026-09-24T23:15:44.066Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
+    "pageLoadedAt": "2026-09-24T23:48:19.585Z",
+    "capturedAt": "2026-09-24T23:48:19.587Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "Just a moment..."
+    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a405ade699b24a63 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
   }
 }
