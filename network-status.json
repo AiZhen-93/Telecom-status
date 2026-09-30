@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T05:09:12.855Z",
+  "updated": "2026-09-30T05:54:11.481Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -17,9 +17,9 @@
     },
     "level": "green",
     "message": "",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=2LCEIGbZXuiGTjVv7xt74Hh6zFUK52NDjfM6oz2Y7dY-1790744952-1.0.1.1-NPUa0vjOyzri6QTVJkx4QgVw_mZoSw2aaMnKk0s5h6s",
-    "pageLoadedAt": "2026-09-30T05:09:12.475Z",
-    "capturedAt": "2026-09-30T05:09:12.478Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=OCGgSPs.Q3p0up96zvNlFg1dGLglamQb.pV8GY_5pw8-1790747651-1.0.1.1-7G83Nb0_JPObo3I5XHbllxToto.7MjlTd71yQIcUSTM",
+    "pageLoadedAt": "2026-09-30T05:54:11.452Z",
+    "capturedAt": "2026-09-30T05:54:11.457Z",
     "error": "Blocked by Cloudflare verification",
     "sample": "Just a moment..."
   },
@@ -38,11 +38,11 @@
     },
     "level": "green",
     "message": "",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-09-30T05:09:12.750Z",
-    "capturedAt": "2026-09-30T05:09:12.837Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=DyuhmtzZcmLNCCKVpCJfSrAwXSB_WWiaQOJVeZ30e2I-1790747651-1.0.1.1-wlYYzz4C4e90b_wUAIPNTz7rFFc_tmO41I8IVy0EUMI",
+    "pageLoadedAt": "2026-09-30T05:54:11.431Z",
+    "capturedAt": "2026-09-30T05:54:11.436Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a430b6d22e0aa9b6 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
+    "sample": "Just a moment..."
   },
   "twm": {
     "name": "台灣大哥大",
@@ -59,9 +59,9 @@
     },
     "level": "green",
     "message": "",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=FpEo11VPtbadEMc6lzqwGCTVM4rC1Hfi1AGX0pqi2YM-1790744952-1.0.1.1-vyj232Ak3JHadHF8maBV_zzON13c.rLEh0PSoKZaNkY",
-    "pageLoadedAt": "2026-09-30T05:09:12.630Z",
-    "capturedAt": "2026-09-30T05:09:12.632Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=YAiYOj2VH3UfSxzBdCkqkkDTvbCYWOm3wFNbaU8CFA4-1790747651-1.0.1.1-Ko2IXI3S5r4c_sjI4c_B1p90YvzXms42pvZdXhAccng",
+    "pageLoadedAt": "2026-09-30T05:54:11.473Z",
+    "capturedAt": "2026-09-30T05:54:11.476Z",
     "error": "Blocked by Cloudflare verification",
     "sample": "Just a moment..."
   }
