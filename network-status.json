@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T23:22:03.465Z",
+  "updated": "2026-09-30T23:37:03.801Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -18,10 +18,10 @@
     "level": "green",
     "message": "",
     "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-09-30T23:21:39.472Z",
-    "capturedAt": "2026-09-30T23:21:39.474Z",
+    "pageLoadedAt": "2026-09-30T23:36:40.145Z",
+    "capturedAt": "2026-09-30T23:36:40.148Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a436f71398a18442 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
+    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a4370d10ba4656f4 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
   },
   "fet": {
     "name": "遠傳電信",
@@ -39,10 +39,10 @@
     "level": "green",
     "message": "",
     "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-09-30T23:21:51.524Z",
-    "capturedAt": "2026-09-30T23:21:51.526Z",
+    "pageLoadedAt": "2026-09-30T23:36:52.187Z",
+    "capturedAt": "2026-09-30T23:36:52.189Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a436f75e7b284a85 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
+    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a4370d5c9f224a8e Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -59,10 +59,10 @@
     },
     "level": "green",
     "message": "",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-09-30T23:22:03.383Z",
-    "capturedAt": "2026-09-30T23:22:03.387Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=8qUq7KxOL32JS2GP2ZYMQwJq.NfRFd9oHNlhDTKVPSI-1790811423-1.0.1.1-y6diehcTIcNZILqvgl4trBKf17tMb3Z7AfviYO6aUP0",
+    "pageLoadedAt": "2026-09-30T23:37:03.503Z",
+    "capturedAt": "2026-09-30T23:37:03.506Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a436f7aa3d574aa2 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
+    "sample": "Just a moment..."
   }
 }
