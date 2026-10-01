@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T01:21:48.464Z",
+  "updated": "2026-10-01T01:36:49.459Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -18,10 +18,10 @@
     "level": "green",
     "message": "",
     "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-01T01:21:24.457Z",
-    "capturedAt": "2026-10-01T01:21:24.459Z",
+    "pageLoadedAt": "2026-10-01T01:36:25.049Z",
+    "capturedAt": "2026-10-01T01:36:25.051Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a437a67a5e444a67 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
+    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a437bc770db7d4e1 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
   },
   "fet": {
     "name": "遠傳電信",
@@ -38,11 +38,11 @@
     },
     "level": "green",
     "message": "",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=aqlg1q5.9i7myhvt7yQbHzjcRFI7QHKL0xoPqmswE0Y-1790817696-1.0.1.1-HQWLiWKjnx71s5Ewgbg5jUeHDtd7MZPaOHJseoZhP_M",
-    "pageLoadedAt": "2026-10-01T01:21:36.275Z",
-    "capturedAt": "2026-10-01T01:21:36.276Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
+    "pageLoadedAt": "2026-10-01T01:36:37.301Z",
+    "capturedAt": "2026-10-01T01:36:37.303Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "Just a moment..."
+    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a437bcc3b9ad8463 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -60,9 +60,9 @@
     "level": "green",
     "message": "",
     "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-01T01:21:48.420Z",
-    "capturedAt": "2026-10-01T01:21:48.422Z",
+    "pageLoadedAt": "2026-10-01T01:36:49.407Z",
+    "capturedAt": "2026-10-01T01:36:49.410Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a437a7110fbab846 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
+    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a437bd0f68804a87 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
   }
 }
