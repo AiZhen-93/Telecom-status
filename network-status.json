@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T11:07:42.446Z",
+  "updated": "2026-10-01T11:22:42.101Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -17,9 +17,9 @@
     },
     "level": "green",
     "message": "",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=2KbA6GjtnunhD.l7a5f4xX_mhQE76dc9Rs7qS6HWlNo-1790852836-1.0.1.1-bbBL_haRkZ2vn5VSdF82G4fhqd2V2YpbNgQu7rZhF7k",
-    "pageLoadedAt": "2026-10-01T11:07:16.110Z",
-    "capturedAt": "2026-10-01T11:07:16.112Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=9Inf7dNsSrpoMhIP.rEZ49R8PyHSoQxEWxLJIUayS9E-1790853736-1.0.1.1-wpfjbc86pxJTJ9GOOrz_5wRfigyQE4JrtVjrGhREsAM",
+    "pageLoadedAt": "2026-10-01T11:22:16.183Z",
+    "capturedAt": "2026-10-01T11:22:16.184Z",
     "error": "Blocked by Cloudflare verification",
     "sample": "Just a moment..."
   },
@@ -38,11 +38,11 @@
     },
     "level": "green",
     "message": "",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-01T11:07:29.656Z",
-    "capturedAt": "2026-10-01T11:07:29.660Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=BFuUqmtb6WXTKhGqd8KMARFfQuPFkubBdpL67Jxjj6s-1790853749-1.0.1.1-H7P3BOuzlXTtgBxTFpF25E8i3H725gxkcqk7h6RDmsw",
+    "pageLoadedAt": "2026-10-01T11:22:29.080Z",
+    "capturedAt": "2026-10-01T11:22:29.081Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a43b01013db35706 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
+    "sample": "Just a moment..."
   },
   "twm": {
     "name": "台灣大哥大",
@@ -60,9 +60,9 @@
     "level": "green",
     "message": "",
     "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-01T11:07:42.391Z",
-    "capturedAt": "2026-10-01T11:07:42.396Z",
+    "pageLoadedAt": "2026-10-01T11:22:41.983Z",
+    "capturedAt": "2026-10-01T11:22:41.985Z",
     "error": "Blocked by Cloudflare verification",
-    "sample": "請稍候... downdetector.tw 正在執行安全驗證 此網站使用安全服務抵禦惡意機器人。當網站驗證並確認您不是機器人時，便會顯示此頁面。 Ray ID: a43b015049de6a98 Performance and Security by Cloudflare 隱私權 Cloudflare，在新分頁中開啟 隱私權，在新分頁中開啟"
+    "sample": "Just a moment..."
   }
 }
