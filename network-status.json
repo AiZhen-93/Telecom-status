@@ -1,25 +1,25 @@
 {
-  "updated": "2026-10-08T13:15:47.256Z",
+  "updated": "2026-10-08T13:30:43.801Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
     "name": "中華電信",
     "reachable": true,
     "normalTextFound": true,
-    "reports": 4,
+    "reports": 0,
     "latestPointTime": null,
-    "reportCountSource": "browserText",
+    "reportCountSource": "normalTextFallback",
     "reportPointCount": 0,
     "topProblem": {
-      "share": 40,
-      "label": "行動網路"
+      "label": "",
+      "share": 0
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-08T13:15:21.865Z",
-    "capturedAt": "2026-10-08T13:15:21.867Z",
-    "sample": "Chunghwa Telecom 中華電信 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Chunghwa Telecom 中華電信 根據用戶回報，Chunghwa Telecom 中華電信 運作正常 中華電信是台灣最大的綜合電信服務供應商，在國內和國際固定通信、移動通信、寬帶和互聯網服務方面具有領先地位。 回報問題 選擇適用的問題 WiFi 寬頻網路 簡訊 行動支付 行動網路 行動訊號 語音通話 電視 跳至留言 過去 24 小時內回報的 Chunghwa Telecom 中華電信 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 40% 行動網路 40% 寬頻網路 10% 行動訊號 你的意見回饋 你對過去 3 個月的 Chunghwa Telecom 中華電信 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應用程式中提供 下載即可取得你最愛的 Downdetector 功能、涵蓋範圍地圖及更多內"
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=U0yTnXreGq7SfNNHmSLEB7RFGvgpvP5aRFdQaSOhBW8-1791466220-1.0.1.1-EO5RVJe38hKtBNDSTlTo7kApK610oCizkmMv2NfH4uA",
+    "pageLoadedAt": "2026-10-08T13:30:19.668Z",
+    "capturedAt": "2026-10-08T13:30:19.669Z",
+    "sample": "Downdetector"
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,28 +35,28 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=0SwJpeRyTUjCvvd18zO9mHuH46QqOcBNQ3_7RgA7T_Q-1791465334-1.0.1.1-048N5gZkcxASfzSubi7sLqk6AdliPa00e7XXCYNA.SM",
-    "pageLoadedAt": "2026-10-08T13:15:33.912Z",
-    "capturedAt": "2026-10-08T13:15:33.913Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=X6GHg_BPszvqRn09PoQaaAHS0cX69G5sdxq4U8ZXeaY-1791466231-1.0.1.1-eRxnGQ6W0ViRmtSaOAn4azaeHMvKG1W7U0BHXk3MJZM",
+    "pageLoadedAt": "2026-10-08T13:30:31.243Z",
+    "capturedAt": "2026-10-08T13:30:31.244Z",
     "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
     "reachable": true,
     "normalTextFound": true,
-    "reports": 3,
+    "reports": 0,
     "latestPointTime": null,
-    "reportCountSource": "browserText",
+    "reportCountSource": "normalTextFallback",
     "reportPointCount": 0,
     "topProblem": {
-      "share": 50,
-      "label": "行動網路"
+      "label": "",
+      "share": 0
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-08T13:15:47.246Z",
-    "capturedAt": "2026-10-08T13:15:47.248Z",
-    "sample": "Taiwan Mobile 台灣大哥大 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Taiwan Mobile 台灣大哥大 根據用戶回報，Taiwan Mobile 台灣大哥大 運作正常 台灣移動（中文：台灣大哥大；拼音：Táiwān Dàgēdà）是一家位於台灣的移動電話運營商。它是僅次於中華電信的第二大電信公司。 回報問題 選擇適用的問題 WiFi 寬頻網路 簡訊 行動支付 行動網路 行動訊號 語音通話 電視 跳至留言 過去 24 小時內回報的 Taiwan Mobile 台灣大哥大 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 50% 行動網路 33% 寬頻網路 17% WiFi 你的意見回饋 你對過去 3 個月的 Taiwan Mobile 台灣大哥大 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應用程式中提供 下載即可取得你最愛的 Downdetector 功能、涵蓋範圍地圖及更"
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=6XC8ZkPYXGCu9jYDxWnJj.H2L._hdx7Dn_JIAOMVnUs-1791466244-1.0.1.1-KhMVsK27AyBjGzjV2V0sAmsiylCvPWhe0aYtQn.xsrE",
+    "pageLoadedAt": "2026-10-08T13:30:43.790Z",
+    "capturedAt": "2026-10-08T13:30:43.791Z",
+    "sample": "Downdetector"
   }
 }
