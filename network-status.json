@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T00:35:19.833Z",
+  "updated": "2026-10-08T00:50:19.725Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=9ww7gFNYvCksnKQt3burm4TOW7A_Y0kuQfktSkWQNxk-1791419694-1.0.1.1-g4hGcWxQLItYomq1KgWKOEkWRd9l6Jt1n6zaFLF4bk4",
-    "pageLoadedAt": "2026-10-08T00:34:54.446Z",
-    "capturedAt": "2026-10-08T00:34:54.448Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+    "pageLoadedAt": "2026-10-08T00:49:55.886Z",
+    "capturedAt": "2026-10-08T00:49:55.888Z",
+    "sample": "請稍候..."
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-08T00:35:07.402Z",
-    "capturedAt": "2026-10-08T00:35:07.404Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=D_OcEWeYXX2wfbl0mpDq0a6smuo2txbI29ssz08zqBo-1791420607-1.0.1.1-mWotsPFATyLzgDLZ7TYObpAfLTsbCh1LpjI3oP2PgE0",
+    "pageLoadedAt": "2026-10-08T00:50:07.710Z",
+    "capturedAt": "2026-10-08T00:50:07.712Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-08T00:35:19.779Z",
-    "capturedAt": "2026-10-08T00:35:19.783Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=VRq5NwuYSvI03yzXVhMvzWEFTqHtFyYKrGjR9qpsXbM-1791420619-1.0.1.1-G1LbgfvQD82Vn3ToA97b2cziNRQ2kGi4z1Rd8.Nic.4",
+    "pageLoadedAt": "2026-10-08T00:50:19.671Z",
+    "capturedAt": "2026-10-08T00:50:19.673Z",
+    "sample": "Downdetector"
   }
 }
