@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T13:17:23.560Z",
+  "updated": "2026-10-09T13:32:24.804Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=nZJ_UqLg_9xIlzkDd8.0ydkwxj5KCTdMJFutL2gA_Xs-1791551819-1.0.1.1-s657_twYXTv54cCMfxKpc7KaycTgLWS7bPRuk8pshiQ",
-    "pageLoadedAt": "2026-10-09T13:16:59.037Z",
-    "capturedAt": "2026-10-09T13:16:59.040Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=1dj0R2YNzfE4TScJ1gZyBTi3y0K1LEe1elXqcelf4s4-1791552719-1.0.1.1-1ujeVDslU.N8Z3eAt7Yg8DJIjtLEHHoZsxfTeeSdAVw",
+    "pageLoadedAt": "2026-10-09T13:31:59.852Z",
+    "capturedAt": "2026-10-09T13:31:59.854Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -35,9 +35,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=OOubeUOpxB93jBs2smKwNBkyldGmmzduZGPQcj2sFyw-1791551831-1.0.1.1-X8g2A.selWF_1B8T9vN7BB.PQUXrJd4omOU2TZbj41g",
-    "pageLoadedAt": "2026-10-09T13:17:11.165Z",
-    "capturedAt": "2026-10-09T13:17:11.166Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=Mm2BToGoKqw_ZX68Yx.SMp2EPr9T6XONb_NnpBkcD2o-1791552732-1.0.1.1-zxaO41kr2kcvYePY5QN9BTDU5ix0fBdHhRUUqx9bWlA",
+    "pageLoadedAt": "2026-10-09T13:32:12.248Z",
+    "capturedAt": "2026-10-09T13:32:12.250Z",
     "sample": "Downdetector"
   },
   "twm": {
@@ -55,8 +55,8 @@
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
     "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-09T13:17:23.496Z",
-    "capturedAt": "2026-10-09T13:17:23.499Z",
+    "pageLoadedAt": "2026-10-09T13:32:24.721Z",
+    "capturedAt": "2026-10-09T13:32:24.723Z",
     "sample": "請稍候..."
   }
 }
