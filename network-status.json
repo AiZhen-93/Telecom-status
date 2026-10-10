@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:03:21.424Z",
+  "updated": "2026-10-10T13:18:24.903Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=z.USdvswro2VVoAbyGzBR3gzic1IhfBQlEEq3R9XNPo-1791637377-1.0.1.1-bzSx_sgqFOtH.eIjGXvMLUK9rw8NRY_6iZYYBxwYPX8",
-    "pageLoadedAt": "2026-10-10T13:02:57.219Z",
-    "capturedAt": "2026-10-10T13:02:57.223Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=vgqUg4M7Vq8oI4NZmmqbx86gaWeP_PygdgbjKKdNLZI-1791638280-1.0.1.1-5kiRrmUf3vehT4ndU9yOJh07i7XUpW7lHAGMTcqbico",
+    "pageLoadedAt": "2026-10-10T13:18:00.310Z",
+    "capturedAt": "2026-10-10T13:18:00.311Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -36,8 +36,8 @@
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
     "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-10T13:03:09.259Z",
-    "capturedAt": "2026-10-10T13:03:09.260Z",
+    "pageLoadedAt": "2026-10-10T13:18:12.840Z",
+    "capturedAt": "2026-10-10T13:18:12.842Z",
     "sample": "請稍候..."
   },
   "twm": {
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=IxPt0hJBvPpyyOcs99JHPLA79P0j85G0ixZXYwTwUwo-1791637402-1.0.1.1-P4_NJjl05hDt27NWQFHE5GCDhXyikLVmNnyAtugI18k",
-    "pageLoadedAt": "2026-10-10T13:03:21.418Z",
-    "capturedAt": "2026-10-10T13:03:21.419Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=_S.Ke6Y_MN7WN1AMCjEc2ch2zYUBvUuvSDoA.6Z64zE-1791638305-1.0.1.1-ao.SrNNOERV4Nudwi5G_xBflfLP24lNXIwPgEkTKNas",
+    "pageLoadedAt": "2026-10-10T13:18:24.879Z",
+    "capturedAt": "2026-10-10T13:18:24.886Z",
     "sample": "Downdetector"
   }
 }
