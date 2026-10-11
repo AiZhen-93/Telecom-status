@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:30:37.781Z",
+  "updated": "2026-10-11T23:45:37.758Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -17,8 +17,8 @@
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
     "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-11T23:30:13.618Z",
-    "capturedAt": "2026-10-11T23:30:13.620Z",
+    "pageLoadedAt": "2026-10-11T23:45:14.230Z",
+    "capturedAt": "2026-10-11T23:45:14.232Z",
     "sample": "請稍候..."
   },
   "fet": {
@@ -35,9 +35,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=nkCaLli81eYzcnfgrTIWhUJCinx7IDwjKY8O0VBWhb0-1791761426-1.0.1.1-lXC6B4B3QbGI0oQNLJuFvX3pRsrn13qcVilYa57LARk",
-    "pageLoadedAt": "2026-10-11T23:30:25.434Z",
-    "capturedAt": "2026-10-11T23:30:25.436Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=HxMS8Tie.Gw3XhOgfyk3L4dzNo.eIdps8jvZXAG36gg-1791762327-1.0.1.1-3UBArmnVtgahuhSLb1ojVWekv10G2aQaDqET2eiQs2Y",
+    "pageLoadedAt": "2026-10-11T23:45:25.903Z",
+    "capturedAt": "2026-10-11T23:45:25.905Z",
     "sample": "Downdetector"
   },
   "twm": {
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=F03b74Ng5Hl4vDxVqzEpO7Y941wT2QJYWwatIiozMXQ-1791761438-1.0.1.1-AVaU35W76B7aZHxqzdOM5e_o0GpJnDsEUnYxr3nIn9Q",
-    "pageLoadedAt": "2026-10-11T23:30:37.655Z",
-    "capturedAt": "2026-10-11T23:30:37.663Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=sP0OH1CfD7LtaxCfS6dbqCDRUEoenIGBpb.sMk_PGsk-1791762338-1.0.1.1-QP6LC6ZhhAWyBLC_ijd8KJ08WAzGbzWPAObwqY8SSw4",
+    "pageLoadedAt": "2026-10-11T23:45:37.737Z",
+    "capturedAt": "2026-10-11T23:45:37.742Z",
     "sample": "Downdetector"
   }
 }
