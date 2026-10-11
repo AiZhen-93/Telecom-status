@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T03:19:27.027Z",
+  "updated": "2026-10-11T03:34:26.443Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=BkJYZ8tlSOcee66C2xbMfYwDWkOToV19iZJukNYMflU-1791688741-1.0.1.1-W4zuYRVEDKEVz9tdL52hvCr_uLSsc_OM_yN572.8u_8",
-    "pageLoadedAt": "2026-10-11T03:19:01.098Z",
-    "capturedAt": "2026-10-11T03:19:01.101Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=OSABK9Te2tS7tmVlY3bk7Hkp9eukURZh1SZKPgkGgAs-1791689642-1.0.1.1-3vigPh4SJ17nVlLbuzV_RKl4QrG69vNWnixWzPOGAsI",
+    "pageLoadedAt": "2026-10-11T03:34:01.901Z",
+    "capturedAt": "2026-10-11T03:34:01.902Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-11T03:19:14.528Z",
-    "capturedAt": "2026-10-11T03:19:14.530Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=MmileOUOPEHvW9VeHLRBSsZnHPFyPNu.QFcx_vq.R.Q-1791689654-1.0.1.1-ZPVyVH.k5od8xNhGLcq8rl7jSs06gEqGroksLzny4AA",
+    "pageLoadedAt": "2026-10-11T03:34:14.125Z",
+    "capturedAt": "2026-10-11T03:34:14.128Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-11T03:19:26.974Z",
-    "capturedAt": "2026-10-11T03:19:26.976Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=N5GPB.Y_6q5BRmw0jLuSTWIvRaibDnaLfzM3TUFINXo-1791689666-1.0.1.1-rPwCkwi36K3gb9TdnQul2mqnZ2pZT5trJklHMzYP_u0",
+    "pageLoadedAt": "2026-10-11T03:34:26.424Z",
+    "capturedAt": "2026-10-11T03:34:26.425Z",
+    "sample": "Downdetector"
   }
 }
