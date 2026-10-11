@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T04:04:30.168Z",
+  "updated": "2026-10-11T04:19:29.034Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=q2RxD1FjiEWeomxuUxMtp59giXmfDLMqUS6CMbNPiUQ-1791691445-1.0.1.1-ol7qsKU4EFjX.RhZhdxc2z1r_Nr28DnFeBdNIQfHw2M",
-    "pageLoadedAt": "2026-10-11T04:04:05.412Z",
-    "capturedAt": "2026-10-11T04:04:05.414Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=5_DO5m2OQog6g.98PlWoCplr0Ipjk8s_oJoAM4TpwOY-1791692344-1.0.1.1-vD6obt0QA7i3r7ibrYvQocemUOogLnW0hPOkRF3sB9Y",
+    "pageLoadedAt": "2026-10-11T04:19:03.936Z",
+    "capturedAt": "2026-10-11T04:19:03.944Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -35,9 +35,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=L8ILYemKAjOgA1L7bsy_FJBjkHwXS7RAM4p7xJYDlmQ-1791691457-1.0.1.1-qCsFqtYPaBpJodUa1nKD5bv1zHSKiPfAMUVQ_3QIlT8",
-    "pageLoadedAt": "2026-10-11T04:04:17.077Z",
-    "capturedAt": "2026-10-11T04:04:17.079Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=mDmoXgLx.JQIH9CmZqYPGClwNymAIDHlY.8j2HPvDg0-1791692357-1.0.1.1-TXZS6mstJ.nrDc_lFCyo5ZC3sQj_gjDqdwRdHUHC00E",
+    "pageLoadedAt": "2026-10-11T04:19:16.963Z",
+    "capturedAt": "2026-10-11T04:19:16.964Z",
     "sample": "Downdetector"
   },
   "twm": {
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-11T04:04:30.131Z",
-    "capturedAt": "2026-10-11T04:04:30.133Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=.F_4gUqUBWvsRkELBtawRCRps.VZy.kF6MSYwv4F1Rc-1791692369-1.0.1.1-vO0rhl6loqQM4sdh3X8jdYTjDBRVdsXskrcXW8UuVx8",
+    "pageLoadedAt": "2026-10-11T04:19:29.024Z",
+    "capturedAt": "2026-10-11T04:19:29.026Z",
+    "sample": "Downdetector"
   }
 }
