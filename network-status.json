@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T01:04:17.906Z",
+  "updated": "2026-10-11T01:19:17.534Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-11T01:03:53.538Z",
-    "capturedAt": "2026-10-11T01:03:53.541Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=wGyN3A88tIqV9Zz6NvLm0YpE1x8PN4gJSecthspILPA-1791681533-1.0.1.1-3e1r8saMT99Sog57XcWMHhOb0w8wadSjV0MMM935rPY",
+    "pageLoadedAt": "2026-10-11T01:18:53.729Z",
+    "capturedAt": "2026-10-11T01:18:53.730Z",
+    "sample": "Downdetector"
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,9 +35,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=tp_ZJSiYnZ7NmdftIo7yc.X7HQHXTBEzilzDzWE.XPM-1791680645-1.0.1.1-KCbLWZ5DsJ1UMyyXgNlKSzU3dY.Ubmq9dBC8fkpDMzA",
-    "pageLoadedAt": "2026-10-11T01:04:05.325Z",
-    "capturedAt": "2026-10-11T01:04:05.328Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=4UCg..Yr13WLRcgx9EFxwV214cTwKFPaZ1GQ6LBgXPc-1791681545-1.0.1.1-t5yz.hwE1T.Z6Se8_zyhJHO8ji3N7z3MNIho_7bGspw",
+    "pageLoadedAt": "2026-10-11T01:19:05.531Z",
+    "capturedAt": "2026-10-11T01:19:05.535Z",
     "sample": "Downdetector"
   },
   "twm": {
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-11T01:04:17.862Z",
-    "capturedAt": "2026-10-11T01:04:17.865Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=BNM_vPD0xnj_84BaLCHKmbb5RzO8h_77mQAO1R0HonA-1791681557-1.0.1.1-ePr6CM5sHsRlX4rBZr2fXSWCQ4SeaiY3AcrxuhgjMrU",
+    "pageLoadedAt": "2026-10-11T01:19:17.519Z",
+    "capturedAt": "2026-10-11T01:19:17.521Z",
+    "sample": "Downdetector"
   }
 }
