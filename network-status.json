@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T03:00:48.133Z",
+  "updated": "2026-10-12T03:15:47.725Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=_9LdbiiHhEFpJjEkeOgcyAMijuIX5x3FbLl27JW2ArM-1791774023-1.0.1.1-rPwmz63ibKZb4oOxZrRzk7ZtkZZJrcKiTCM5BYi07SM",
-    "pageLoadedAt": "2026-10-12T03:00:23.339Z",
-    "capturedAt": "2026-10-12T03:00:23.341Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=vdyD2vq6q3PPPHvBphbBky0In_OLlEPKcgPccOd8it4-1791774923-1.0.1.1-q.judg4Hn9jjqfMMRAMZrhDjaHPdLyKzzB2wTAnydkY",
+    "pageLoadedAt": "2026-10-12T03:15:23.705Z",
+    "capturedAt": "2026-10-12T03:15:23.707Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-12T03:00:35.745Z",
-    "capturedAt": "2026-10-12T03:00:35.747Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=zY8La3gZ6xxKyyzx112mlzJNmVcURpP1Eun__lre5Dw-1791774935-1.0.1.1-yaaofKc9qMe96f7RbKEAkRaT2gsCIVcZqo1.dbFgEzo",
+    "pageLoadedAt": "2026-10-12T03:15:35.936Z",
+    "capturedAt": "2026-10-12T03:15:35.937Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-12T03:00:48.102Z",
-    "capturedAt": "2026-10-12T03:00:48.105Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=V48B1JqgHou_KR9ZKm9s0FAQ5qtTZEdIjULpfN_NcSs-1791774947-1.0.1.1-T06DWbhh15_zg.kAfCrclD8DW7Lc2iD3TmUPxTHXVls",
+    "pageLoadedAt": "2026-10-12T03:15:47.697Z",
+    "capturedAt": "2026-10-12T03:15:47.699Z",
+    "sample": "Downdetector"
   }
 }
