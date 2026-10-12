@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:16:23.019Z",
+  "updated": "2026-10-12T12:31:21.315Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=t9szBTEY5EVrjb2iuUDERVVA2y1M2775oj6COzrecS8-1791807354-1.0.1.1-P0TFfIjBIU.Sl8ByXSeDlmrpjcyxmNDHvuyufXxfa98",
-    "pageLoadedAt": "2026-10-12T12:15:54.410Z",
-    "capturedAt": "2026-10-12T12:15:54.411Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=Pmaw.vyJFxf5zEEhuDilRbUpXwdNUne8qCXClv8dFVY-1791808255-1.0.1.1-0j8WvNvQp4EimyoHWdDjInFzkN7Jugt_vdNQDXDFIuQ",
+    "pageLoadedAt": "2026-10-12T12:30:55.286Z",
+    "capturedAt": "2026-10-12T12:30:55.287Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-12T12:16:10.274Z",
-    "capturedAt": "2026-10-12T12:16:10.280Z",
-    "sample": "Far EasTone Telecommunications (FET) 遠傳電信 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Far EasTone Telecommunications (FET) 遠傳電信 根據用戶回報，Far EasTone Telecommunications (FET) 遠傳電信 運作正常 Far EasTone Telecommunications 是一家位於台灣的電信公司。 回報問題 選擇適用的問題 帳單 簡訊 網站 行動網路 行動訊號 語音通話 跳至留言 過去 24 小時內回報的 Far EasTone Telecommunications (FET) 遠傳電信 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 你的意見回饋 你對過去 3 個月的 Far EasTone Telecommunications (FET) 遠傳電信 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應"
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=3DEhLljnHr8IQAJY15y1IMm7repVAXHrnBbXKFvfel0-1791808268-1.0.1.1-CXPrW9eJ2HgTR1U3p9ObAyklQyFVRaoaVQtR05oxPKQ",
+    "pageLoadedAt": "2026-10-12T12:31:08.601Z",
+    "capturedAt": "2026-10-12T12:31:08.602Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=JZ.gMw3u89lHaaGBhTFHt5ATpovEJRYrdueqpC0GMLU-1791807382-1.0.1.1-xRczMjOp5Njd.f5H8EREu15Zx0vGD_IMvzcKNQFa12k",
-    "pageLoadedAt": "2026-10-12T12:16:22.999Z",
-    "capturedAt": "2026-10-12T12:16:23.001Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=lVBiLP0EOcyEUhrCVB3sNhpSjH6ykomJdueyKL_pYSY-1791808281-1.0.1.1-vNNfIGR2Tn3DfcBGNyxgLHHmlhhQr0OBdYm10KtL2To",
+    "pageLoadedAt": "2026-10-12T12:31:21.305Z",
+    "capturedAt": "2026-10-12T12:31:21.308Z",
     "sample": "Downdetector"
   }
 }
