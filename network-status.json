@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:01:19.704Z",
+  "updated": "2026-10-13T23:16:32.375Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-13T23:00:54.953Z",
-    "capturedAt": "2026-10-13T23:00:54.956Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=NNRcQjC2Z71Unw5Pgs.CQ4gepQvs.ZVe1f.n7sztArk-1791933357-1.0.1.1-OcDCikL9XAsHDnDOz6p7gpD7MXhBXR8.QY5y2pH8OhA",
+    "pageLoadedAt": "2026-10-13T23:15:58.765Z",
+    "capturedAt": "2026-10-13T23:15:58.774Z",
+    "sample": "Downdetector"
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,9 +35,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=gQEOlXdwd.X0CEJrXzlr0gwFbdZtwebWXjhdK.hALkE-1791932467-1.0.1.1-1iO_dYTgBca3h3jdF.Kw8kyharJCyeIJ5vSh8eIcLxs",
-    "pageLoadedAt": "2026-10-13T23:01:07.001Z",
-    "capturedAt": "2026-10-13T23:01:07.004Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=ulTM4H45No0vIlCUtHZ2Ww2zEtqDoEizv1pj1hmLZtk-1791933373-1.0.1.1-lj7Qi2eZMLTKnskI6tt_AqztEVQ3RM2BM6A5wFc5BQ0",
+    "pageLoadedAt": "2026-10-13T23:16:14.333Z",
+    "capturedAt": "2026-10-13T23:16:14.334Z",
     "sample": "Downdetector"
   },
   "twm": {
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-13T23:01:19.637Z",
-    "capturedAt": "2026-10-13T23:01:19.639Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=LswlZCHdaWFxZsm6ljl0ztlMlch43Hu_Kr7.Yg.4n5M-1791933389-1.0.1.1-3fzeUmlnlTa_twFGd4jN_KgIMFukRRW_eaVnFqbh4Wo",
+    "pageLoadedAt": "2026-10-13T23:16:30.433Z",
+    "capturedAt": "2026-10-13T23:16:30.445Z",
+    "sample": "Downdetector"
   }
 }
