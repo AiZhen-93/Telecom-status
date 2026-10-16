@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:20:19.710Z",
+  "updated": "2026-10-16T00:35:21.083Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=R1JXnExSvXHcfkuUBTVyukdqjnnGSokBJUgjJ8WyvPM-1792109994-1.0.1.1-4Njj_QLqC9iKZIqx7rs07HvCTVJNKYr6iU.Hx0KOK4A",
-    "pageLoadedAt": "2026-10-16T00:19:54.693Z",
-    "capturedAt": "2026-10-16T00:19:54.695Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+    "pageLoadedAt": "2026-10-16T00:34:56.305Z",
+    "capturedAt": "2026-10-16T00:34:56.307Z",
+    "sample": "請稍候..."
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-16T00:20:07.222Z",
-    "capturedAt": "2026-10-16T00:20:07.224Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=SVhIZ_AknSc790fp5j_4Rlz76P0d4N3F5k7qvHD7udY-1792110908-1.0.1.1-XhuJXBMotsKxme92MxtxEwNGBbgdujeiHJGwhCfiEBM",
+    "pageLoadedAt": "2026-10-16T00:35:08.320Z",
+    "capturedAt": "2026-10-16T00:35:08.322Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-16T00:20:19.657Z",
-    "capturedAt": "2026-10-16T00:20:19.659Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=4xfy2qpCzRWoPKPA802fXuIWCKx7.l.zijJJlk29wNI-1792110921-1.0.1.1-SuwVzkG_IFCvvOejGOeSSZZMGytHvKnhtmpJVMarw5w",
+    "pageLoadedAt": "2026-10-16T00:35:21.067Z",
+    "capturedAt": "2026-10-16T00:35:21.068Z",
+    "sample": "Downdetector"
   }
 }
