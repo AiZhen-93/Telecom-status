@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:43:08.744Z",
+  "updated": "2026-10-16T08:58:08.779Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -17,8 +17,8 @@
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
     "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-16T08:42:43.203Z",
-    "capturedAt": "2026-10-16T08:42:43.205Z",
+    "pageLoadedAt": "2026-10-16T08:57:43.151Z",
+    "capturedAt": "2026-10-16T08:57:43.152Z",
     "sample": "請稍候..."
   },
   "fet": {
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-16T08:42:56.405Z",
-    "capturedAt": "2026-10-16T08:42:56.408Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=D_TWmcnFBnDwjEdPd89JPVQ9fzpSZ93LTHB3yK3Wj8M-1792141076-1.0.1.1-8YEAuWHBsBGV8GjLeYTuF92t.IPVmWanrDmMClViRqg",
+    "pageLoadedAt": "2026-10-16T08:57:56.022Z",
+    "capturedAt": "2026-10-16T08:57:56.023Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=Dius2KwzPQn9_GIBuSt0m6yx6vwLyRHvoPRsEqx34hQ-1792140188-1.0.1.1-taTdYlxnnzU5jNgE8n3L1xoBvhZL201ULn0VCJiwQ7I",
-    "pageLoadedAt": "2026-10-16T08:43:08.732Z",
-    "capturedAt": "2026-10-16T08:43:08.734Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
+    "pageLoadedAt": "2026-10-16T08:58:08.748Z",
+    "capturedAt": "2026-10-16T08:58:08.750Z",
+    "sample": "請稍候..."
   }
 }
