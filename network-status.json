@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T12:58:14.550Z",
+  "updated": "2026-10-16T13:13:16.518Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=dZm6g.Yj2cvwrnEReiqrA.Tsv7OocTijDjbOKpnDQBs-1792155471-1.0.1.1-LfRQyyJ1TlFb54eKxIAO3ml7OKtlPoNvEUH2QbIrVAc",
-    "pageLoadedAt": "2026-10-16T12:57:50.888Z",
-    "capturedAt": "2026-10-16T12:57:50.890Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+    "pageLoadedAt": "2026-10-16T13:12:52.942Z",
+    "capturedAt": "2026-10-16T13:12:52.949Z",
+    "sample": "請稍候..."
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,9 +35,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=dStE6mMMobg5bk3tMENvKnar_ib6rM4QWz_5E1wninQ-1792155483-1.0.1.1-jWV.I0AlRyJso126g0mOE5RqJIYlLDCk3MzExEcZmsk",
-    "pageLoadedAt": "2026-10-16T12:58:02.595Z",
-    "capturedAt": "2026-10-16T12:58:02.599Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=CVJbBse3YlpJcSz12_rYtg36J6Ej6QwX9XI2I_feoL8-1792156385-1.0.1.1-NkTdCoSnEXTE9pJDUaqlPMqRz_QQe9Cmbkq8ndP4fwA",
+    "pageLoadedAt": "2026-10-16T13:13:04.796Z",
+    "capturedAt": "2026-10-16T13:13:04.798Z",
     "sample": "Downdetector"
   },
   "twm": {
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=tb9SQuv3L91j0QQfvN9e6ZSCbp4oYavZOvFVuGOsh8A-1792155495-1.0.1.1-pshNp2jbYTLZLDnRu_DFtVmb3LQNFoeYuTvkNO8x2fw",
-    "pageLoadedAt": "2026-10-16T12:58:14.524Z",
-    "capturedAt": "2026-10-16T12:58:14.528Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=X_cgFrHwE6qIHF2f5G8vCENAWibB6CBkLILO7MQ1AFA-1792156397-1.0.1.1-vYKb.riZvPpMtbOk54tyOSeyB5sTFA4pnWRGo8X0laQ",
+    "pageLoadedAt": "2026-10-16T13:13:16.508Z",
+    "capturedAt": "2026-10-16T13:13:16.509Z",
     "sample": "Downdetector"
   }
 }
