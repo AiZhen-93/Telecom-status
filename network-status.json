@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:43:20.224Z",
+  "updated": "2026-10-16T13:58:19.114Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=EHe3Ju0EBaiztLTtQ1Q7g1.RY67.PKBVxg0ZG_tDkLE-1792158173-1.0.1.1-XqEp9mNAz.l7hzZR1mmxbeGMBXgp2yldXlYnfTQZBtg",
-    "pageLoadedAt": "2026-10-16T13:42:53.273Z",
-    "capturedAt": "2026-10-16T13:42:53.276Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=tdA3G0HYciuwWPYU6KQ.WNh6M64QlaR0QGp.xvUa.aU-1792159075-1.0.1.1-5h8R5QkocOdEmv99t50eIT.IIgC0wVdQ6Xx2atilCEo",
+    "pageLoadedAt": "2026-10-16T13:57:54.550Z",
+    "capturedAt": "2026-10-16T13:57:54.552Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -35,28 +35,28 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=c_iQN8CrzK5VCX4zGnbAwnvDCHiA_Ba4K80wGIKRtE0-1792158185-1.0.1.1-nACVXZsWy_PvF1KjBKct6_ESTwEJb2HRt9gB1n9oob8",
-    "pageLoadedAt": "2026-10-16T13:43:05.134Z",
-    "capturedAt": "2026-10-16T13:43:05.135Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=KzSxbSyEedwO0NQoA5VLzBXBCyBjbbkTPoQXxwajDiM-1792159087-1.0.1.1-o.kRG5odE720byoqWC.glzI7XSMDiUPOm2e6c3zTyig",
+    "pageLoadedAt": "2026-10-16T13:58:06.667Z",
+    "capturedAt": "2026-10-16T13:58:06.668Z",
     "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
     "reachable": true,
     "normalTextFound": true,
-    "reports": 8,
+    "reports": 0,
     "latestPointTime": null,
-    "reportCountSource": "browserText",
+    "reportCountSource": "normalTextFallback",
     "reportPointCount": 0,
     "topProblem": {
-      "share": 44,
-      "label": "行動網路"
+      "label": "",
+      "share": 0
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-16T13:43:20.205Z",
-    "capturedAt": "2026-10-16T13:43:20.208Z",
-    "sample": "Taiwan Mobile 台灣大哥大 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Taiwan Mobile 台灣大哥大 根據用戶回報，Taiwan Mobile 台灣大哥大 運作正常 台灣移動（中文：台灣大哥大；拼音：Táiwān Dàgēdà）是一家位於台灣的移動電話運營商。它是僅次於中華電信的第二大電信公司。 回報問題 選擇適用的問題 WiFi 寬頻網路 簡訊 行動支付 行動網路 行動訊號 語音通話 電視 跳至留言 過去 24 小時內回報的 Taiwan Mobile 台灣大哥大 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 44% 行動網路 28% 行動訊號 17% 行動支付 你的意見回饋 你對過去 3 個月的 Taiwan Mobile 台灣大哥大 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應用程式中提供 下載即可取得你最愛的 Downdetector 功能、涵蓋範圍地圖及更"
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=fHgGqE_GUmoZlgPukYdxfDHassw.aQ1wlcj4fLesaNg-1792159099-1.0.1.1-28AfoRRRRw4J8KNyawx_codCfebzNxREa1Hw.ePeUUs",
+    "pageLoadedAt": "2026-10-16T13:58:19.105Z",
+    "capturedAt": "2026-10-16T13:58:19.108Z",
+    "sample": "Downdetector"
   }
 }
