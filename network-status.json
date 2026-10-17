@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T06:44:33.557Z",
+  "updated": "2026-10-17T06:59:35.649Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=QfVMjlwb4nHRhcTgnDXIivV3bt3iOFvIbzRcJ.g3fX0-1792219448-1.0.1.1-JU9dIHhNWXxVZpiwLRnozBb09z24St0PhPY_fyIsl3o",
-    "pageLoadedAt": "2026-10-17T06:44:08.488Z",
-    "capturedAt": "2026-10-17T06:44:08.490Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=3Qz87d1lb6emCflnkVbCgaZXGV091evAt8ATBnKlMlU-1792220350-1.0.1.1-pUg2y4DETspHT_xaYjDRLw2MA19qu0gqMctV88Mg.PU",
+    "pageLoadedAt": "2026-10-17T06:59:10.115Z",
+    "capturedAt": "2026-10-17T06:59:10.119Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=VXo8cLPNYoVN9FZpyyk2vGaRaRhJo_RjTu8xS1U.vKA-1792219461-1.0.1.1-YwzIajMbVFuUGDXLcrKZvMu_Sg4a2rIR3iss7nrSCT8",
-    "pageLoadedAt": "2026-10-17T06:44:20.871Z",
-    "capturedAt": "2026-10-17T06:44:20.876Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
+    "pageLoadedAt": "2026-10-17T06:59:23.147Z",
+    "capturedAt": "2026-10-17T06:59:23.148Z",
+    "sample": "請稍候..."
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-17T06:44:33.496Z",
-    "capturedAt": "2026-10-17T06:44:33.498Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=XZZwAL50S1aEiBh7D7sVC7KdcGUsF.tnxBbuCmXZlWM-1792220376-1.0.1.1-d0vnRjq0fa6sJmbl_t6Hi1GsftUwcJFGQWK0_KdDCjY",
+    "pageLoadedAt": "2026-10-17T06:59:35.635Z",
+    "capturedAt": "2026-10-17T06:59:35.641Z",
+    "sample": "Downdetector"
   }
 }
