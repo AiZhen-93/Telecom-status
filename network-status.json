@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T01:26:29.980Z",
+  "updated": "2026-10-18T01:41:28.943Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-18T01:26:04.324Z",
-    "capturedAt": "2026-10-18T01:26:04.326Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=WWMWFdEAlPC2reUcBHerAfuPseoLiXWh1J3MDfSmbFs-1792287664-1.0.1.1-Q8sPPlHz0609WsO1nqq5H3bkcQdWe0gHIOMnP809MCA",
+    "pageLoadedAt": "2026-10-18T01:41:04.248Z",
+    "capturedAt": "2026-10-18T01:41:04.250Z",
+    "sample": "Downdetector"
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-18T01:26:17.053Z",
-    "capturedAt": "2026-10-18T01:26:17.055Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=rCdGwoRrVhmFQJMvoRv6.B8m_nLPpa5dSLXADTAN9u0-1792287677-1.0.1.1-JmPvIEf1QBuVDKpAsErRKrLe50TBuu0F9bK2qAQ3IWg",
+    "pageLoadedAt": "2026-10-18T01:41:16.684Z",
+    "capturedAt": "2026-10-18T01:41:16.685Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-18T01:26:29.920Z",
-    "capturedAt": "2026-10-18T01:26:29.922Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=ZhF.W7a8wDb4kD1l7kfL2kNBLIVW6cWBMo9fHxS48i0-1792287689-1.0.1.1-oWwmGZx9M1iLeNYZcqV2ced4xVxvm2wF2edz_Q0Ydws",
+    "pageLoadedAt": "2026-10-18T01:41:28.877Z",
+    "capturedAt": "2026-10-18T01:41:28.879Z",
+    "sample": "Downdetector"
   }
 }
