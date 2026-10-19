@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T05:19:44.402Z",
+  "updated": "2026-10-19T05:34:45.625Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=uA_BhzLsDiPwlS3UwHEgW4bXINOPXbDCDAwwftRL1Ms-1792387160-1.0.1.1-2RQdj5sWAtu35EAcePlJPO6vjtZ_XlHnLcaLNY1.Z8s",
-    "pageLoadedAt": "2026-10-19T05:19:19.707Z",
-    "capturedAt": "2026-10-19T05:19:19.708Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+    "pageLoadedAt": "2026-10-19T05:34:21.127Z",
+    "capturedAt": "2026-10-19T05:34:21.129Z",
+    "sample": "請稍候..."
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-19T05:19:32.420Z",
-    "capturedAt": "2026-10-19T05:19:32.423Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=D7gapTwbfeaFASO7wzGQu8Es75kV4IEYxXdX1618ys4-1792388073-1.0.1.1-pZ5OaKyf8m3AMbnNy4ZSq1CXicmaZj1ueqekqdTlmbo",
+    "pageLoadedAt": "2026-10-19T05:34:33.218Z",
+    "capturedAt": "2026-10-19T05:34:33.220Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=vDYfG0hLsq95bzsBzz9g7Fk.Mf0mYB9eoI8vMTDBOI4-1792387184-1.0.1.1-gE.bQ2dmYcCCEpBYhZHpUNPt_TA.G0mx8wxFryUOIF0",
-    "pageLoadedAt": "2026-10-19T05:19:44.327Z",
-    "capturedAt": "2026-10-19T05:19:44.328Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
+    "pageLoadedAt": "2026-10-19T05:34:45.596Z",
+    "capturedAt": "2026-10-19T05:34:45.599Z",
+    "sample": "請稍候..."
   }
 }
