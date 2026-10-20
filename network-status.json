@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:57:31.325Z",
+  "updated": "2026-10-20T18:12:30.951Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=eu6YcFSDIBiUN3c9_WzSyzRGuGOET4GFtni0iSw7KOU-1792519026-1.0.1.1-56jr_.LAm.XL8FFxfkcaMKlA_5qNXlTwhESjjbT4a8I",
-    "pageLoadedAt": "2026-10-20T17:57:05.844Z",
-    "capturedAt": "2026-10-20T17:57:05.846Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+    "pageLoadedAt": "2026-10-20T18:12:06.922Z",
+    "capturedAt": "2026-10-20T18:12:06.925Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-20T17:57:19.332Z",
-    "capturedAt": "2026-10-20T17:57:19.334Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=iGQgBWK6h4uGnhXn.1drPlWN2cf03WThi0udMhWbKkA-1792519939-1.0.1.1-a2TVb.dO6KN5H8MNesWsRPUlMCpMlBWblLvXUcGiC3A",
+    "pageLoadedAt": "2026-10-20T18:12:18.818Z",
+    "capturedAt": "2026-10-20T18:12:18.820Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=Y5_x54DyslcEv8wevRTYxed5UNHNKAJ65rQuhYdC7uI-1792519051-1.0.1.1-jlu.16J2wQXjk_qSUtkc0_a3H6nB1r5M.p8tmFvlRDQ",
-    "pageLoadedAt": "2026-10-20T17:57:31.317Z",
-    "capturedAt": "2026-10-20T17:57:31.320Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=eRUzuNIMCyhxMCDlK8E5yv8ZrZpbZbUfDkWsoJAebAE-1792519951-1.0.1.1-oib1iuuuyCqep_NA1NlruAD76e9hcDZiyrJIOt1bVMw",
+    "pageLoadedAt": "2026-10-20T18:12:30.922Z",
+    "capturedAt": "2026-10-20T18:12:30.923Z",
     "sample": "Downdetector"
   }
 }
