@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T00:27:51.402Z",
+  "updated": "2026-10-21T00:42:52.525Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=hfC6jhSHooYiddPEYh7x4J7IOKEK0lTKjatZGCX4m_o-1792542446-1.0.1.1-tY37YlrTcLI8gMSlUxovVbLSZIIK.tVVgoEAZoq_GiM",
-    "pageLoadedAt": "2026-10-21T00:27:26.392Z",
-    "capturedAt": "2026-10-21T00:27:26.394Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+    "pageLoadedAt": "2026-10-21T00:42:27.713Z",
+    "capturedAt": "2026-10-21T00:42:27.715Z",
+    "sample": "請稍候..."
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,9 +35,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-21T00:27:39.169Z",
-    "capturedAt": "2026-10-21T00:27:39.171Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=CRe1sVLqNZ6yaMOIwIMzxSe77L5FejygcmhUCVRasFE-1792543359-1.0.1.1-uPhCNg2dJCF.SWecm63IoIdGlALi6OOYnra4bNj6n8A",
+    "pageLoadedAt": "2026-10-21T00:42:39.618Z",
+    "capturedAt": "2026-10-21T00:42:39.623Z",
     "sample": "Downdetector"
   },
   "twm": {
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=uTwU6TVOypyeXgBho5HchYL.bolZK32R2hX7quJVgrU-1792542471-1.0.1.1-rmNd3BMqBO.H.MIEJG2jtyrZ1qwKjMB3Y596go9XObE",
-    "pageLoadedAt": "2026-10-21T00:27:51.395Z",
-    "capturedAt": "2026-10-21T00:27:51.396Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
+    "pageLoadedAt": "2026-10-21T00:42:52.473Z",
+    "capturedAt": "2026-10-21T00:42:52.475Z",
+    "sample": "請稍候..."
   }
 }
