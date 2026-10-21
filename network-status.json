@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T00:12:52.192Z",
+  "updated": "2026-10-21T00:27:51.402Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,9 +16,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=Vyl7VaWddGFsm96Ahtddy3CnzeVAt1iLFsfSjKbs8Yw-1792541545-1.0.1.1-5sejK8RpSNdatDcM52JE8t6DD3NIop3IvR.0.1T0twA",
-    "pageLoadedAt": "2026-10-21T00:12:25.663Z",
-    "capturedAt": "2026-10-21T00:12:25.665Z",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=hfC6jhSHooYiddPEYh7x4J7IOKEK0lTKjatZGCX4m_o-1792542446-1.0.1.1-tY37YlrTcLI8gMSlUxovVbLSZIIK.tVVgoEAZoq_GiM",
+    "pageLoadedAt": "2026-10-21T00:27:26.392Z",
+    "capturedAt": "2026-10-21T00:27:26.394Z",
     "sample": "Downdetector"
   },
   "fet": {
@@ -35,9 +35,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=sbD6DkFaKp5DBe7UF6pEnAIRRDLIQvHZIGauNda_G5k-1792541558-1.0.1.1-BqT3okJwnrtGluTwBxdnycaln8_Ywlz..bbss9Cd0r0",
-    "pageLoadedAt": "2026-10-21T00:12:38.761Z",
-    "capturedAt": "2026-10-21T00:12:38.763Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
+    "pageLoadedAt": "2026-10-21T00:27:39.169Z",
+    "capturedAt": "2026-10-21T00:27:39.171Z",
     "sample": "Downdetector"
   },
   "twm": {
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=olnLIdrU8Fvc9CuD.X.XLm17HQRawdDaPtnARhx3kxs-1792541571-1.0.1.1-LFPXaXfhYovCQRYJfXc6X85qBAq_EHITLfWIQoX2eNE",
-    "pageLoadedAt": "2026-10-21T00:12:51.635Z",
-    "capturedAt": "2026-10-21T00:12:51.637Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=uTwU6TVOypyeXgBho5HchYL.bolZK32R2hX7quJVgrU-1792542471-1.0.1.1-rmNd3BMqBO.H.MIEJG2jtyrZ1qwKjMB3Y596go9XObE",
+    "pageLoadedAt": "2026-10-21T00:27:51.395Z",
+    "capturedAt": "2026-10-21T00:27:51.396Z",
     "sample": "Downdetector"
   }
 }
