@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T10:27:32.898Z",
+  "updated": "2026-10-22T10:42:33.977Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-22T10:27:32.845Z",
-    "capturedAt": "2026-10-22T10:27:32.847Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=AgmCT7PC6ee.pxNbn0vvRe6FAUVVxs6zDCOC8YOmYyc-1792665754-1.0.1.1-g1wJ4nxHUcfZhba2fI5OeGeQrJV6ai3efrexPvv9qrg",
+    "pageLoadedAt": "2026-10-22T10:42:33.934Z",
+    "capturedAt": "2026-10-22T10:42:33.936Z",
+    "sample": "Downdetector"
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,9 +35,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=.4jzIiSnEDUqbQFZBpdV1MZnWSXphL3VpGdJ199PNqQ-1792663965-1.0.1.1-VwnVc416rwojBfsOKjx6zzIhW6Y3iCvkbowxLVpQ2Xw",
-    "pageLoadedAt": "2026-10-22T10:12:44.961Z",
-    "capturedAt": "2026-10-22T10:12:44.963Z",
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=unnoPCgYMz.vb7RfnkAic7YfbgJu2bAYnGaDl36.hNs-1792664865-1.0.1.1-QN6UTe.jJ74bM5fGJMAfGYfn8R23waj4stjSKW4ttUg",
+    "pageLoadedAt": "2026-10-22T10:27:45.088Z",
+    "capturedAt": "2026-10-22T10:27:45.093Z",
     "sample": "Downdetector"
   },
   "twm": {
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/",
-    "pageLoadedAt": "2026-10-22T10:12:58.359Z",
-    "capturedAt": "2026-10-22T10:12:58.361Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=KMbX43Z8N7c5awzd1L6OJOz0_vLnP1zl7_.XC1cKAi8-1792664878-1.0.1.1-V7SCrxLBnRWE3WUnXTYP55CEplysu6ZL2kR8yVrEYAk",
+    "pageLoadedAt": "2026-10-22T10:27:58.123Z",
+    "capturedAt": "2026-10-22T10:27:58.124Z",
+    "sample": "Downdetector"
   }
 }
