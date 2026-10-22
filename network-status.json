@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T09:57:31.574Z",
+  "updated": "2026-10-22T10:12:31.826Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -17,8 +17,8 @@
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
     "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-22T09:57:31.527Z",
-    "capturedAt": "2026-10-22T09:57:31.529Z",
+    "pageLoadedAt": "2026-10-22T10:12:31.768Z",
+    "capturedAt": "2026-10-22T10:12:31.770Z",
     "sample": "請稍候..."
   },
   "fet": {
@@ -36,9 +36,9 @@
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
     "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-22T09:42:45.356Z",
-    "capturedAt": "2026-10-22T09:42:45.483Z",
-    "sample": "Far EasTone Telecommunications (FET) 遠傳電信 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Far EasTone Telecommunications (FET) 遠傳電信 根據用戶回報，Far EasTone Telecommunications (FET) 遠傳電信 運作正常 Far EasTone Telecommunications 是一家位於台灣的電信公司。 回報問題 選擇適用的問題 帳單 簡訊 網站 行動網路 行動訊號 語音通話 跳至留言 過去 24 小時內回報的 Far EasTone Telecommunications (FET) 遠傳電信 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 你的意見回饋 你對過去 3 個月的 Far EasTone Telecommunications (FET) 遠傳電信 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應"
+    "pageLoadedAt": "2026-10-22T09:57:44.984Z",
+    "capturedAt": "2026-10-22T09:57:44.986Z",
+    "sample": "請稍候..."
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=o5mNs5F_f35G_w0ZTxNLza27dJhRWwaa4SAWz0avTdY-1792662178-1.0.1.1-EffQcJiNecZzV3GwTEKqHp0bZRgKB5s1PCLaQHnYJIQ",
-    "pageLoadedAt": "2026-10-22T09:42:58.439Z",
-    "capturedAt": "2026-10-22T09:42:58.442Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=LhjFYGHjqwWpqjdlXbLn9RG.Vg8xDg918wClZyqSRZE-1792663078-1.0.1.1-by8hxRNlTR6Ci5Kc0gSiE2quZ_AUNoreynAKz9ZXva0",
+    "pageLoadedAt": "2026-10-22T09:57:58.041Z",
+    "capturedAt": "2026-10-22T09:57:58.043Z",
     "sample": "Downdetector"
   }
 }
