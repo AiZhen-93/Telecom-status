@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T07:27:25.215Z",
+  "updated": "2026-10-22T07:42:24.884Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
@@ -16,10 +16,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
-    "pageLoadedAt": "2026-10-22T07:27:25.108Z",
-    "capturedAt": "2026-10-22T07:27:25.110Z",
-    "sample": "請稍候..."
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=Uj0hb7FF7VbJZiWxV972zEeCr85HrEHp4yCC22qu1iQ-1792654944-1.0.1.1-jBHxNgZDGLkXfOuNJhA5.FQBmy45wEzYj4r1msGrK3M",
+    "pageLoadedAt": "2026-10-22T07:42:24.815Z",
+    "capturedAt": "2026-10-22T07:42:24.817Z",
+    "sample": "Downdetector"
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=wT.1.vwHcfBMTJYyv9f0WL_JHA3FEhluKOJxuF.lfGk-1792653156-1.0.1.1-xIkOkpkViSjYc8_bHAlE_IKMpQhOwQobkYMGw5bnZFI",
-    "pageLoadedAt": "2026-10-22T07:12:36.947Z",
-    "capturedAt": "2026-10-22T07:12:36.949Z",
-    "sample": "Downdetector"
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
+    "pageLoadedAt": "2026-10-22T07:27:38.328Z",
+    "capturedAt": "2026-10-22T07:27:38.332Z",
+    "sample": "請稍候..."
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=fYgyQS2JB_oqqNkjxQKGFltaF2gEl8oUrWfzJ9yWTyI-1792653168-1.0.1.1-g1JUq49K4oxW1mXvc7Nz9Cmqzh9T.5xlzz7RuQXUpJQ",
-    "pageLoadedAt": "2026-10-22T07:12:49.358Z",
-    "capturedAt": "2026-10-22T07:12:49.361Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=UOl54RoEzm4YQ8rGr9vUFQV7POniSOWc4NehQUxinvM-1792654069-1.0.1.1-MBjHBisRan44EBuheKlbjYCug_5tuc3IxrvJNl.2YnM",
+    "pageLoadedAt": "2026-10-22T07:27:50.027Z",
+    "capturedAt": "2026-10-22T07:27:50.029Z",
     "sample": "Downdetector"
   }
 }
