@@ -1,25 +1,25 @@
 {
-  "updated": "2026-10-22T13:27:39.878Z",
+  "updated": "2026-10-22T13:42:42.608Z",
   "mode": "local-browser-bridge",
   "source": "downdetector.tw",
   "cht": {
     "name": "中華電信",
     "reachable": true,
-    "normalTextFound": true,
-    "reports": 0,
+    "normalTextFound": false,
+    "reports": 83,
     "latestPointTime": null,
-    "reportCountSource": "normalTextFallback",
+    "reportCountSource": "browserText",
     "reportPointCount": 0,
     "topProblem": {
-      "label": "",
-      "share": 0
+      "share": 57,
+      "label": "行動網路"
     },
-    "level": "green",
-    "message": "根據用戶回報，中華電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/?__cf_chl_rt_tk=GAUbcqXE15o9uaUt0RIl5iYiy9mSG.4Bi8nTf0LXnFQ-1792675660-1.0.1.1-a.1WSViGhxv8suDn.1WT5ELsFckWCymFBL3wirMS46E",
-    "pageLoadedAt": "2026-10-22T13:27:39.865Z",
-    "capturedAt": "2026-10-22T13:27:39.867Z",
-    "sample": "Downdetector"
+    "level": "red",
+    "message": "根據用戶回報，中華電信 可能發生重大異常",
+    "sourceUrl": "https://downdetector.tw/status/chunghwa-telecom-zhong-hua-dian-xin/",
+    "pageLoadedAt": "2026-10-22T13:42:42.576Z",
+    "capturedAt": "2026-10-22T13:42:42.595Z",
+    "sample": "Chunghwa Telecom 中華電信 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Chunghwa Telecom 中華電信 根據用戶回報，Chunghwa Telecom 中華電信 出現問題 中華電信是台灣最大的綜合電信服務供應商，在國內和國際固定通信、移動通信、寬帶和互聯網服務方面具有領先地位。 回報問題 選擇適用的問題 WiFi 寬頻網路 簡訊 行動支付 行動網路 行動訊號 語音通話 電視 跳至留言 過去 24 小時內回報的 Chunghwa Telecom 中華電信 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 最多回報的問題 57% 行動網路 27% 行動訊號 8% 寬頻網路 你的意見回饋 你對過去 3 個月的 Chunghwa Telecom 中華電信 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應用程式中提供 下載即可取得你最愛的 Downdetector 功能、涵蓋範圍地圖及更多內容"
   },
   "fet": {
     "name": "遠傳電信",
@@ -35,10 +35,10 @@
     },
     "level": "green",
     "message": "根據用戶回報，遠傳電信 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/",
-    "pageLoadedAt": "2026-10-22T13:12:55.258Z",
-    "capturedAt": "2026-10-22T13:12:55.261Z",
-    "sample": "Far EasTone Telecommunications (FET) 遠傳電信 故障？目前的問題及服務中斷 | Downdetector TW 略過至主要內容 台湾 中文 商務版 關於我們 返回首頁 / Far EasTone Telecommunications (FET) 遠傳電信 根據用戶回報，Far EasTone Telecommunications (FET) 遠傳電信 運作正常 Far EasTone Telecommunications 是一家位於台灣的電信公司。 回報問題 選擇適用的問題 帳單 簡訊 網站 行動網路 行動訊號 語音通話 跳至留言 過去 24 小時內回報的 Far EasTone Telecommunications (FET) 遠傳電信 問題 了解統計方式 Downdetector Explorer 企業版 需要業務用的服務中斷資訊嗎？ Downdetector Explorer 幫助企業快速解決問題、減少服務停機時間，並改善平均解決時間。 探索 Downdetector Explorer 回報地圖 查看地圖 你的意見回饋 你對過去 3 個月的 Far EasTone Telecommunications (FET) 遠傳電信 服務評價如何？ 提交 請先選擇評價 在社群媒體上追蹤我們 Downdetector® 現已在 Speedtest® 應"
+    "sourceUrl": "https://downdetector.tw/status/far-eastone-telecommunications-fet-yuan-chuan-dian-xin/?__cf_chl_rt_tk=yq3XX9p9DHUA9SY1oLxhrE88Jh1.2rp9w9ebRB9AUZ4-1792675672-1.0.1.1-BBxS5gtOcQ8Kkm7IMm9W0ptOondQPQgS5i7aIKXFSPQ",
+    "pageLoadedAt": "2026-10-22T13:27:52.270Z",
+    "capturedAt": "2026-10-22T13:27:52.275Z",
+    "sample": "Downdetector"
   },
   "twm": {
     "name": "台灣大哥大",
@@ -54,9 +54,9 @@
     },
     "level": "green",
     "message": "根據用戶回報，台灣大哥大 連線正常",
-    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=8LbwZZy0vehpqU0ddqp4t9w5HYXNoNJwINIRqbki7N4-1792674788-1.0.1.1-mKcwv.c9AjHyuckeNO9fjgOZyjFmMVYV36_CDN2nTmc",
-    "pageLoadedAt": "2026-10-22T13:13:07.941Z",
-    "capturedAt": "2026-10-22T13:13:07.944Z",
+    "sourceUrl": "https://downdetector.tw/status/taiwan-mobile-tai-wan-da-ge-da/?__cf_chl_rt_tk=JJfv22Kjq58KaUgpHeN2AezX.ydjermLxNd8Tb_VEFk-1792675686-1.0.1.1-fkNxgpXC4bpetfhKtXZCbekTO1fEI_CK2uIkvAQSffg",
+    "pageLoadedAt": "2026-10-22T13:28:05.828Z",
+    "capturedAt": "2026-10-22T13:28:05.832Z",
     "sample": "Downdetector"
   }
 }
